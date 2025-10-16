@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <!-- Sequence for Work Ticket ID -->
+    <record id="seq_project_task_work_ticket" model="ir.sequence">
+        <field name="name">Work Ticket ID</field>
+        <field name="code">project.task.work.ticket</field>
+        <field name="prefix">WT-%(year)s-</field>
+        <field name="padding">3</field>
+        <field name="number_next_actual">1</field>
+        <field name="company_id" eval="False"/>
+    </record>
+</odoo>

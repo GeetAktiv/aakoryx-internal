@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="1">
+
+        <!-- A. V. Lauttamus Communications, Inc. - 2 Way Radio, Timesheet Billable Service Product-->
+        <record id="industry_fsm_sale.field_service_product" model="product.product">
+            <field name="name">Field Service - 2 Way Radio</field>
+            <field name="project_id" search="[('id', '=?', ref('aak_sales_data.fsm_project_2way_radio_service', raise_if_not_found=False)), ('is_fsm', '=', True)]"/>
+        </record>
+
+        <!-- A. V. Lauttamus Communications, Inc. - Answering Service, Timesheet Billable Service Product-->
+        <record id="field_service_product_answering_service" model="product.product">
+            <field name="name">Field Service - Answering Service</field>
+            <field name="project_id" search="[('id', '=?', ref('aak_sales_data.fsm_project_answering_service_service', raise_if_not_found=False)), ('is_fsm', '=', True)]"/>
+            <field name="service_tracking">task_global_project</field>
+            <field name="type">service</field>
+            <field name="list_price">100</field>
+            <field name="uom_id" ref="uom.product_uom_hour"/>
+            <field name="uom_po_id" ref="uom.product_uom_hour"/>
+            <field name="service_policy">delivered_timesheet</field>
+            <field name="image_1920" type="base64" file="sale_timesheet/static/img/product_product_time_product.png"/>
+        </record>
+
+        <!-- A. V. Lauttamus Communications, Inc. - Paging, Timesheet Billable Service Product-->
+        <record id="field_service_product_paging" model="product.product">
+            <field name="name">Field Service - Paging</field>
+            <field name="project_id" search="[('id', '=?', ref('aak_sales_data.fsm_project_paging_service', raise_if_not_found=False)), ('is_fsm', '=', True)]"/>
+            <field name="service_tracking">task_global_project</field>
+            <field name="type">service</field>
+            <field name="list_price">100</field>
+            <field name="uom_id" ref="uom.product_uom_hour"/>
+            <field name="uom_po_id" ref="uom.product_uom_hour"/>
+            <field name="service_policy">delivered_timesheet</field>
+            <field name="image_1920" type="base64" file="sale_timesheet/static/img/product_product_time_product.png"/>
+        </record>
+
+        <!-- A. V. Lauttamus Communications, Inc. - Security Service, Timesheet Billable Service Product-->
+        <record id="field_service_product_security_service" model="product.product">
+            <field name="name">Field Service - Security Service</field>
+            <field name="project_id" search="[('id', '=?', ref('aak_sales_data.fsm_project_security_service_service', raise_if_not_found=False)), ('is_fsm', '=', True)]"/>
+            <field name="service_tracking">task_global_project</field>
+            <field name="type">service</field>
+            <field name="list_price">100</field>
+            <field name="uom_id" ref="uom.product_uom_hour"/>
+            <field name="uom_po_id" ref="uom.product_uom_hour"/>
+            <field name="service_policy">delivered_timesheet</field>
+            <field name="image_1920" type="base64" file="sale_timesheet/static/img/product_product_time_product.png"/>
+        </record>
+	</data>
+</odoo>

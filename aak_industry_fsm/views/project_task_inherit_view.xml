@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <record id="view_task_form_inherit_schedule_date_action" model="ir.ui.view">
+        <field name="name">project.task.form.inherit.schedule.date.action</field>
+        <field name="model">project.task</field>
+        <field name="inherit_id" ref="industry_fsm.view_task_form2_inherit"/>
+        <field name="arch" type="xml">
+            <xpath expr="//button[@name='action_fsm_validate']" position="after">
+                <!-- Calls your action_wizard_set_visit_date -->
+                <button type="action"
+                        name="%(action_wizard_set_visit_date)d"
+                        string="Schedule Date"
+                        class="btn btn-primary"
+                />
+            </xpath>
+        </field>
+    </record>
+</odoo>

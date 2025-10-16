@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<odoo>
+    <record id="action_crm_lead_phone_call_send_ack" model="ir.actions.server">
+        <field name="name">Execute Code</field>
+        <field name="model_id" ref="mail.model_mail_activity"/>
+        <field name="code">
+if record.activity_type_id.category == 'phonecall' and record.res_model == 'crm.lead':
+    rec = env['crm.lead'].browse(record.res_id)
+    if rec.message_ids.filtered(lambda m: record.summary in m.body):
+        env.ref('aak_crm_done_activity_ack.mail_template_crm_lead_call_activity_done_ack').send_mail(record.res_id)
+        </field>
+        <field name="state">code</field>
+        <field name="base_automation_id" ref="aak_crm_done_activity_ack.base_automation_crm_lead_send_call_activity_ack"/>
+    </record>
+</odoo>

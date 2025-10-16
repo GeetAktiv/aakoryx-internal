@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="1">
+
+        <!-- Enable Purchase Order Approval for all companies -->
+        <record id="base.main_company" model="res.company">
+            <field name="po_double_validation">two_step</field>
+        </record>
+
+        <record id="aak_base_data.lauttamus_security_llc_company" model="res.company">
+            <field name="po_double_validation">two_step</field>
+        </record>
+
+        <record id="aak_base_data.triconnex_lp_company" model="res.company">
+            <field name="po_double_validation">two_step</field>
+        </record>
+
+    </data>
+</odoo>

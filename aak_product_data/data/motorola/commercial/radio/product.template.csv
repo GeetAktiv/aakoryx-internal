@@ -1,0 +1,14 @@
+id,name,description,default_code,is_storable,tracking,categ_id:id
+product_template_bpr50_dx,BPR50 dX Digital,,,TRUE,none,aak_product_data.product_category_motorola_commercial_radio
+product_template_bpr50_dx_digital,BPR40d,,,TRUE,none,aak_product_data.product_category_motorola_commercial_radio
+product_template_bpr40d,BPR40,,,TRUE,none,aak_product_data.product_category_motorola_commercial_radio
+product_template_bpr40,CP100d,,,TRUE,none,aak_product_data.product_category_motorola_commercial_radio
+product_template_cp100d,R2,,,TRUE,none,aak_product_data.product_category_motorola_commercial_radio
+product_template_r2,SL300,,,TRUE,none,aak_product_data.product_category_motorola_commercial_radio
+product_template_sl300,EVX-S24,,,TRUE,none,aak_product_data.product_category_motorola_commercial_radio
+product_template_evx_s24,CM200d,,,TRUE,none,aak_product_data.product_category_motorola_commercial_radio
+product_template_cm200d,CM300d,,,TRUE,none,aak_product_data.product_category_motorola_commercial_radio
+product_template_cm300d,VT100 BWC R US,,,TRUE,none,aak_product_data.product_category_motorola_commercial_radio
+product_template_vt100_bwc_r_us,V200 BWC R US,,,TRUE,none,aak_product_data.product_category_motorola_commercial_radio
+product_template_v200_bwc_r_us,VB400 BWC R US,,,TRUE,none,aak_product_data.product_category_motorola_commercial_radio
+product_template_vb400_bwc_r_us,MINITOR 7 Receiver,,,TRUE,none,aak_product_data.product_category_motorola_commercial_radio

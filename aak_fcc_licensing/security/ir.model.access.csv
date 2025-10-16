@@ -1,0 +1,7 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_fcc_licensing_sale_manager,fcc.licensing.sale.manager,model_fcc_licensing,sales_team.group_sale_manager,1,1,1,1
+access_fcc_licensing_general_manager,fcc.licensing.general.manager,model_fcc_licensing,aak_base_data.group_service_general_manager,1,1,1,1
+access_fcc_licensing_president,fcc.licensing.president,model_fcc_licensing,aak_base_data.group_service_inventory_president,1,1,1,1
+access_upload_licence_sale_manager,upload.licence.sale.manager,model_upload_licence,sales_team.group_sale_manager,1,1,1,1
+access_upload_licence_general_manager,upload.licence.general.manager,model_upload_licence,aak_base_data.group_service_general_manager,1,1,1,1
+access_upload_licence_president,upload.licence.president,model_upload_licence,aak_base_data.group_service_inventory_president,1,1,1,1

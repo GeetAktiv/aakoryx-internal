@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <!-- Sales / User: Own Documents Only -->
+        <record id="sales_team.group_sale_salesman" model="res.groups">
+            <field name="users" eval="[
+            ]"/>
+        </record>
+
+        <!-- Sales / User: All Documents -->
+        <record id="sales_team.group_sale_salesman_all_leads" model="res.groups">
+            <field name="users" eval="[
+                (Command.LINK, ref('aak_base_data.res_users_bill_gras')),
+                (Command.LINK, ref('aak_base_data.res_users_bob_mead')),
+                (Command.LINK, ref('aak_base_data.res_users_connor_mogan')),
+                (Command.LINK, ref('aak_base_data.res_users_jim_kaczynski')),
+                (Command.LINK, ref('aak_base_data.res_users_john_gross')),
+                (Command.LINK, ref('aak_base_data.res_users_roger_cowan')),
+                (Command.LINK, ref('aak_base_data.res_users_tim_smith')),
+                (Command.LINK, ref('aak_base_data.res_users_todd_wotring')),
+                (Command.LINK, ref('aak_base_data.res_users_wayne_wells')),
+            ]"/>
+        </record>
+
+        <!-- Sales / Administrator -->
+        <record id="sales_team.group_sale_manager" model="res.groups">
+            <field name="users" eval="[
+                (Command.LINK, ref('aak_base_data.res_users_paul_lauttamus')),
+                (Command.LINK, ref('aak_base_data.res_users_tracey_kinder')),
+            ]"/>
+        </record>
+
+        <!-- Administration / Access Rights -->
+        <record id="base.group_erp_manager" model="res.groups">
+            <field name="users" eval="[
+                (Command.LINK, ref('aak_base_data.res_users_paul_lauttamus')),
+            ]"/>
+        </record>
+
+        <!-- Administration / Settings -->
+        <record id="base.group_system" model="res.groups">
+            <field name="users" eval="[
+                (Command.LINK, ref('aak_base_data.res_users_cory_wilkerson')),
+                (Command.LINK, ref('aak_base_data.res_users_gage_yost')),
+            ]"/>
+        </record>
+    </data>
+</odoo>

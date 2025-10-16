@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="1">
+        <record id="sales_team.team_sales_department" model="crm.team">
+            <field name="name">2 Way Radio</field>
+            <field name="company_id" ref="base.main_company"/>
+            <field name="user_id" ref="aak_base_data.res_users_tracey_kinder"/>
+            <field name="use_leads" eval="True"/>
+        </record>
+
+        <record id="team_avlc_paging" model="crm.team">
+            <field name="name">Paging</field>
+            <field name="sequence">0</field>
+            <field name="company_id" ref="base.main_company"/>
+            <field name="user_id" ref="aak_base_data.res_users_tracey_kinder"/>
+            <field name="use_leads" eval="True"/>
+        </record>
+
+        <record id="team_avlc_answering_service" model="crm.team">
+            <field name="name">Answering Service</field>
+            <field name="sequence">0</field>
+            <field name="company_id" ref="base.main_company"/>
+            <field name="user_id" ref="aak_base_data.res_users_tracey_kinder"/>
+            <field name="use_leads" eval="True"/>
+        </record>
+
+        <record id="team_avlc_security_service" model="crm.team">
+            <field name="name">Security Service</field>
+            <field name="sequence">0</field>
+            <field name="company_id" ref="base.main_company"/>
+            <field name="user_id" ref="aak_base_data.res_users_tracey_kinder"/>
+            <field name="use_leads" eval="True"/>
+        </record>
+
+        <record id="team_ls_2wayradio" model="crm.team">
+            <field name="name">2 Way Radio</field>
+            <field name="sequence">0</field>
+            <field name="company_id" ref="aak_base_data.lauttamus_security_llc_company"/>
+            <field name="user_id" ref="aak_base_data.res_users_tracey_kinder"/>
+            <field name="use_leads" eval="True"/>
+        </record>
+
+        <record id="team_ls_paging" model="crm.team">
+            <field name="name">Paging</field>
+            <field name="sequence">0</field>
+            <field name="company_id" ref="aak_base_data.lauttamus_security_llc_company"/>
+            <field name="user_id" ref="aak_base_data.res_users_tracey_kinder"/>
+            <field name="use_leads" eval="True"/>
+        </record>
+
+        <record id="team_ls_answering_service" model="crm.team">
+            <field name="name">Answering Service</field>
+            <field name="sequence">0</field>
+            <field name="company_id" ref="aak_base_data.lauttamus_security_llc_company"/>
+            <field name="user_id" ref="aak_base_data.res_users_tracey_kinder"/>
+            <field name="use_leads" eval="True"/>
+        </record>
+
+        <record id="team_ls_security_service" model="crm.team">
+            <field name="name">Security Service</field>
+            <field name="sequence">0</field>
+            <field name="company_id" ref="aak_base_data.lauttamus_security_llc_company"/>
+            <field name="user_id" ref="aak_base_data.res_users_tracey_kinder"/>
+            <field name="use_leads" eval="True"/>
+        </record>
+
+        <record id="team_tc_2wayradio" model="crm.team">
+            <field name="name">2 Way Radio</field>
+            <field name="sequence">0</field>
+            <field name="company_id" ref="aak_base_data.triconnex_lp_company"/>
+            <field name="user_id" ref="aak_base_data.res_users_tracey_kinder"/>
+            <field name="use_leads" eval="True"/>
+        </record>
+
+        <record id="team_tc_paging" model="crm.team">
+            <field name="name">Paging</field>
+            <field name="sequence">0</field>
+            <field name="company_id" ref="aak_base_data.triconnex_lp_company"/>
+            <field name="user_id" ref="aak_base_data.res_users_tracey_kinder"/>
+            <field name="use_leads" eval="True"/>
+        </record>
+
+        <record id="team_tc_answering_service" model="crm.team">
+            <field name="name">Answering Service</field>
+            <field name="sequence">0</field>
+            <field name="company_id" ref="aak_base_data.triconnex_lp_company"/>
+            <field name="user_id" ref="aak_base_data.res_users_tracey_kinder"/>
+            <field name="use_leads" eval="True"/>
+        </record>
+
+        <record id="team_tc_security_service" model="crm.team">
+            <field name="name">Security Service</field>
+            <field name="sequence">0</field>
+            <field name="company_id" ref="aak_base_data.triconnex_lp_company"/>
+            <field name="user_id" ref="aak_base_data.res_users_tracey_kinder"/>
+            <field name="use_leads" eval="True"/>
+        </record>
+    </data>
+</odoo>

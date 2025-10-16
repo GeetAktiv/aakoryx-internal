@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <function name="toggle_noupdate"
+            model="ir.model.data"
+            eval="['res.partner', ref('base.main_partner')]"/>
+    
+        <record id="base.main_partner" model="res.partner">
+            <field name="name">A. V. Lauttamus Communications, Inc.</field>
+            <field name="street"></field>
+            <field name="city">Weirton</field>
+            <field name="state_id" ref="base.state_us_49"/>
+            <field name="zip">26062-4205</field>
+            <field name="phone"></field>
+            <field name="image_1920" type="base64" file="aak_base_data/static/img/Lauttamus_LOGO_lg.jpg"/>
+            <field name="vat">1025-7206</field>
+        </record>
+
+        <function name="toggle_noupdate"
+            model="ir.model.data"
+            eval="['res.partner', ref('base.main_partner')]"/>
+    </data>
+    <data noupdate="True">
+        <record id="lauttamus_security_llc_partner" model="res.partner" context="{'default_is_company': True}">
+            <field name="name">LAUTTAMUS SECURITY, LLC</field>
+            <field name="company_id" eval="None"/>
+            <field name="is_company" eval="True"/>
+            <field name="street"></field>
+            <field name="city"></field>
+            <field name="zip"></field>
+            <field name="phone"></field>
+            <field name="image_1920" type="base64" file="base/static/img/res_company_logo.png"/>
+        </record>
+
+        <record id="triconnex_lp_partner" model="res.partner" context="{'default_is_company': True}">
+            <field name="name">TRICONNEX, LP</field>
+            <field name="company_id" eval="None"/>
+            <field name="is_company" eval="True"/>
+            <field name="street">1000 Colliers Way</field>
+            <field name="city">Weirton</field>
+            <field name="state_id" ref="base.state_us_49"/>
+            <field name="zip">26062-5027</field>
+            <field name="phone"></field>
+            <field name="image_1920" type="base64" file="base/static/img/res_company_logo.png"/>
+            <field name="vat">2467-6750</field>
+        </record>
+    </data>
+</odoo>

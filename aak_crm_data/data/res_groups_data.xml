@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <function name="_apply_group" model="res.groups">
+            <value eval="ref('base.group_user')"/>
+            <value model="res.groups" eval="obj().browse(ref('crm.group_use_lead'))"/>
+        </function>
+    </data>
+</odoo>

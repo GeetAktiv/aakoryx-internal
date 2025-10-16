@@ -1,0 +1,7 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_component_list_manager,access.component.list.manager,model_component_list,base.group_system,1,1,1,1
+access_component_list_user,access.component.list.user,model_component_list,base.group_user,1,1,1,1
+access_product_components_manager,access.product.components.manager,model_product_components,base.group_system,1,1,1,1
+access_product_components_user,access.product.components.user,model_product_components,base.group_user,1,1,1,1
+access_sale_components_manager,access.sale.component.manager,model_sale_component,base.group_system,1,1,1,1
+access_sale_components_user,access.sale.component.user,model_sale_component,base.group_user,1,1,1,1

@@ -1,0 +1,567 @@
+id,default_code,name,description,is_storable,tracking,categ_id:id
+product_template_32012144001,32012144001,Gray Antenna ID Band (pack of 10),,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_32012144002,32012144002,Yellow Antenna ID Band (pack of 10),,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_32012144003,32012144003,Green Antenna ID Band (pack of 10),,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_32012144004,32012144004,Blue Antenna ID Band (pack of 10),,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_32012144005,32012144005,Purple Antenna ID Band (pack of 10),,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_8504762j02,8504762J02,VHF Helical Antenna 155-174 MHz (14 cm),,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_8505241u04,8505241U04,896-941 MHz 1/2 Wave Whip Antenna,,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_8505241u06,8505241U06,806-941 MHz 1/4 Wave Stubby Antenna,,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_8505816k24,8505816K24,"UHF Heliflex Stubby, 403-440 MHz",,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_had9338_r,HAD9338_R,"VHF Heliflex Antenna, 136-162 MHz",,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_had9742,HAD9742,"VHF Stubby Antenna, 146-162 MHz",,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_had9743,HAD9743,"VHF Stubby Antenna, 162-174 MHz",,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_hkan4002,HKAN4002,TLK 100 VZW LTE Antenna,,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_hkan4005,HKAN4005,TLK 110 LTE Antenna (NA),,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_nad6502_r,NAD6502_R,"VHF Heliflex Antenna, 146-174 MHz",,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_nad6579,NAD6579,"VHF Whip Antenna, 148-161 MHz (Enhanced Performance, 7.5"")",,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_pmad4012,PMAD4012,"VHF Stubby Antenna, 136-155 MHz (Red Color Code)",,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_pmad4013,PMAD4013,"VHF Stubby Antenna, 155-174 MHz (Black Color Code)",,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_pmad4014,PMAD4014,"VHF Helical Antenna, 136-155 MHz (14cm)",,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_pmad4042,PMAD4042,"VHF Heliflex, 136-150.8 MHz",,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_pmad4116,PMAD4116,VHF HELICAL ANTENNA (144-165 MHZ),,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_pmad4117,PMAD4117,VHF HELICAL ANTENNA (136-155 MHZ),,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_pmad4118,PMAD4118,VHF HELICAL ANTENNA (152-174 MHZ),,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_pmad4119,PMAD4119,VHF STUBBY ANTENNA (136-148 MHZ),,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_pmad4120,PMAD4120,VHF STUBBY ANTENNA (146-160 MHZ),,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_pmad4121,PMAD4121,VHF STUBBY ANTENNA (160-174 MHZ),,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_pmad4147,PMAD4147,"VHF WHIP ANT ,136-174MHZ",,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_pmad4051_r,PMAD4051_R,"Mag One VHF Antenna, 150-174 MHz",,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_pmad4144,PMAD4144,VHF STUBBY ANT (136-144MHz) 5cm,,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_pmad4145,PMAD4145,VHF STUBBY ANT (144-156MHz) 5cm,,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_pmad4146,PMAD4146,VHF STUBBY ANT (156-174MHz) 5cm,,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_pmad4164,PMAD4164,ANTENNA MAG ONE VHF WHIP 136-155 MHZ,,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_pmad4165,PMAD4165,ANTENNA MAG ONE VHF WHIP 152-174 MHZ,,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_pmae4002,PMAE4002,"UHF Stubby Antenna, 403-433 MHz (9cm)",,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_pmae4003,PMAE4003,"UHF Stubby Antenna, 430-470 MHz (9cm)",,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_pmae4006,PMAE4006,"UHF Stubby Antenna, 465-490 MHz (9cm)",,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_pmae4016,PMAE4016,"UHF Whip Antenna, 403-520 MHz",,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_pmae4020,PMAE4020,"Mag One UHF Stubby Antenna, 450-470 MHz",,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_pmae4069,PMAE4069,UHF STUBBY ANTENNA (400-450 MHZ),,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_pmae4070,PMAE4070,UHF STUBBY ANTENNA (440-490 MHZ),,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_pmae4079,PMAE4079,UHF SLIM WHIP ANTENNA (400-527MHZ),,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_pmae4093,PMAE4093,UHF STUBBY ANT (403-425MHz) 4.5cm,,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_pmae4094,PMAE4094,UHF STUBBY ANT (420-445MHz) 4.5cm,,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_pmae4095,PMAE4095,UHF STUBBY ANT (435-470MHz) 4.5cm,,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_pmae4117,PMAE4117,ANTENNA MAG ONE UHF WHIP 400-470 MHZ,,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_pmae4118,PMAE4118,ANTENNA MAG ONE UHF STUBBY 450-470 MHZ,,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_pmae4119,PMAE4119,"ANTENNA, WHIP,MAG ONE X U2 WHIP ANTTENA",,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_pmaf4024,PMAF4024,"900MHz Whip Antenna, 902-928MHz",,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_pmaf4025,PMAF4025,"ANTENNA, STUBBY,902-928MHZ, KIT",,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_ran4031,RAN4031,"UHF Whip Antenna, 403-470 MHz",,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_ran4033,RAN4033,"UHF Stubby Antenna, 450-470 MHz",,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_ran4041,RAN4041,"VHF Helical Antenna, 146-174 MHz",,TRUE,none,product_category_motorola_commercial_accessories_portable_antennas
+product_template_53964,53964,"Li-ion, 1500 mAh, 3.6V Battery (component part number  NNTN6923_)",,TRUE,none,product_category_motorola_commercial_accessories_batteries
+product_template_hkln4678,HKLN4678,TLK 100 Battery Door,,TRUE,none,product_category_motorola_commercial_accessories_batteries
+product_template_hkln4690,HKLN4690,TLK 110 Battery Door,,TRUE,none,product_category_motorola_commercial_accessories_batteries
+product_template_nntn4497_r,NNTN4497_R,"Li-ion, 2250 mAh, 7.5V Battery ",,TRUE,none,product_category_motorola_commercial_accessories_batteries
+product_template_nntn4851,NNTN4851,"NiMH, 1400 mAh, 7.5V Battery (comp. with WPLN4138_R , WLN4161_R & NNTN8353)",,TRUE,none,product_category_motorola_commercial_accessories_batteries
+product_template_pmnn4253,PMNN4253,BATT LIION IP54 2100T,,TRUE,none,product_category_motorola_commercial_accessories_batteries
+product_template_pmhf4014,PMHF4014,Battery Door Kit,,TRUE,none,product_category_motorola_commercial_accessories_batteries
+product_template_pmnn4071_r,PMNN4071_R,"Mag One NiMH, 1200 mAh Battery",,TRUE,none,product_category_motorola_commercial_accessories_batteries
+product_template_pmnn4075_r,PMNN4075_R,"Mag One Li-ion, 1500 mAh Battery 
+(comp. with PMPN4140 charger base and PMLN5048_R charger kit only)",,TRUE,none,product_category_motorola_commercial_accessories_batteries
+product_template_pmnn4080,PMNN4080,Li-ion High Capacity 2150 mAh 7.4V Battery,,TRUE,none,product_category_motorola_commercial_accessories_batteries
+product_template_pmnn4458_r,PMNN4458_R,"Li-Ion, 2050 mAh Battery",,TRUE,none,product_category_motorola_commercial_accessories_batteries
+product_template_pmnn4468,PMNN4468,Li-Ion Battery 2300MAH (BT100x),,TRUE,none,product_category_motorola_commercial_accessories_batteries
+product_template_pmnn4476,PMNN4476,Li-ion IP54 1750T,,TRUE,none,product_category_motorola_commercial_accessories_batteries
+product_template_pmnn4847_r,PMNN4847_R,"BATTERY PACK, MAG ONE, LIION 2200T BATTERY KIT",,TRUE,none,product_category_motorola_commercial_accessories_batteries
+product_template_pmnn4497_r_,PMNN4497_R ,BATT LIION 1800T ,,TRUE,none,product_category_motorola_commercial_accessories_batteries
+product_template_pmnn4578,PMNN4578,"Li-ion, 2500T Battery Pack",,TRUE,none,product_category_motorola_commercial_accessories_batteries
+product_template_pmnn4598,PMNN4598,BATT LIION IP55 2300T,,TRUE,none,product_category_motorola_commercial_accessories_batteries
+product_template_pmnn4600,PMNN4600,BATT LIION IP55 2100T,,TRUE,none,product_category_motorola_commercial_accessories_batteries
+product_template_pmln7074,PMLN7074,Battery Door Cover,,TRUE,none,product_category_motorola_commercial_accessories_batteries
+product_template_rln6306,RLN6306,Alkaline Battery Shell,,TRUE,none,product_category_motorola_commercial_accessories_batteries
+product_template_rln6308,RLN6308,Ultra High Capacity Li-ion Battery (component P/N 60012000001),,TRUE,none,product_category_motorola_commercial_accessories_batteries
+product_template_1505596z02,1505596Z02,Case Adjustable Chest Pack,,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_4280384f89,4280384F89,"Universal RadioPAK™ Extension Belt for waist larger than 40""",,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_4280483b03,4280483B03,"2.5"" Swivel Belt Loop",,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_4280483b04,4280483B04,"3"" Swivel Belt Loop",,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_53961,53961,Swivel Belt Holster,,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_hcln4013,HCLN4013,Replacement Swivel Belt Holster,,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_hln6602,HLN6602,"Universal Chest Pack with Radio Holder, Pen Holder & Velcro Secured Pocket",,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_hln8255,HLN8255,"3"" Spring Action Belt Clip",,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_hln9701,HLN9701,Nylon Case with Belt Loop (Resale Packaging available through RPSD),,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_hln9714,HLN9714,SPRING BELT CLIP 2 1/2,,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_hln9844,HLN9844,"2"" Spring Belt Clip",,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_hln9985,HLN9985,"Waterproof Bag, includes large carrying strap",,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_ntn5243,NTN5243,Carry Case Shoulder Strap,,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_pmln4651,PMLN4651,2 INCH BELT CLIP,,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_pmln4742,PMLN4742,Mag One Hard Leather Carry Case,,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_pmln4743,PMLN4743,"Mag One 2"" Spring Belt Clip",,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_pmln5334,PMLN5334,Soft Leather Protective Case,,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_pmln5610,PMLN5610,"ACCESSORY KIT,2.5 INCH SWIVEL BELT LOOP",,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_pmln5611,PMLN5611,"ACCESSORY KIT,3.0 INCH SWIVEL BELT LOOP",,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_pmln7008,PMLN7008,2.5-INCH BELT CLIP,,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_pmln6074,PMLN6074,Nylon Wrist Straps,,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_pmln7076,PMLN7076,Flexible Hand Strap,,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_pmln7128,PMLN7128,Belt Clip (Heavy-Duty),,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_pmln7190,PMLN7190,Swivel Carry Holster,,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_pmln7932,PMLN7932,Swivel Carry Holster,,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_pmln7939,PMLN7939,Swivel Holster,,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_pmln8427,PMLN8427,"ACCESSORY KIT,NYLON 3""FIXED BELT LOOP",,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_pmln8433,PMLN8433,"ACCESSORY KIT,HARD LEATHER 3"" FIXED BELT LOOP",,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_pmln8434,PMLN8434,"ACCESSORY KIT,HARD LEATHER 2.5"" SWIVEL BELT LOOP",,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_pmln8435,PMLN8435,"ACCESSORY KIT,HARD LEATHER 3"" SWIVEL BELT LOOP",,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_pmln8439,PMLN8439,Swivel Carry Holster,,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_pmln8600,PMLN8600,BELT CLIP MAG ONE 2 INCH,,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_pmln8537,PMLN8537,TLK 25 Holster Belt Clip,,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_pmln8538,PMLN8538,TLK 25 Badge Clip,,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_rln4570,RLN4570,Breakaway Chest Pack,,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_rln4815,RLN4815,Universal RadioPAK™ & Utility Case (fanny pack),,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_rln5383,RLN5383,Leather Case with Belt Loop (for use with Non-Display models),,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_rln5384,RLN5384,"Leather Case with 2.5"" Swivel (for use with Non-Display models)",,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_rln5385,RLN5385,"Leather Case with 3"" Swivel (for use with Non-Display models)",,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_rln5716,RLN5716,T-Strap for Leather Cases,,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_rln5644,RLN5644,"2"" Spring Action Belt Clip",,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_rln6302,RLN6302,Leather Case with 3’ Swivel,,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_rln6307,RLN6307,Spring Action Belt Clip,,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_tdn9327,TDN9327,"Portable Radio Hanger - for door panels up to 2.75"" (slides over and hangs from the door panel in vehicle). Radio Belt Clip is required for use.",,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_tdn9373,TDN9373,"Portable Radio Hanger - for door panels from 2.75"" to 3.25"" (slides over and hangs from the door panel in vehicle). Radio Belt Clip is required for use.",,TRUE,none,product_category_motorola_commercial_accessories_carry_cases
+product_template_25009297001,25009297001,"Power Adapter
+",,TRUE,none,product_category_motorola_commercial_accessories_chargers
+product_template_25009298001,25009298001,"Micro-USB Charger, Switch Mode, Low Noise, 5W, US/NA",,TRUE,none,product_category_motorola_commercial_accessories_chargers
+product_template_53960,53960,Multi-Unit Charger,,TRUE,none,product_category_motorola_commercial_accessories_chargers
+product_template_53962,53962,Drop In Charging Tray,,TRUE,none,product_category_motorola_commercial_accessories_chargers
+product_template_53969,53969,"Rapid Charger, 1 Hour",,TRUE,none,product_category_motorola_commercial_accessories_chargers
+product_template_56531,56531,Multi-Unit Charger,,TRUE,none,product_category_motorola_commercial_accessories_chargers
+product_template_br000638a01_,BR000638A01 ,TLK 25 Wall Mount for PMPN4660,,TRUE,none,product_category_motorola_commercial_accessories_chargers
+product_template_ckn6968a,CKN6968A,Cigarette Light Vehicle Adapter,,TRUE,none,product_category_motorola_commercial_accessories_chargers
+product_template_epnn9288,EPNN9288,"90-134V, Switch Mode Power Supply",,TRUE,none,product_category_motorola_commercial_accessories_chargers
+product_template_nntn6844,NNTN6844,Wall Mount Bracket,,TRUE,none,product_category_motorola_commercial_accessories_chargers
+product_template_nntn8460,NNTN8460,Charger Insert (CP200),,TRUE,none,product_category_motorola_commercial_accessories_chargers
+product_template_pmkn4274,PMKN4274,"CABLE,H36 USB CHARGING CABLE (USB-A TO USB-C CABLE)",,TRUE,none,product_category_motorola_commercial_accessories_chargers
+product_template_pmln6588,PMLN6588,120 Volt MUC - 6 Unit Rapid Rate Charger,,TRUE,none,product_category_motorola_commercial_accessories_chargers
+product_template_pmln6597,PMLN6597,Multi Unit Charger,,TRUE,none,product_category_motorola_commercial_accessories_chargers
+product_template_pmln7089,PMLN7089,Travel Charger,,TRUE,none,product_category_motorola_commercial_accessories_chargers
+product_template_pmln7101,PMLN7101,MUC Charger US/NA,,TRUE,none,product_category_motorola_commercial_accessories_chargers
+product_template_pmln7109,PMLN7109,"Standard Single-Unit Charger, US/NA",,TRUE,none,product_category_motorola_commercial_accessories_chargers
+product_template_pmln8569,PMLN8569,CHGR DESKTOP MULTI ,,TRUE,none,product_category_motorola_commercial_accessories_chargers
+product_template_pmln8599,PMLN8599,CHGR PACK DESKTOP MAG ONE SINGLE UNIT BASE ONLY EXT PS,,TRUE,none,product_category_motorola_commercial_accessories_chargers
+product_template_pmpn4005,PMPN4005,AC Power Supply,,TRUE,none,product_category_motorola_commercial_accessories_chargers
+product_template_pmpn4171,PMPN4171,"CHGR DESKTOP SINGLE UNIT, US/NA  ",,TRUE,none,product_category_motorola_commercial_accessories_chargers
+product_template_pmpn4172,PMPN4172,"CHGR DESKTOP SINGLE UNIT, US/NA  ",,TRUE,none,product_category_motorola_commercial_accessories_chargers
+product_template_pmpn4173,PMPN4173,120V - 90 Minute Rapid Rate CEC complaint Charger with Switch Mode Power Supply,,TRUE,none,product_category_motorola_commercial_accessories_chargers
+product_template_pmpn4184,PMPN4184,"CHGR DESKTOP MULTI UNIT, US/NA/CA PLUG  ",,TRUE,none,product_category_motorola_commercial_accessories_chargers
+product_template_pmpn4465,PMPN4465,6-Pocket Multi Unit-Charger with US/NA Cord Kit,,TRUE,none,product_category_motorola_commercial_accessories_chargers
+product_template_pmpn4468,PMPN4468,Single-Unit Charger Tray,,TRUE,none,product_category_motorola_commercial_accessories_chargers
+product_template_pmpn4469,PMPN4469,"Single-Unit Charger, US/NA Kit",,TRUE,none,product_category_motorola_commercial_accessories_chargers
+product_template_pmpn4660,PMPN4660,Multi-Unit Desktop Charger PS US/NA,,TRUE,none,product_category_motorola_commercial_accessories_chargers
+product_template_ps000150a11,PS000150A11,Level 6 Micro USB Wall Charger,,TRUE,none,product_category_motorola_commercial_accessories_chargers
+product_template_ps000150a31,PS000150A31,USB Wall Charger        ,,TRUE,none,product_category_motorola_commercial_accessories_chargers
+product_template_ps000227a11,PS000227A11,"5W L6 Micro-USB, US/NA",,TRUE,none,product_category_motorola_commercial_accessories_chargers
+product_template_ps000228a01,PS000228A01,"3W L6 Micro-USB, US/NA",,TRUE,none,product_category_motorola_commercial_accessories_chargers
+product_template_rln6304,RLN6304,"2-Hour Rapid Charger Kit (includes PMPN4005, RLN6332, and RLN6349)",,TRUE,none,product_category_motorola_commercial_accessories_chargers
+product_template_rln6309,RLN6309,Multi Unit Charger,,TRUE,none,product_category_motorola_commercial_accessories_chargers
+product_template_rln6349,RLN6349,NA Adaptor,,TRUE,none,product_category_motorola_commercial_accessories_chargers
+product_template_hw003622a01,HW003622A01,"SPACER,MULTI-UNIT CHARGER SPACER KIT",,TRUE,none,product_category_motorola_commercial_accessories_chargers
+product_template_0180300E83,0180300E83,Body Switch Push to Talk for Ear Microphone System,,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_0186180z01,0186180Z01,Replacement Foam Earbuds,,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_5080369E39,5080369E39,"Extra Loud Earphone, Beige (exceeds OSHA limits)",,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_5080370E91,5080370E91,"Extra Loud Earphone, Black (exceeds OSHA limits)",,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_5080370E97,5080370E97,"Replacement Rubber Eartips, Clear - Pack of 25 
+(for use with RLN6232, RLN6241)",,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_5080384f72,5080384F72,"Replacement Foam Plugs-Pack of 50 (for use with RLN6230, RLN6231), Noise Reduction Rating = 24dB",,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_53866f,53866F,"Earbud with PTT, Microphone, Slim plug, PVC free ",,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_7580372E11,7580372E11,Replacement Foam Ear Cushion (for use with BDN6720),,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_bdn6720,BDN6720,"Flexible Ear Receiver, Black Earpiece without Volume Control (flexible earloop & speaker that rests external to ear Resale Packaging through Parts Dept).",,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_hkln4424,HKLN4424,CP Swivel Earpiece,,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_hkln4599,HKLN4599,"HEADSET,EARPIECE W/PTT, MIC, SLIM PLUG, PVC FREE (Replacement for 56517)",,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_hkln4601,HKLN4601,"1-Wire Surveillance Kit with In-Line Mic and PTT, Slim plug, PVC free ",,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_hkln4608,HKLN4608,"Replacement Transparent Acoustic Tube and Earbud for HKLN4601A and HKLN4487F, PVC free",,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_hmn8435,HMN8435,"Earbud with Clip Microphone and PTT 
+(2-wire - transmit & receive)",,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_hmn9036,HMN9036,"Earbud with Clip Microphone and PTT, Transmit & Receive (2-wire - not recommended for use with PL codes above 225 Hz) Resale Packaging is also available through RPSD)",,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_hmn9727,HMN9727,"Earpiece without Volume Control, Beige (single wire) Resale Packaging available through RPSD)",,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_hmn9754,HMN9754,"2 Piece Surveillance Kit, with Microphone and PTT Combined, Beige (2-wire - rubber eartip style) Resale Packaging available through RPSD)",,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_pmln4294,PMLN4294,Earbud with Microphone & PTT Combined,,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_pmln4442,PMLN4442,Mag One Earbud with MIC/PTT/VOX Switch,,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_pmln4443,PMLN4443,Mag One Ear Receiver with MIC/PTT/VOX Switch,,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_pmln4444,PMLN4444,Mag One Earset Boom Microphone with PTT/VOX,,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_pmln4605,PMLN4605,Clear Acoustic Tube,,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_pmln4606,PMLN4606,2-Wire Surveillance Kit with Clear Acoustic Tube,,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_pmln4620,PMLN4620,D-SHELL RX-ONLY EARPIECE(3.5MM),,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_pmln5001,PMLN5001,D Shell Earpiece with PTT Mic.,,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_pmln6445,PMLN6445,"2-Wire Surveillance Kit (Beige) with Clear Acoustic Tube 
+(Palm Garden)",,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_pmln6530,PMLN6530,"2-Wire Surveillance Kit (Black) with Clear Acoustic Tube 
+(Palm Garden)",,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_pmln6531,PMLN6531,Ear Receiver with In-Line Mic/PTT/VOX Switch (Mag One),,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_pmln6532,PMLN6532,Swivel Earpiece with Microphone & PTT (Mag One),,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_pmln6533,PMLN6533,Earset with combined MIC/PTT,,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_pmln6534,PMLN6534,Earbud with In-Line Mic/PTT/VOX Switch (Mag One),,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_pmln6535,PMLN6535,D-Style Earpiece with Mic/PTT,,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_pmln6536,PMLN6536,"2-Wire Surveillance Kit with Quick Disconnect Acoustic Tube, Black (OTTO)",,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_pmln6537,PMLN6537,"Earset with Boom Microphone and In-Line PTT/VOX Switch 
+(Mag One)",,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_pmln6538,PMLN6538,Lightweight Headset with Swivel Boom Microphone,,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_pmln6541,PMLN6541,Lightweight Temple Transducer Headset,,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_pmln7189,PMLN7189,"Swivel Earpiece, In-Line Mic & PTT",,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_pmln7156,PMLN7156,"Earbud w/ In-Line PTT, Mag One",,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_pmln7157,PMLN7157,"2-Wire Surveillance Kit with Translucent Tube, Black",,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_pmln7158,PMLN7158,"1-Wire Surveillance Kit with Translucent Tube, Black",,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_pmln7159,PMLN7159,"Adjustable D-Style Earpiece w/ In-Line PTT/Mic, Black",,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_pmln7396,PMLN7396,RX-ONLY ADJ D-STYLE W/STD 3.5MM JACK,,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_pmln7560,PMLN7560,REC ONLY EARPIECE W/TRANSLUCENT TUBE,,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_pmln8120,PMLN8120,"RX ONLY XL CLEAR TUBE EARPIECE, 3.5MM JACK",,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_pmln8536,PMLN8536,TLK 25 Earpiece with Cable Clip and Flag Label,,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_pmmn4001,PMMN4001,Ultra-Light Earpiece with Boom Microphone and In-Line PTT,,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_rln4760,RLN4760,Clear Comfortable Earpiece Small Right,,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_rln4761,RLN4761,Clear Comfortable Earpiece Medium Right,,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_rln4762,RLN4762,Clear Comfortable Earpiece Large Right,,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_rln4763,RLN4763,Clear Comfortable Earpiece Small Left,,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_rln4764,RLN4764,Clear Comfortable Earpiece Medium Left,,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_rln4765,RLN4765,Clear Comfortable Earpiece Large Left,,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_pmln8191,PMLN8191,"EARPIECE,1-WIRE ENH CLEAR TUBE EARPIECE, 2.5MM SINGLE PIN, ANGLED  ",,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_rln4895,RLN4895,"2 Piece Surveillance Kit, with Microphone and PTT Combined, Black (2-wire - rubber eartip style)",,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_rln4941_xl,RLN4941_XL,Earpiece Receive Only with Translucent Tube,,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_rln5317,RLN5317,"2-Wire Comfort Earpiece with Combined Microphone and PTT, Beige Surveillance Kits with Extended-Wear Comfort Earpieces include a Low Noise enhancement (RLN6232) already attached for extra comfort and convenience.",,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_rln5318,RLN5318,"2-Wire Comfort Earpiece with Combined Microphone and PTT, Black Surveillance Kits with Extended-Wear Comfort Earpieces include a Low Noise enhancement (RLN6232) already attached for extra comfort and convenience.",,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_rln5500,RLN5500,Audio Accessory Retainer Kit,,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_rln6230,RLN6230,Extreme Noise Kit - Includes 2 foam earplugs. For High Noise Environments. Noise Reduction = 24dB. The Quick Disconnect Adapter allows users to easily remove or alternate Acoustic Tubes ( for use with Surveillance Accessories). Black,,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_rln6231,RLN6231,Extreme Noise Kit - Includes 2 foam earplugs. For High Noise Environments. Noise Reduction = 24dB. The Quick Disconnect Adapter allows users to easily remove or alternate Acoustic Tubes ( for use with Surveillance Accessories). Beige,,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_rln6232,RLN6232,Low Noise Kit - Clear Acoustic Tube Assembly includes 1 Clear Rubber Eartip. For Low Noise Environments. The Quick Disconnect Adapter allows users to easily remove or alternate Acoustic Tubes (for used with Surveillance Accessories). Black,,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_rln6241,RLN6241,Low Noise Kit - Clear Acoustic Tube Assembly includes 1 Clear Rubber Eartip. For Low Noise Environments. The Quick Disconnect Adapter allows users to easily remove or alternate Acoustic Tubes (for used with Surveillance Accessories). Beige,,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_rln6242,RLN6242,Quick Disconnect Acoustic Tube Replacement (each sold separately),,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_rln6282,RLN6282,"Replacement Ear Tips, Pack of 50",,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_rmn5114,RMN5114,Lightweight Temple Transducer,,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_aarln4885,AARLN4885,RECEIVE ONLY EARBUD FOR REM SPK MIC,,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_wadn4190,WADN4190,EAR RCVR W/COIL CBL&3.5MM PLUG,,TRUE,none,product_category_motorola_commercial_accessories_ear_pieces
+product_template_bdn6773,BDN6773,Lightweight Single Muff Adjustable Headset with Swivel Boom Microphone,,TRUE,none,product_category_motorola_commercial_accessories_headsets
+product_template_hmn9013,HMN9013,Lightweight Single Muff Adjustable Headset with Swivel Boom Microphone (Resale Packaging available through RPSD),,TRUE,none,product_category_motorola_commercial_accessories_headsets
+product_template_pmln4445,PMLN4445,Mag One Headset with PTT/VOX Switch,,TRUE,none,product_category_motorola_commercial_accessories_headsets
+product_template_pmln5003,PMLN5003,Retail Temple Transducer585,,TRUE,none,product_category_motorola_commercial_accessories_headsets
+product_template_pmln5011,PMLN5011,Temple Transducer (2 Prong),,TRUE,none,product_category_motorola_commercial_accessories_headsets
+product_template_pmln6542,PMLN6542,"Mag One Ultra-Lite Headset, behind-the-head, adjustable with boom microphone and in-line push-to-talk",,TRUE,none,product_category_motorola_commercial_accessories_headsets
+product_template_pmln6854_r,PMLN6854_R,"BEHIND THE HEAD H/DUTY HEADSET/VOX, 2 PIN PLUG COMPATIBLE WITH RETAINER",,TRUE,none,product_category_motorola_commercial_accessories_headsets
+product_template_pmln7468_r,PMLN7468_R,"HEADSET,BEHIND THE HEAD H/DUTY HEADSET/VOX, 2 PIN PLUG COMPATIBLE WITH RETAINER",,TRUE,none,product_category_motorola_commercial_accessories_headsets
+product_template_pmln7468,PMLN7468,"OVER THE HEAD H/DUTY HEADSET/VOX, 2 PIN",,TRUE,none,product_category_motorola_commercial_accessories_headsets
+product_template_rex4648,REX4648,Replacement Windscreen (for use with Boom Microphone) and Foam Ear Pad,,TRUE,none,product_category_motorola_commercial_accessories_headsets
+product_template_rkn4094,RKN4094,Adapter Cable with In-Line PTT (for use with RMN4051 Headset),,TRUE,none,product_category_motorola_commercial_accessories_headsets
+product_template_rln5411,RLN5411,"Ultra-Light Headset, behind-the-head with In-Line PTT and Boom Microphone",,TRUE,none,product_category_motorola_commercial_accessories_headsets
+product_template_rmn4016,RMN4016,Lightweight Single Muff Adjustable Headset with Swivel Boom Microphone and In-Line PTT - Intrinsically Safe (FM),,TRUE,none,product_category_motorola_commercial_accessories_headsets
+product_template_rmn4051,RMN4051,"2-Way Hard-Hat Mount Headset, Black - Noise Reduction Rating = 22dB (requires adapter cable RKN4094)",,TRUE,none,product_category_motorola_commercial_accessories_headsets
+product_template_aarln4885,AARLN4885,Receive-Only Foam Earbud with 3.5mm plug to be used with Remote Speaker Microphone,,TRUE,none,product_category_motorola_commercial_accessories_microphones
+product_template_hkln4606,HKLN4606,"Remote Speaker Microphone with PTT, Slim plug, PVC free",,TRUE,none,product_category_motorola_commercial_accessories_microphones
+product_template_hkln4687,HKLN4687,"AUDIO ACCESSORY KIT, REMOTE SPEAKER MICROPHONE W/PTT, DTR",,TRUE,none,product_category_motorola_commercial_accessories_microphones
+product_template_hmn9051,HMN9051,Remote Speaker Microphone with Coiled Cord and Swivel Clothing Clip,,TRUE,none,product_category_motorola_commercial_accessories_microphones
+product_template_pmln4620,PMLN4620,Receive Only D- Shell Earpiece for Remote Speaker Microphone Only 3.5mm Adaptor,,TRUE,none,product_category_motorola_commercial_accessories_microphones
+product_template_pmln8253,PMLN8253,REPLACEMENT DUST COVER (PACK OF 10),,TRUE,none,product_category_motorola_commercial_accessories_microphones
+product_template_pmln6542,PMLN6542,"ACCESSORY KIT,BREEZE HS W BOOM MIC & PTT MAGONE",,TRUE,none,product_category_motorola_commercial_accessories_microphones
+product_template_pmln8121,PMLN8121,Swivel Clip for PMMN4148 RSM,,TRUE,none,product_category_motorola_commercial_accessories_microphones
+product_template_pmln8298,PMLN8298,WP300 WIRELESS BLUETOOTH CONTROL PUSH-TO-TALK POD,,TRUE,none,product_category_motorola_commercial_accessories_microphones
+product_template_pmln8332,PMLN8332,VEHICLE MOUNT FOR WP300 ,,TRUE,none,product_category_motorola_commercial_accessories_microphones
+product_template_pmln8401,PMLN8401,WP300 WIRELESS BLUETOOTH PUSH-TO-TALK POD WITH TRANSLUCENT TUBE EARPIECE,,TRUE,none,product_category_motorola_commercial_accessories_microphones
+product_template_pmln8502,PMLN8502,"ACCESSORY KIT,RETAINER(PACK OF 25)",,TRUE,none,product_category_motorola_commercial_accessories_microphones
+product_template_pmmn4013,PMMN4013,"Remote Speaker Microphone with Ear Jack, Coiled Cord and Swivel Clothing Clip Intrinsically Safe (FM)",,TRUE,none,product_category_motorola_commercial_accessories_microphones
+product_template_pmmn4008,PMMN4008,Remote Speaker Microphone,,TRUE,none,product_category_motorola_commercial_accessories_microphones
+product_template_pmmn4029,PMMN4029,"Remote Speaker Microphone with IP57 Rating, Coiled Cord and Swivel Clothing Clip Intrinsically Safe (FM)",,TRUE,none,product_category_motorola_commercial_accessories_microphones
+product_template_pmmn4077,PMMN4077,Remote Speaker Microphone - Mag One,,TRUE,none,product_category_motorola_commercial_accessories_microphones
+product_template_pmmn4092,PMMN4092,Remote Speaker Microphone - Mag One,,TRUE,none,product_category_motorola_commercial_accessories_microphones
+product_template_pmmn4127,PMMN4127,WM500 Operation Critical Bluetooth RSM,,TRUE,none,product_category_motorola_commercial_accessories_microphones
+product_template_pmmn4148,PMMN4148,"RM110 REMOTE SPEAKER MICROPHONE, WITH 3.5MM AUDIO JACK, IP55",,TRUE,none,product_category_motorola_commercial_accessories_microphones
+product_template_pmmn4149,PMMN4149,"RM110 REMOTE SPEAKER MICROPHONE, WITHOUT 3.5MM AUDIO JACK, IP55",,TRUE,none,product_category_motorola_commercial_accessories_microphones
+product_template_pmmn4125,PMMN4125,AUDIO ACCESSORY-REMOTE SPEAKER MICROPHONE,,TRUE,none,product_category_motorola_commercial_accessories_microphones
+product_template_wadn4190,WADN4190,Ear Receiver with Coil Cable Remote Speaker Microphone Only 3.5mm Adapter,,TRUE,none,product_category_motorola_commercial_accessories_microphones
+product_template_0105950u15,0105950U15,DTR Serial Data Cable CPS/RSS,,TRUE,none,product_category_motorola_commercial_accessories_portable_service_tools
+product_template_1009422001,1009422001,120 Volt - Wall Mount Power Supply Supplies power to the RIB. Order power supply for radio separately.,,TRUE,none,product_category_motorola_commercial_accessories_portable_service_tools
+product_template_3080369b72,3080369B72,9 Pin PC to Radio Interface Box Cable (IBM AT or compatible),,TRUE,none,product_category_motorola_commercial_accessories_portable_service_tools
+product_template_68007024004,68007024004,CP185 Basic Service Manual,,TRUE,none,product_category_motorola_commercial_accessories_portable_service_tools
+product_template_6816986h01,6816986H01,BPR 40 Basic Service Manual (only available for download in MOL).,,TRUE,none,product_category_motorola_commercial_accessories_portable_service_tools
+product_template_6880309n61,6880309N61,CP150/CP200 Basic Service Manual,,TRUE,none,product_category_motorola_commercial_accessories_portable_service_tools
+product_template_aapmkn4004,AAPMKN4004,"Programming & Test Cable - Programming cables require a Radio Interface Box (RIB), also compatible with RLN4460 used for radio testing.",,TRUE,none,product_category_motorola_commercial_accessories_portable_service_tools
+product_template_hkkn4027a,HKKN4027A,DTR CPS Cable Kit,,TRUE,none,product_category_motorola_commercial_accessories_portable_service_tools
+product_template_hkkn4028a,HKKN4028A,DTR Clonnig cable ,,TRUE,none,product_category_motorola_commercial_accessories_portable_service_tools
+product_template_pmdn4040_r,PMDN4040_R,Test Box,,TRUE,none,product_category_motorola_commercial_accessories_portable_service_tools
+product_template_pmdn4041_r,PMDN4041_R,RF Adapter,,TRUE,none,product_category_motorola_commercial_accessories_portable_service_tools
+product_template_pmdn4042_r,PMDN4042_R,Battery Eliminator,,TRUE,none,product_category_motorola_commercial_accessories_portable_service_tools
+product_template_pmdn4043_r,PMDN4043_R,BPR 40 Programming/Test Cable,,TRUE,none,product_category_motorola_commercial_accessories_portable_service_tools
+product_template_pmdn4054_r,PMDN4054_R,Grounding Plate,,TRUE,none,product_category_motorola_commercial_accessories_portable_service_tools
+product_template_pmdn4060_r,PMDN4060_R,BPR 40 Cloning Cable,,TRUE,none,product_category_motorola_commercial_accessories_portable_service_tools
+product_template_pmdn4076_r,PMDN4076_R,Cloning Cable,,TRUE,none,product_category_motorola_commercial_accessories_portable_service_tools
+product_template_pmdn4077_r,PMDN4077_R,USB Programing Cable,,TRUE,none,product_category_motorola_commercial_accessories_portable_service_tools
+product_template_pmkn4311,PMKN4311,"CABLE, DATA, USB-C TO USB-C, 1M",,TRUE,none,product_category_motorola_commercial_accessories_portable_service_tools
+product_template_pmkn4128,PMKN4128,Micro USB Programing and Test/Alignment Cable,,TRUE,none,product_category_motorola_commercial_accessories_portable_service_tools
+product_template_pmkn4294,PMKN4294,"Cable, Assembly,USB-C To USB-A",,TRUE,none,product_category_motorola_commercial_accessories_portable_service_tools
+product_template_cb000262a01,CB000262A01,Micro USB Programing Cable,,TRUE,none,product_category_motorola_commercial_accessories_portable_service_tools
+product_template_cp110,CP110,CP110 USB Programming Cable,,TRUE,none,product_category_motorola_commercial_accessories_portable_service_tools
+product_template_rln4008,RLN4008,Radio Interface Box (RIB) Voltage Level Shifter to enable communications between radio and computer’s RS232 communications adapter. Requires wall mount power serial supply or 10-18 VDC power sources.,,TRUE,none,product_category_motorola_commercial_accessories_portable_service_tools
+product_template_rln4460,RLN4460,Test Box for Portables and Mobiles,,TRUE,none,product_category_motorola_commercial_accessories_portable_service_tools
+product_template_rln5583,RLN5583,Flash Upgrade Adapter,,TRUE,none,product_category_motorola_commercial_accessories_portable_service_tools
+product_template_rln6303,RLN6303,CP110 Cloning Cable,,TRUE,none,product_category_motorola_commercial_accessories_portable_service_tools
+product_template_rvn4191,RVN4191,Portable & Mobile Programming Software (CPS) - 3 Year Subscription*,,TRUE,none,product_category_motorola_commercial_accessories_portable_service_tools
+product_template_rvn5080,RVN5080,DTR Computer Programming Software (CPS) - Available for free download on MOL,,TRUE,none,product_category_motorola_commercial_accessories_portable_service_tools
+product_template_rvn5081,RVN5081,BPR 40 CPS Software (CD) - 3 Year Subscription,,TRUE,none,product_category_motorola_commercial_accessories_portable_service_tools
+product_template_rvn5149,RVN5149,"CP110 CPS Software (CD) - 3 year Subscription. 
+Note: CP110 MURS CPS is only available for download on MOL at no charge ($0)",,TRUE,none,product_category_motorola_commercial_accessories_portable_service_tools
+product_template_rvn5194,RVN5194,CP185 CPS and Tunning Software (CD) - 3 Year Subscription,,TRUE,none,product_category_motorola_commercial_accessories_portable_service_tools
+product_template_tl000178a01,TL000178A01,R2 CHASSIS AND KNOB OPENER  ,,TRUE,none,product_category_motorola_commercial_accessories_portable_service_tools
+product_template_tl000191a01,TL000191A01,R2 RF ADAPTOR WITH 1/4'' - 36 UNS THREAD  ,,TRUE,none,product_category_motorola_commercial_accessories_portable_service_tools
+product_template_hkvn4362,HKVN4362,"For MOTOTRBO CPS/RM pricing and details, see the link below:",,TRUE,none,product_category_motorola_commercial_accessories_portable_service_tools
+product_template_hkvn4622,HKVN4622,https://docs.google.com/spreadsheets/d/1fXphrmVGAsO90UhN-Ijto5_HfuaYAcxPkAaVXFNtGt4/edit?usp=sharing,,TRUE,none,product_category_motorola_commercial_accessories_portable_service_tools
+product_template_an000359a01,AN000359A01,GNSS Dash Mount Antenna,,TRUE,none,product_category_motorola_commercial_accessories_mobile_antennas
+product_template_an000358a01,AN000358A01,LTE Antenna,,TRUE,none,product_category_motorola_commercial_accessories_mobile_antennas
+product_template_had4006,HAD4006,"VHF 136-144 MHz, 1/4 Wave Roof Mount, Mini-U",,TRUE,none,product_category_motorola_commercial_accessories_mobile_antennas
+product_template_had4007,HAD4007,"VHF 144-150.8 MHz, 1/4 Wave Roof Mount, Mini-U",,TRUE,none,product_category_motorola_commercial_accessories_mobile_antennas
+product_template_had4008,HAD4008,"VHF 150.8-162 MHz, 1/4 Wave Roof Mount, Mini-U",,TRUE,none,product_category_motorola_commercial_accessories_mobile_antennas
+product_template_had4009,HAD4009,"VHF 162-174 MHz, 1/4 Wave Roof Mount, Mini-U",,TRUE,none,product_category_motorola_commercial_accessories_mobile_antennas
+product_template_hae4002,HAE4002,"UHF 403-430 MHz, 1/4 Wave Roof Mount, Mini-U",,TRUE,none,product_category_motorola_commercial_accessories_mobile_antennas
+product_template_had4022,HAD4022,"VHF, 132-174 MHz, 3.0 dB Gain, Through-Hole Mount, Mini-U",,TRUE,none,product_category_motorola_commercial_accessories_mobile_antennas
+product_template_hae4003,HAE4003,"UHF 450-470 MHz, 1/4 Wave Roof Mount, Mini-U",,TRUE,none,product_category_motorola_commercial_accessories_mobile_antennas
+product_template_hae6022,HAE6022,"UHF, 403-527 MHz, 2dB Gain, Through-hole Mount, Mini-U",,TRUE,none,product_category_motorola_commercial_accessories_mobile_antennas
+product_template_rad4000,RAD4000,"Antenna Only (less cable & install hardware) - Standard Duty, 136-174 MHz",,TRUE,none,product_category_motorola_commercial_accessories_mobile_antennas
+product_template_rad4000amb,RAD4000AMB,"VHF 3dB Gain Magnetic Mount Antenna, 140-174 MHz",,TRUE,none,product_category_motorola_commercial_accessories_mobile_antennas
+product_template_rae4004amb,RAE4004AMB,"UHF 5dB Gain Magnetic Mount Antenna, 440-470 MHz",,TRUE,none,product_category_motorola_commercial_accessories_mobile_antennas
+product_template_rae4004arb,RAE4004ARB,"UHF 445-470 MHz, 5 dB Gain Roof Mount, Mini-U",,TRUE,none,product_category_motorola_commercial_accessories_mobile_antennas
+product_template_ac000240a01,AC000240A01,Wideband External Speaker,,TRUE,none,product_category_motorola_commercial_accessories_mobile_microphones
+product_template_gmmn4065,GMMN4065,Visor Microphone (Omni-Direction),,TRUE,none,product_category_motorola_commercial_accessories_mobile_microphones
+product_template_hln9073,HLN9073,Microphone Hang-up Clip (requires install),,TRUE,none,product_category_motorola_commercial_accessories_mobile_microphones
+product_template_hln9414,HLN9414,Microph Hang-up Clip (Universal – no install required),,TRUE,none,product_category_motorola_commercial_accessories_mobile_microphones
+product_template_hmn1035,HMN1035,Heavy Duty Palm Microphone with 10.5 Ft. Coil Cord,,TRUE,none,product_category_motorola_commercial_accessories_mobile_microphones
+product_template_pmmn4089,PMMN4089,"Enhanced Keypad Microphone (Alphanumeric Only, Supports Remote Monitor)",,TRUE,none,product_category_motorola_commercial_accessories_mobile_microphones
+product_template_pmmn4090,PMMN4090,Compact Microphone with Clip (Does not support Remote Monitor),,TRUE,none,product_category_motorola_commercial_accessories_mobile_microphones
+product_template_pmmn4091,PMMN4091,Heavy Duty Microphone (Does not support Remote Monitor),,TRUE,none,product_category_motorola_commercial_accessories_mobile_microphones
+product_template_pmmn4127,PMMN4127,WM500 Operation Critical Bluetooth RSM,,TRUE,none,product_category_motorola_commercial_accessories_mobile_microphones
+product_template_pmmn4129,PMMN4129,Wideband Compact Microphone,,TRUE,none,product_category_motorola_commercial_accessories_mobile_microphones
+product_template_pmln8298,PMLN8298,WP300 WIRELESS BLUETOOTH CONTROL PUSH-TO-TALK POD,,TRUE,none,product_category_motorola_commercial_accessories_mobile_microphones
+product_template_pmln8401,PMLN8401,WP300 WIRELESS BLUETOOTH PUSH-TO-TALK POD WITH TRANSLUCENT TUBE EARPIECE,,TRUE,none,product_category_motorola_commercial_accessories_mobile_microphones
+product_template_pmln8332,PMLN8332,VEHICLE MOUNT FOR WP300,,TRUE,none,product_category_motorola_commercial_accessories_mobile_microphones
+product_template_rmn5029,RMN5029,Enhanced Keypad Microphone & Hang-Up Clip,,TRUE,none,product_category_motorola_commercial_accessories_mobile_microphones
+product_template_0180357a57,0180357A57,120 Volt - Wall Mount Power Supply Supplies power to the RIB. Order power supply for radio separately.,,TRUE,none,product_category_motorola_commercial_accessories_mobile_service_tools
+product_template_3080070n01,3080070N01,Programming Cable (connection from RIB to radio),,TRUE,none,product_category_motorola_commercial_accessories_mobile_service_tools
+product_template_3080369b71,3080369B71,25 Pin PC to Radio Interface Box Cable (IBM XT or compatible),,TRUE,none,product_category_motorola_commercial_accessories_mobile_service_tools
+product_template_3080369b72,3080369B72,9 Pin PC to Radio Interface Box Cable (IBM AT or compatible),,TRUE,none,product_category_motorola_commercial_accessories_mobile_service_tools
+product_template_6680334f39,6680334F39,Allen Wrench for Antenna Connector Set Screw,,TRUE,none,product_category_motorola_commercial_accessories_mobile_service_tools
+product_template_6680388a26,6680388A26,Mobile Crimping Tool,,TRUE,none,product_category_motorola_commercial_accessories_mobile_service_tools
+product_template_6802966c15,6802966C15,CM200/CM300/PM400 Basic Service Manual,,TRUE,none,product_category_motorola_commercial_accessories_mobile_service_tools
+product_template_6802966c20,6802966C20,CM200/CM300/PM400 VHF Detailed Service Manual,,TRUE,none,product_category_motorola_commercial_accessories_mobile_service_tools
+product_template_6881098c00,6881098C00,CM200/CM300/PM400 UHF Detailed Service Manual,,TRUE,none,product_category_motorola_commercial_accessories_mobile_service_tools
+product_template_aarkn4083,AARKN4083,Programming Cable (allows radio programming via rear accessory connector),,TRUE,none,product_category_motorola_commercial_accessories_mobile_service_tools
+product_template_pmkn4147,PMKN4147,MMP Telco Programming Cable,,TRUE,none,product_category_motorola_commercial_accessories_mobile_service_tools
+product_template_rkn4081,RKN4081,Programming Cable with Internal RIB (direct connection from computer to radio microphone connector),,TRUE,none,product_category_motorola_commercial_accessories_mobile_service_tools
+product_template_fkn8096,FKN8096,Flash/Data Adapter (for use with AARKN4081 or 3080070N01),,TRUE,none,product_category_motorola_commercial_accessories_mobile_service_tools
+product_template_fkn8113,FKN8113,Adapter Cable (for use with AARKN4083),,TRUE,none,product_category_motorola_commercial_accessories_mobile_service_tools
+product_template_rln4008,RLN4008,Radio Interface Box (RIB) Voltage Level Shifter to enable communications between radio and the computer’s RS232 communications adapter. Requires the wall mount power serial supply or 10-18 VDC power sources.,,TRUE,none,product_category_motorola_commercial_accessories_mobile_service_tools
+product_template_rln4460,RLN4460,Test Box for Portables and Mobiles Enables connection to the universal connector. Allows switching for radio testing.,,TRUE,none,product_category_motorola_commercial_accessories_mobile_service_tools
+product_template_rvn4191,RVN4191,Portable & Mobile Programming Software (CPS) - 3 Year Subscription Package - Portables require AAPMKN4004 Programming/Test Cable.*,,TRUE,none,product_category_motorola_commercial_accessories_mobile_service_tools
+product_template_hkvn4362,HKVN4362,"For MOTOTRBO CPS/RM pricing and details, see the link below:",,TRUE,none,product_category_motorola_commercial_accessories_mobile_service_tools
+product_template_hkvn4622,HKVN4622,https://docs.google.com/spreadsheets/d/1fXphrmVGAsO90UhN-Ijto5_HfuaYAcxPkAaVXFNtGt4/edit?usp=sharing,,TRUE,none,product_category_motorola_commercial_accessories_mobile_service_tools
+product_template_gkn6266,GKN6266,DC Power Supply Cable (works with GPN6145 Power Supply),,TRUE,none,product_category_motorola_commercial_accessories_general_mobile_accessories_control_stations
+product_template_gln7318,GLN7318,Desktop Tray without Speaker,,TRUE,none,product_category_motorola_commercial_accessories_general_mobile_accessories_control_stations
+product_template_gln7326,GLN7326,Desktop Tray with Speaker,,TRUE,none,product_category_motorola_commercial_accessories_general_mobile_accessories_control_stations
+product_template_hkn4139,HKN4139,12V Power Cable for Low Power Control Station 1-25W,,TRUE,none,product_category_motorola_commercial_accessories_general_mobile_accessories_control_stations
+product_template_hkn9088,HKN9088,Mobile Mini-U Antenna Adapter - 8 Ft. Cable,,TRUE,none,product_category_motorola_commercial_accessories_general_mobile_accessories_control_stations
+product_template_hkn9455,HKN9455,12V Power Cable for High Power Control Station 25-60W,,TRUE,none,product_category_motorola_commercial_accessories_general_mobile_accessories_control_stations
+product_template_hln9457,HLN9457,"Hardware Kit for use with the Expanded Accessory Connector 
+(includes 16 connector pins, five (5) 8"" wires with pins attached and an extra housing)",,TRUE,none,product_category_motorola_commercial_accessories_general_mobile_accessories_control_stations
+product_template_hpn4007,HPN4007,Power Supply and Cable (1-60 Watt Models),,TRUE,none,product_category_motorola_commercial_accessories_general_mobile_accessories_control_stations
+product_template_pmmn4098,PMMN4098,Desktop Microphone,,TRUE,none,product_category_motorola_commercial_accessories_general_mobile_accessories_control_stations
+product_template_rln5390,RLN5390,Desktop Tray with Speaker,,TRUE,none,product_category_motorola_commercial_accessories_general_mobile_accessories_control_stations
+product_template_rln5391,RLN5391,Desktop Tray without Speaker,,TRUE,none,product_category_motorola_commercial_accessories_general_mobile_accessories_control_stations
+product_template_rmn5068,RMN5068,"Desk Microphone, Black",,TRUE,none,product_category_motorola_commercial_accessories_general_mobile_accessories_control_stations
+product_template_gln7282,GLN7282,Alarm Buzzer,,TRUE,none,product_category_motorola_commercial_accessories_general_mobile_accessories_general
+product_template_hln9328,HLN9328,External Alarm Relay Cable - Horn & Lights,,TRUE,none,product_category_motorola_commercial_accessories_general_mobile_accessories_general
+product_template_hsn8145,HSN8145,External Speaker 7.5W,,TRUE,none,product_category_motorola_commercial_accessories_general_mobile_accessories_general
+product_template_rsn4001,RSN4001,External Speaker 13 W,,TRUE,none,product_category_motorola_commercial_accessories_general_mobile_accessories_general
+product_template_rln4836_r,RLN4836_R,External PTT with Emergency Footswitch,,TRUE,none,product_category_motorola_commercial_accessories_general_mobile_accessories_handsfree
+product_template_rln4856,RLN4856,Footswitch with Remote PTT,,TRUE,none,product_category_motorola_commercial_accessories_general_mobile_accessories_handsfree
+product_template_rln4857,RLN4857,Pushbutton with Remote PTT,,TRUE,none,product_category_motorola_commercial_accessories_general_mobile_accessories_handsfree
+product_template_hkn4137,HKN4137,"Mobile Pwr Cable 10 FT, 14 AWG, 15A",,TRUE,none,product_category_motorola_commercial_accessories_general_mobile_accessories_power_cables
+product_template_hkn4191,HKN4191,"Mobile Pwr Cable 10 FT, 12 AWG, 20A",,TRUE,none,product_category_motorola_commercial_accessories_general_mobile_accessories_power_cables
+product_template_hkn4192,HKN4192,"Mobile Pwr Cable 20 FT, 10 AWG, 20A",,TRUE,none,product_category_motorola_commercial_accessories_general_mobile_accessories_power_cables
+product_template_hkn9327_r,HKN9327_R,Ignition Switch Cable,,TRUE,none,product_category_motorola_commercial_accessories_general_mobile_accessories_power_cables
+product_template_hln9242,HLN9242,"16-Pin Accessory Kit with Expanded Connector for CM/SM/M1225. Includes 9 wires with lugs, 1 connector housing, 16 crimping terminals, 2 tie straps, and 1 extraction tool",,TRUE,none,product_category_motorola_commercial_accessories_general_mobile_accessories_power_cables
+product_template_hln9457,HLN9457,16 Pin MAP Connector Kit,,TRUE,none,product_category_motorola_commercial_accessories_general_mobile_accessories_power_cables
+product_template_pmln8153,PMLN8153,"Power Supply Adaptor and Cable, 15V",,TRUE,none,product_category_motorola_commercial_accessories_general_mobile_accessories_power_cables
+product_template_ftn6083,FTN6083,DIN Mount Kit,,TRUE,none,product_category_motorola_commercial_accessories_general_mobile_accessories_mounting
+product_template_gln7317,GLN7317,"High Profile Mounting Bracket (VHF, UHF, 200 MHz & 700 MHz)",,TRUE,none,product_category_motorola_commercial_accessories_general_mobile_accessories_mounting
+product_template_gln7324,GLN7324,"Low Profile Mounting Bracket (VHF, UHF, 200 MHz & 700 MHz)",,TRUE,none,product_category_motorola_commercial_accessories_general_mobile_accessories_mounting
+product_template_rln4779,RLN4779,"Key Lock Mounting Bracket (VHF, UHF, 200 MHz & 700 MHz)",,TRUE,none,product_category_motorola_commercial_accessories_general_mobile_accessories_mounting
+product_template_rln6466,RLN6466,"Low Profile Trunnion Kit (this is the trunnion kit that ships standard with the CM200d/CM2300d (RLN6469),but is packaged for standalone sales)",,TRUE,none,product_category_motorola_commercial_accessories_general_mobile_accessories_mounting
+product_template_rln6467,RLN6467,High Profile Trunnion Kit,,TRUE,none,product_category_motorola_commercial_accessories_general_mobile_accessories_mounting
+product_template_rln6468,RLN6468,Key Lock Trunnion Kit,,TRUE,none,product_category_motorola_commercial_accessories_general_mobile_accessories_mounting
+product_template_hkn9324_r,HKN9324_R,15 Ft. Public Address & Speaker Cable (one cable per speaker),,TRUE,none,product_category_motorola_commercial_accessories_general_mobile_accessories_public_address
+product_template_hsn1006,HSN1006,External Speaker for Car Kit,,TRUE,none,product_category_motorola_commercial_accessories_general_mobile_accessories_public_address
+product_template_aah72x501,AAH72X501,ATU-16B UHF Antenna 400-420 MHz,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_portable_antennas
+product_template_aah72x502,AAH72X502,ATU-16C UHF Antenna 420-450 MHz,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_portable_antennas
+product_template_aah72x503,AAH72X503,ATU-16D UHF Antenna 450-470 MHz,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_portable_antennas
+product_template_aam23x501,AAM23X501,ATU-20AS Regular Stubby Antenna 400-430 MHz,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_portable_antennas
+product_template_aam23x504,AAM23X504,ATU-20CS Regular Stubby Antenna 420-450 MHz,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_portable_antennas
+product_template_aam23x502,AAM23X502,ATU-20DS Regular Stubby Antenna 440-470 MHz,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_portable_antennas
+product_template_aam23x503,AAM23X503,ATU-20FS Regular Stubby Antenna 450-480 MHz,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_portable_antennas
+product_template_aam28x501,AAM28X501,ATU-21AS Super Stubby Antenna 400-420 MHZ,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_portable_antennas
+product_template_aam28x502,AAM28X502,ATU-21CS Super Stubby Antenna 420-440 MHZ,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_portable_antennas
+product_template_aam28x503,AAM28X503,ATU-21DS Super Stubby Antenna 440-460 MHZ,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_portable_antennas
+product_template_aam28x504,AAM28X504,ATU-21FS Super Stubby Antenna 460-480 MHZ,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_portable_antennas
+product_template_aae23x501,AAE23X501,ATU-6A 400-430 MHZ,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_portable_antennas
+product_template_aae20x503,AAE20X503,ATU-6DS Antenna 450-485 MHz,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_portable_antennas
+product_template_aae23x506,AAE23X506,ATU-6B Antenna 420-450 MHz,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_portable_antennas
+product_template_aae23x502,AAE23X502,ATU-6C Antenna 440-470 MHz,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_portable_antennas
+product_template_aae23x503,AAE23X503,ATU-6D Antenna 450-485 MHz,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_portable_antennas
+product_template_aae23x504,AAE23X504,ATU-6F 490-512 MHz,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_portable_antennas
+product_template_aah73x502,AAH73X502,ATV-16A VHF Antenna 136-150 MHz,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_portable_antennas
+product_template_aah73x503,AAH73X503,ATV-16B VHF Antenna 150-162 MHz,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_portable_antennas
+product_template_aaj10x501,AAJ10X501,ATU-16BS UHF 400-430 MHz Stubby,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_portable_antennas
+product_template_aah73x504,AAH73X504,ATV-16C VHF Antenna 162-174 MHz,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_portable_antennas
+product_template_aaj10x502,AAJ10X502,ATU-16DS UHF 450-490 MHz Stubby,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_portable_antennas
+product_template_aah73x501,AAH73X501,ATV-16XL VHF Untuned Antenna,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_portable_antennas
+product_template_aae19x502,AAE19X502,ATV-6B Antenna 150-163 MHz,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_portable_antennas
+product_template_aae19x503,AAE19X503,ATV-6C Antenna 161-174 MHz,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_portable_antennas
+product_template_aag42x501,AAG42X501,ATV-6XL Untunned VHF Antenna,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_portable_antennas
+product_template_aae24x501,AAE24X501,ATV-8A Antenna 134-150 MHz,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_portable_antennas
+product_template_aae24x502,AAE24X502,ATV-8B Antenna 150-163 MHz,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_portable_antennas
+product_template_aae24x503,AAE24X503,ATV-8C Antenna 162-174 MHz,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_portable_antennas
+product_template_aaj67x501,AAJ67X501,FNB-V133LI-UNI 1380 mAh Li-ion Battery,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_batteries
+product_template_aaj68x501,AAJ68X501,FNB-V134LI-UNI 2300 mAh Li-ion Battery,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_batteries
+product_template_aak66x501,AAK66X501,"FNB-V134LIIS 2300 mAh Li-Ion Battery, Intrinsically Safe",,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_batteries
+product_template_aam18x501,AAM18X501,CLIP-27 Belt Clip,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_carry_cases
+product_template_aah12x501,AAH12X501,CLIP-20 Belt Clip,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_carry_cases
+product_template_aaj14x501,AAJ14X501,LCC-133LN BELT LOOP CASE (FNB-V133LI-UNI) NO DISPLAY,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_carry_cases
+product_template_aaj14x502,AAJ14X502,LCC-134LN BELT LOOP CASE (FNB-V134LI-UNI) NO DISPLAY,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_carry_cases
+product_template_aaj14x503,AAJ14X503,LCC-133SN SWIVEL BELT CLIP CASE (FNB-V133LI-UNI) NO DISPLAY,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_carry_cases
+product_template_aaj14x504,AAJ14X504,LCC-134SN SWIVEL BELT CLIP CASE (FNB-V134LI-UNI) NO DISPLAY,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_carry_cases
+product_template_aaj14x505,AAJ14X505,LCC-133LD BELT LOOP CASE (FNB-V133LI-UNI) DISPLAY,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_carry_cases
+product_template_aaj14x506,AAJ14X506,LCC-134LD BELT LOOP CASE (FNB-V134LI-UNI) DISPLAY,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_carry_cases
+product_template_aaj14x507,AAJ14X507,LCC-133SD SWIVEL BELT CLIP CASE (FNB-V133LI-UNI) DISPLAY,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_carry_cases
+product_template_aaj14x508,AAJ14X508,LCC-134SD SWIVEL BELT CLIP CASE (FNB-V134LI-UNI) DISPLAY,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_carry_cases
+product_template_aam22x501,AAM22X501,LCC-S24 Leather case with belt loop,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_carry_cases
+product_template_aam22x502,AAM22X502,LCC-S24S Leather case with swivel belt loop,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_carry_cases
+product_template_aam03x511,AAM03X511,LCC-261 Leather case with belt loop (FNB-V133LI-UNI),,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_carry_cases
+product_template_aam03x512,AAM03X512,LCC-261H Leather case with belt loop (FNB-V134LI-UNI),,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_carry_cases
+product_template_aam03x513,AAM03X513,LCC-261S Leather case with swivel belt loop (FNB-V133LI-UNI),,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_carry_cases
+product_template_aam03x514,AAM03X514,LCC-261SH Leather case with swivel belt loop (FNB-V134LI-UNI),,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_carry_cases
+product_template_aam04x501,AAM04X501,LCC-264 Leather case with belt loop (FNB-V133LI-UNI),,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_carry_cases
+product_template_aam04x502,AAM04X502,LCC-264H Leather case with belt loop (FNB-V134LI-UNI),,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_carry_cases
+product_template_aam04x503,AAM04X503,LCC-264S Leather case with swivel belt loop (FNB-V133LI-UNI),,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_carry_cases
+product_template_aam04x504,AAM04X504,LCC-264SH Leather case with swivel belt loop (FNB-V134LI-UNI),,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_carry_cases
+product_template_xuaaj72x511,XUAAJ72X511,VAC-UNI 120V Single Unit Charger,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_chargers
+product_template_xuaaj72x512,XUAAJ72X512,VAC-UNI 220V Single Unit Charger,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_chargers
+product_template_aam19x501,AAM19X501,CD-65 Standard Charging Cradle,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_chargers
+product_template_aam20x501,AAM20X501,CD-66 Enhanced Charging Cradle,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_chargers
+product_template_xuaak44x511,XUAAK44X511,VAC-6058 120V Multi Unit Charger,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_chargers
+product_template_aak45x501,AAK45X501,VCM-5 Vehicle Charger Mounting Adapter,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_chargers
+product_template_aam21x501,AAM21X501,MH-89A4B Earpiece Microphone,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_headsets_and_surveillance
+product_template_aal40x501,AAL40X501,VH-150A IS Lightweight Behind-the-head VOX Headset,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_headsets_and_surveillance
+product_template_aal41x501,AAL41X501,VH-150B IS Lightweight Over-the-head VOX Headset,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_headsets_and_surveillance
+product_template_aal82x501,AAL82X501,MH-100 3.5MM Earpiece for RSM Audio Jack,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_headsets_and_surveillance
+product_template_aal83x501,AAL83X501,MH-101A4B 1 Wire Surveillance Kit,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_headsets_and_surveillance
+product_template_aal84x501,AAL84X501,MH-102A4B 2 Wire Surveillance Kit,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_headsets_and_surveillance
+product_template_aal85x501,AAL85X501,MH-103A4B 3 Wire Surveillance Kit,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_headsets_and_surveillance
+product_template_aak50x501,AAK50X501,MH-37A4B-1 Earpiece Microphone Single Wire Surveillance Kit,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_headsets_and_surveillance
+product_template_aae46x507,AAE46X507,MH-66A4B IP57 Submersible Speaker Microphone,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_speaker_microphones
+product_template_aam24x501,AAM24X501,MH-90A4B Compact Speaker Microphone,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_speaker_microphones
+product_template_aae46x509,AAE46X509,MH-66F4B IP57 Submersible Speaker Microphone,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_speaker_microphones
+product_template_aaf52x501,AAF52X501,MH-360S Compact Speaker Microphone,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_speaker_microphones
+product_template_aaf53x501,AAF53X501,MH-450S Medium-Duty Speaker Microphone w/ Lapel Clip and 3.5mm Ear Phone Jack,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_speaker_microphones
+product_template_a13960507,A13960507,MH-45B4B Noise Cancelling Speaker Microphone,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_speaker_microphones
+product_template_aad68x501,AAD68X501,CT-106 Interface Cable fro FIF-12,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_portable_service_tools
+product_template_aaj23x501,AAJ23X501,FIF-12 USB Interface for PC programming,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_portable_service_tools
+product_template_cb000262a01,CB000262A01,Micro USB Programming Cable,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_portable_service_tools
+product_template_aad66x502,AAD66X502,CT-104A Interface Cable for FIF-12,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_portable_service_tools
+product_template_aaf26x002,AAF26X002,CT-124B Firmware Cable. Requires FIF-12A.,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_portable_service_tools
+product_template_aah77x001,AAH77X001,CT-153 Clone cable,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_portable_service_tools
+product_template_xurts0008,XURTS0008,CT-27A Radio to radio cloning cable,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_portable_service_tools
+product_template_t9101411,T9101411,CT-4 Programming Cable - Radio to Radio Cloning,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_portable_service_tools
+product_template_aaj06x001,AAJ06X001,FRB-6 Tuning Interface (Requires Connection Cable),,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_portable_service_tools
+product_template_aaj08x001,AAJ08X001,CT-160 Connection Cable 4-Pin Mic Jack (Use with FRB-6),,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_portable_service_tools
+product_template_aaf13x501,AAF13X501,MD-12A8J Desktop Microphone,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_mobile_microphones
+product_template_aae60x502,AAE60X502,MH-67A8J Standard Microphone,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_mobile_microphones
+product_template_aag22x501,AAG22X501,MH-75A8J DTMF Microphone,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_mobile_microphones
+product_template_a09260503,A09260503,MLS-100 External Speaker,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_mobile_speakers
+product_template_aad49x501,AAD49X501,MLS-200 Waterproof External Speaker,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_mobile_speakers
+product_template_xuslx0001a,XUSLX0001A,SEC-1223 Desktop Switching Power Supply 120 VAC,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_mobile_power_supply
+product_template_xucmr0003,XUCMR0003,VME-100 Board for MDC1200 Digital ANI (FIF-7 also required when being installed in VX-5500/6000),,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_option_boards
+product_template_aah88x001,AAH88X001,DVS-9 Mandown and voice storage,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_option_boards
+product_template_aah99x101,AAH99X101,CSS-450 Channel Selector Stopper,,TRUE,none,product_category_motorola_commercial_accessories_vxevx_accessories_miscellaneous
+product_template_aae11x002,AAE11X002,FBA-34 Alkaline Battery Case VX-820/920 series,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_alkaline_battery_cases
+product_template_aah72x501,AAH72X501,ATU-16B UHF Antenna 400-420 MHz,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_portable_antennas
+product_template_aah72x502,AAH72X502,ATU-16C UHF Antenna 420-450 MHz,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_portable_antennas
+product_template_aah72x503,AAH72X503,ATU-16D UHF Antenna 450-470 MHz,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_portable_antennas
+product_template_aah72x504,AAH72X504,ATU-16F UHF Antenna 470-512 MHz,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_portable_antennas
+product_template_aae23x501,AAE23X501,ATU-6A 400-430 MHZ,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_portable_antennas
+product_template_aae20x503,AAE20X503,ATU-6DS Antenna 450-485 MHz,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_portable_antennas
+product_template_aae23x503,AAE23X503,ATU-6D Antenna 450-485 MHz,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_portable_antennas
+product_template_aae23x504,AAE23X504,ATU-6F 490-512 MHz,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_portable_antennas
+product_template_aae19x502,AAE19X502,ATV-6B Antenna 150-163 MHz,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_portable_antennas
+product_template_aae19x503,AAE19X503,ATV-6C Antenna 161-174 MHz,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_portable_antennas
+product_template_aag42x501,AAG42X501,ATV-6XL Untunned VHF Antenna,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_portable_antennas
+product_template_aae24x501,AAE24X501,ATV-8A Antenna 134-150 MHz,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_portable_antennas
+product_template_aae24x502,AAE24X502,ATV-8B Antenna 150-163 MHz,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_portable_antennas
+product_template_aae24x503,AAE24X503,ATV-8C Antenna 162-174 MHz,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_portable_antennas
+product_template_aaj62x001,AAJ62X001,FNB-V128LI-UNI 2300 mAh Li-Ion Battery,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_batteries
+product_template_aaj63x001,AAJ63X001,FNB-V129LI-UNI 3000 mAh Li-Ion Battery,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_batteries
+product_template_aal73x001,AAL73X001,"FNB-V129LIIS 3000 mAh Li-Ion Battery, Intrinsically Safe",,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_batteries
+product_template_aaj65x001,AAJ65X001,FNB-V131LI-UNI 1380 mAh Li-Ion Battery,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_batteries
+product_template_aaj66x001,AAJ66X001,FNB-V132LI-UNI 2300 mAh Li-Ion Battery,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_batteries
+product_template_aaj64x001,AAJ64X001,FNB-V130LI-UNI 2300 mAh Li-Ion Battery,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_batteries
+product_template_aaj60x001,AAJ60X001,FNB-V126LI-UNI 2300 mAh Li-Ion Battery,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_batteries
+product_template_aad83x021,AAD83X021,FNB-V87LIA 7.4V 2300mAh Li-ion Battery,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_batteries
+product_template_aah12x501,AAH12X501,CLIP-20 Belt Clip,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_carry_cases
+product_template_aaj14x501,AAJ14X501,LCC-133LN BELT LOOP CASE (FNB-V133LI-UNI) NO DISPLAY,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_carry_cases
+product_template_aaj14x502,AAJ14X502,LCC-134LN BELT LOOP CASE (FNB-V134LI-UNI) NO DISPLAY,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_carry_cases
+product_template_aaj14x503,AAJ14X503,LCC-133SN SWIVEL BELT CLIP CASE (FNB-V133LI-UNI) NO DISPLAY,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_carry_cases
+product_template_aaj14x504,AAJ14X504,LCC-134SN SWIVEL BELT CLIP CASE (FNB-V134LI-UNI) NO DISPLAY,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_carry_cases
+product_template_aaj14x505,AAJ14X505,LCC-133LD BELT LOOP CASE (FNB-V133LI-UNI) DISPLAY,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_carry_cases
+product_template_aaj14x506,AAJ14X506,LCC-134LD BELT LOOP CASE (FNB-V134LI-UNI) DISPLAY,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_carry_cases
+product_template_aaj14x507,AAJ14X507,LCC-133SD SWIVEL BELT CLIP CASE (FNB-V133LI-UNI) DISPLAY,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_carry_cases
+product_template_aaj14x508,AAJ14X508,LCC-134SD SWIVEL BELT CLIP CASE (FNB-V134LI-UNI) DISPLAY,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_carry_cases
+product_template_xuaaj72x512,XUAAJ72X512,VAC-UNI 220V Single Unit Charger (COMPLETE),,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_chargers
+product_template_aam19x501,AAM19X501,CD-65 Standard Charging Cradle,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_chargers
+product_template_aam20x501,AAM20X501,CD-66 Enhanced Charging Cradle,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_chargers
+product_template_xuaak44x511,XUAAK44X511,VAC-6058 120V Multi Unit Charger (COMPLETE),,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_chargers
+product_template_aak45x501,AAK45X501,VCM-5 Vehicle Charger Mounting Adapter,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_chargers
+product_template_xuaae45x00101,XUAAE45X00101,VAC-921B 120 VAC Desktop Rapid charger,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_chargers
+product_template_xuaae45x00102,XUAAE45X00102,VAC-921C 240 VAC Desk top rapid charger,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_chargers
+product_template_aal40x501,AAL40X501,VH-150A IS Lightweight Behind-the-head VOX Headset,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_headsets_and_surveillance
+product_template_aal41x501,AAL41X501,VH-150B IS Lightweight Over-the-head VOX Headset,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_headsets_and_surveillance
+product_template_aal82x501,AAL82X501,MH-100 3.5MM Earpiece for RSM Audio Jack,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_headsets_and_surveillance
+product_template_aal83x501,AAL83X501,MH-101A4B 1 Wire Surveillance Kit,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_headsets_and_surveillance
+product_template_aal84x501,AAL84X501,MH-102A4B 2 Wire Surveillance Kit,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_headsets_and_surveillance
+product_template_aal85x501,AAL85X501,MH-103A4B 3 Wire Surveillance Kit,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_headsets_and_surveillance
+product_template_aae46x507,AAE46X507,MH-66A4B IP57 Submersible Speaker Microphone,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_speaker_microphones
+product_template_aaf52x501,AAF52X501,MH-360S Compact Speaker Microphone,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_speaker_microphones
+product_template_aaf53x501,AAF53X501,MH-450S Medium-Duty Speaker Microphone w/ Lapel Clip and 3.5mm Ear Phone Jack,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_speaker_microphones
+product_template_a13960507,A13960507,MH-45B4B Noise Cancelling Speaker Microphone,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_speaker_microphones
+product_template_aae46x001,AAE46X001,MH-66A7A Submersible Noise Canceling Speaker Microphone,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_speaker_microphones
+product_template_aae46x002,AAE46X002,MH-66B7A Submersible Speaker Microphone with 2 Programmable Function keys and Audio Attenuator Switch.,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_speaker_microphones
+product_template_aad68x501,AAD68X501,CT-106 Interface Cable fro FIF-12,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_service_tools
+product_template_aaj23x501,AAJ23X501,FIF-12 USB Interface for PC programming,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_service_tools
+product_template_same,Same,Micro USB Programming Cable,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_service_tools
+product_template_aad66x502,AAD66X502,CT-104A Interface Cable for FIF-12,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_service_tools
+product_template_aaa26x001,AAA26X001,CT-72 Cloning Cable (Set-to-Set Clone),,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_service_tools
+product_template_aac49x002,AAC49X002,"FIF-7A Interface Board (for VX-4000 / 5500 / 6000 with FVP-25, FVP-35, F2D-8 & VTP-50 option boards) Replaces the FIF-7",,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_service_tools
+product_template_aad67x001,AAD67X001,CT-105 FIF-12 interface cable to connect: VX-530/600/800/900 Portables also VX-5500/VX-6000 Mobiles.,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_service_tools
+product_template_aad92x001,AAD92X001,CT-108 - PC programming cable (for use with the FIF-12 or FIF-12A USB Interface),,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_service_tools
+product_template_aae50x001,AAE50X001,CT-116 Radio to Radio Programming Cable,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_service_tools
+product_template_aaf26x002,AAF26X002,CT-124B Firmware Cable. Requires FIF-12A.,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_service_tools
+product_template_aaf83x001,AAF83X001,CT-127 Keyloader adapter cable for VX-P820/870 & VX-P920/970 series P25 radios with encryption option. Required CT-129 or Motorola TKN8531C.,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_service_tools
+product_template_t9101628,T9101628,SVC-49 Alignment Cable for FIF-12,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_service_tools
+product_template_xumot0001,XUMOT0001,CT-129 Keyloader interface cable for KVL-3000+. Use with either CT-127 (for portables) or CT-128 (for mobiles) for programming encryption keys into radio.,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_service_tools
+product_template_aah77x001,AAH77X001,CT-153 Clone cable,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_service_tools
+product_template_xurts0008,XURTS0008,CT-27A Radio to radio cloning cable,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_service_tools
+product_template_t9101411,T9101411,CT-4 Programming Cable - Radio to Radio Cloning,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_service_tools
+product_template_aaj09x001,AAJ09X001,CT-161 PROG CABLE(PORT W/ 14PIN CONN) (USE WITH FRB-6) to Accy,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_service_tools
+product_template_aaj06x001,AAJ06X001,FRB-6 Tuning Interface (Requires Connection Cable),,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_service_tools
+product_template_aaj08x001,AAJ08X001,CT-160 Connection Cable 4-Pin Mic Jack (Use with FRB-6),,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_service_tools
+product_template_aaf13x501,AAF13X501,MD-12A8J Desktop Microphone,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_mobile_microphones
+product_template_aae60x502,AAE60X502,MH-67A8J Standard Microphone,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_mobile_microphones
+product_template_aag22x501,AAG22X501,MH-75A8J DTMF Microphone,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_mobile_microphones
+product_template_aaa75x003,AAA75X003,MH-50C7A Microphone with toggle switch,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_mobile_microphones
+product_template_a09260503,A09260503,MLS-100 External Speaker,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_mobile_speakers
+product_template_aad49x501,AAD49X501,MLS-200 Waterproof External Speaker,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_mobile_speakers
+product_template_aab26x001,AAB26X001,MMB-75 Mobile Mounting Bracket ( Supplied w/radio),,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_mobile_installation
+product_template_aab72x001,AAB72X001,MMB-76 Locking Mobile Mounting Bracket,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_mobile_installation
+product_template_aad62x001,AAD62X001,"MMB-88 This is a mounting bracket, which is a base plate for the CNT-5000 and MLS-200. The MMB-88 mounts to a motorcycle. The CNT-5000 and MLS-200 then mount to the MMB-88, side by side.",,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_mobile_installation
+product_template_aab27x011,AAB27X011,Cover plate for the Control Head (Includes mounting bracket and hardware) (RMK-4000H),,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_mobile_installation
+product_template_aab27x012,AAB27X012,Cover plate for the RF Deck in Remote Applications (RMK-4000B),,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_mobile_installation
+product_template_aac04x001,AAC04X001,CT-81 Remote Cable for RMK-4000 series (20 ft) (RF Deck to Control Head),,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_mobile_installation
+product_template_aac05x001,AAC05X001,CT-82 Remote Cable for RMK-4000 series (8 ft) (RF Deck to Control Head),,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_mobile_installation
+product_template_aae06x001,AAE06X001,E-DC-22 30 ft DC cable for VX-4000/-5500 mobiles,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_mobile_installation
+product_template_aae67x001,AAE67X001,MMB-89 One-Touch Mobile Bracket,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_mobile_installation
+product_template_xuvtn0001,XUVTN0001,"CT-96PS Ignition Sense Cable for the VX-4000, VX-5500 & VX-6000 mobiles",,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_mobile_installation
+product_template_a12510002,A12510002,FP-1030A External Power Supply,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_mobile_installation
+product_template_aac96x001,AAC96X001,FP-31 POWER SUPPLY Internal power supply for the VXR-9000 rack mount repeater (50W ONLY - CANNOT BE USED w/ 100W Version),,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_mobile_installation
+product_template_xuslx0001a,XUSLX0001A,SEC-1223 Desktop Switching Power Supply 120 VAC,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_mobile_installation
+product_template_l9190128,L9190128,Ferrite Snap-on Bead for microphone cable,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_mobile_installation
+product_template_l9190148,L9190148,Ferrite Snap-on Bead for control cable,,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_mobile_installation
+product_template_xucmr0003,XUCMR0003,VME-100 Board for MDC1200 Digital ANI (FIF-7 also required when being installed in VX-5500/6000),,TRUE,none,product_category_motorola_commercial_accessories_legacy_vertex_accessories_mobile_installation

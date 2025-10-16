@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <record id="task_warranty_email_template" model="mail.template">
+            <field name="name">Task Warranty Products Email</field>
+            <field name="model_id" ref="project.model_project_task"/>
+            <field name="subject">Products Warranty Information for Task {{ object.name }}</field>
+            <field name="email_from">{{ (user.email_formatted or object.user_id.email_formatted) }}</field>
+            <field name="email_to">{{ object.partner_id.email }}</field>
+            <field name="description">Sent to the customer with the list of products and their warranty dates for the task.</field>
+            <field name="body_html" type="html">
+    <div>
+        <p>Dear <t t-out="object.partner_id.name or 'Customer'"/> ,</p>
+        <p>We are pleased to inform you that your service task <strong><t t-out="object.name"/></strong> has been successfully completed. Below, you will find the details of the products involved along with their respective warranty information for your reference:</p>
+
+        <table border="1" style="border-collapse: collapse; width: 100%;">
+            <thead>
+                <tr style="background-color: #f2f2f2;">
+                    <th style="padding: 8px; text-align: left;">Product</th>
+                    <th style="padding: 8px; text-align: left;">Quantity</th>
+                    <th style="padding: 8px; text-align: left;">Warranty Date</th>
+                </tr>
+            </thead>
+            <tbody>
+                <t t-foreach="ctx.get('warranty_lines', [])" t-as="line">
+                    <tr>
+                        <td style="padding: 8px;"><t t-out="line.product_id.display_name"/></td>
+                        <td style="padding: 8px;"><t t-out="line.product_uom_qty"/></td>
+                        <td style="padding: 8px;"><t t-out="line.product_id.warranty_date"/></td>
+                    </tr>
+                </t>
+            </tbody>
+        </table>
+        <br/>
+        <p>If you have any questions or require further assistance regarding these products or their warranties, please do not hesitate to reach out to us. Our team will be happy to assist you.</p>
+        <p>Regards,<br/><t t-out="object.company_id.name"/></p>
+    </div>
+            </field>
+            <field name="lang">{{ object.partner_id.lang }}</field>
+            <field name="auto_delete" eval="True"/>
+    </record>
+    </data>
+</odoo>

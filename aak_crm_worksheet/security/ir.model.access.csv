@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_crm_worksheet_template_sales_admin,access.crm.worksheet.template.sales.admin,worksheet.model_worksheet_template,sales_team.group_sale_manager,1,1,1,1
+access_crm_worksheet_template_sales_user_all,access.crm.worksheet.template.sales.user.all,worksheet.model_worksheet_template,sales_team.group_sale_salesman_all_leads,1,1,1,0
+access_crm_check_wizard_user,access.crm.check.wizard,model_crm_check_wizard,sales_team.group_sale_salesman,1,1,1,0

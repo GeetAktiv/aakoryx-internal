@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <record id="view_wizard_set_visit_date_form" model="ir.ui.view">
+        <field name="name">set.visit.date.form</field>
+        <field name="model">set.visit.date</field>
+        <field name="arch" type="xml">
+            <form string="Set Visit Date">
+                <div class="alert alert-warning" role="alert" invisible="show_alert == False">
+                    You have selected a visit date that is not between the planned date.
+                </div>
+                <group>
+                    <field name="visit_date"/>
+                </group>
+                <footer>
+                    <button string="Confirm" type="object" name="action_confirm" class="btn btn-primary"/>
+                    <button string="Cancel" class="btn btn-secondary" special="cancel"/>
+                </footer>
+            </form>
+        </field>
+    </record>
+
+    <record id="action_wizard_set_visit_date" model="ir.actions.act_window">
+        <field name="name">Set Visit Date</field>
+        <field name="res_model">set.visit.date</field>
+        <field name="view_mode">form</field>
+        <field name="view_id" ref="view_wizard_set_visit_date_form"/>
+        <field name="target">new</field>
+    </record>
+</odoo>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <record id="view_wizard_upload_licence_form" model="ir.ui.view">
+        <field name="name">upload.licence.form</field>
+        <field name="model">upload.licence</field>
+        <field name="arch" type="xml">
+            <form string="Upload Licence">
+                <sheet>
+                    <group>
+                        <field name="lic_type"/>
+                        <field name="application_for"/>
+                        <field name="lic_file" widget="binary" filename="lic_file_name"/>
+                        <field name="lic_file_name" invisible="1"/>
+                    </group>
+                </sheet>
+                <footer>
+                    <button string="Upload" type="object" name="action_upload_licence" class="btn btn-primary"/>
+                    <button string="Cancel" class="btn btn-secondary" special="cancel"/>
+                </footer>
+            </form>
+        </field>
+    </record>
+
+    <record id="action_wizard_upload_licence" model="ir.actions.act_window">
+        <field name="name">Upload Licence</field>
+        <field name="res_model">upload.licence</field>
+        <field name="view_mode">form</field>
+        <field name="view_id" ref="view_wizard_upload_licence_form"/>
+        <field name="target">new</field>
+    </record>
+
+</odoo>

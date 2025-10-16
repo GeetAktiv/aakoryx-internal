@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <record id="base.user_admin" model="res.users">
+            <field name="company_ids" eval="[
+                (Command.LINK, ref('aak_base_data.lauttamus_security_llc_company')),
+                (Command.LINK, ref('aak_base_data.triconnex_lp_company')),
+            ]"/>
+        </record>
+
+        <record id="res_users_paul_lauttamus" model="res.users">
+            <field name="company_ids" eval="[
+                (Command.LINK, ref('aak_base_data.lauttamus_security_llc_company')),
+                (Command.LINK, ref('aak_base_data.triconnex_lp_company')),
+            ]"/>
+        </record>
+
+        <record id="res_users_tracey_kinder" model="res.users">
+            <field name="company_ids" eval="[
+                (Command.LINK, ref('aak_base_data.lauttamus_security_llc_company')),
+                (Command.LINK, ref('aak_base_data.triconnex_lp_company')),
+            ]"/>
+        </record>
+
+        <record id="res_users_lea_chase" model="res.users">
+            <field name="company_ids" eval="[
+                (Command.LINK, ref('aak_base_data.lauttamus_security_llc_company')),
+                (Command.LINK, ref('aak_base_data.triconnex_lp_company')),
+            ]"/>
+        </record>
+    </data>
+</odoo>

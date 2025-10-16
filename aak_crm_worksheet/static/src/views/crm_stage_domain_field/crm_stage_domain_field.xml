@@ -1,0 +1,5 @@
+<templates>
+    <t t-name="aak_crm_worksheet.CRMStageDomainField" t-inherit="web.DomainField" t-inherit-mode="primary">
+        <xpath expr="//div[hasclass('o_field_domain_panel')]" position="replace" />
+    </t>
+</templates>

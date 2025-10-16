@@ -1,0 +1,8 @@
+<odoo>
+    <data noupdate="0">
+        <!-- Inherit and update the existing FSM User group -->
+        <record id="survey.group_survey_user" model="res.groups">
+            <field name="name">Technician</field>
+        </record>
+    </data>
+</odoo>

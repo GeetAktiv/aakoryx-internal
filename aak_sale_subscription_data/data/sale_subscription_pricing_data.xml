@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="1">
+        <record id="subscription_pricing_maintenance_monthly" model="sale.subscription.pricing">
+            <field name="plan_id" ref="sale_subscription.subscription_plan_month"/>
+            <field name="price" eval="1"/>
+            <field name="currency_id" ref="base.USD"/>
+            <field name="product_template_id" ref="aak_product_data.product_template_maintenance"/>
+        </record>
+
+        <record id="subscription_pricing_maintenance_yearly" model="sale.subscription.pricing">
+            <field name="plan_id" ref="sale_subscription.subscription_plan_year"/>
+            <field name="price" eval="1"/>
+            <field name="currency_id" ref="base.USD"/>
+            <field name="product_template_id" ref="aak_product_data.product_template_maintenance"/>
+        </record>
+    </data>
+</odoo>

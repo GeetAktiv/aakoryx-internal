@@ -1,0 +1,97 @@
+id,name,fold,is_won,sequence,team_id:id
+crm.stage_lead1,Lead,,,1,sales_team.team_sales_department
+crm.stage_lead2,Opportunity,,,2,sales_team.team_sales_department
+crm.stage_lead3,Project Identification,,,3,sales_team.team_sales_department
+stage_lead4,Timeline & Budget Approved,,,4,sales_team.team_sales_department
+stage_lead5,Fit Established,,,5,sales_team.team_sales_department
+stage_lead6,Solution Presented with Justification,,,6,sales_team.team_sales_department
+stage_lead7,Proposal,,,7,sales_team.team_sales_department
+crm.stage_lead4,Commitment to move final,0,1,70,sales_team.team_sales_department
+avlc_paging_stage_lead1,Lead,,,1,aak_crm_data.team_avlc_paging
+avlc_paging_stage_lead2,Opportunity,,,2,aak_crm_data.team_avlc_paging
+avlc_paging_stage_lead3,Project Identification,,,3,aak_crm_data.team_avlc_paging
+avlc_paging_stage_lead4,Timeline & Budget Approved,,,4,aak_crm_data.team_avlc_paging
+avlc_paging_stage_lead5,Fit Established,,,5,aak_crm_data.team_avlc_paging
+avlc_paging_stage_lead6,Solution Presented with Justification,,,6,aak_crm_data.team_avlc_paging
+avlc_paging_stage_lead7,Proposal,,,7,aak_crm_data.team_avlc_paging
+avlc_paging_stage_lead8,Commitment to move final,0,1,70,aak_crm_data.team_avlc_paging
+avlc_answering_service_stage_lead1,Lead,,,1,aak_crm_data.team_avlc_answering_service
+avlc_answering_service_stage_lead2,Opportunity,,,2,aak_crm_data.team_avlc_answering_service
+avlc_answering_service_stage_lead3,Project Identification,,,3,aak_crm_data.team_avlc_answering_service
+avlc_answering_service_stage_lead4,Timeline & Budget Approved,,,4,aak_crm_data.team_avlc_answering_service
+avlc_answering_service_stage_lead5,Fit Established,,,5,aak_crm_data.team_avlc_answering_service
+avlc_answering_service_stage_lead6,Solution Presented with Justification,,,6,aak_crm_data.team_avlc_answering_service
+avlc_answering_service_stage_lead7,Proposal,,,7,aak_crm_data.team_avlc_answering_service
+avlc_answering_service_stage_lead8,Commitment to move final,0,1,70,aak_crm_data.team_avlc_answering_service
+avlc_security_service_stage_lead1,Lead,,,1,aak_crm_data.team_avlc_security_service
+avlc_security_service_stage_lead2,Opportunity,,,2,aak_crm_data.team_avlc_security_service
+avlc_security_service_stage_lead3,Project Identification,,,3,aak_crm_data.team_avlc_security_service
+avlc_security_service_stage_lead4,Timeline & Budget Approved,,,4,aak_crm_data.team_avlc_security_service
+avlc_security_service_stage_lead5,Fit Established,,,5,aak_crm_data.team_avlc_security_service
+avlc_security_service_stage_lead6,Solution Presented with Justification,,,6,aak_crm_data.team_avlc_security_service
+avlc_security_service_stage_lead7,Proposal,,,7,aak_crm_data.team_avlc_security_service
+avlc_security_service_stage_lead8,Commitment to move final,0,1,70,aak_crm_data.team_avlc_security_service
+ls_2wayradio_stage_lead1,Lead,,,1,aak_crm_data.team_ls_2wayradio
+ls_2wayradio_stage_lead2,Opportunity,,,2,aak_crm_data.team_ls_2wayradio
+ls_2wayradio_stage_lead3,Project Identification,,,3,aak_crm_data.team_ls_2wayradio
+ls_2wayradio_stage_lead4,Timeline & Budget Approved,,,4,aak_crm_data.team_ls_2wayradio
+ls_2wayradio_stage_lead5,Fit Established,,,5,aak_crm_data.team_ls_2wayradio
+ls_2wayradio_stage_lead6,Solution Presented with Justification,,,6,aak_crm_data.team_ls_2wayradio
+ls_2wayradio_stage_lead7,Proposal,,,7,aak_crm_data.team_ls_2wayradio
+ls_2wayradio_stage_lead8,Commitment to move final,0,1,70,aak_crm_data.team_ls_2wayradio
+ls_paging_lead1,Lead,,,1,aak_crm_data.team_ls_paging
+ls_paging_lead2,Opportunity,,,2,aak_crm_data.team_ls_paging
+ls_paging_lead3,Project Identification,,,3,aak_crm_data.team_ls_paging
+ls_paging_lead4,Timeline & Budget Approved,,,4,aak_crm_data.team_ls_paging
+ls_paging_lead5,Fit Established,,,5,aak_crm_data.team_ls_paging
+ls_paging_lead6,Solution Presented with Justification,,,6,aak_crm_data.team_ls_paging
+ls_paging_lead7,Proposal,,,7,aak_crm_data.team_ls_paging
+ls_paging_lead8,Commitment to move final,0,1,70,aak_crm_data.team_ls_paging
+ls_answering_service_stage_lead1,Lead,,,1,aak_crm_data.team_ls_answering_service
+ls_answering_service_stage_lead2,Opportunity,,,2,aak_crm_data.team_ls_answering_service
+ls_answering_service_stage_lead3,Project Identification,,,3,aak_crm_data.team_ls_answering_service
+ls_answering_service_stage_lead4,Timeline & Budget Approved,,,4,aak_crm_data.team_ls_answering_service
+ls_answering_service_stage_lead5,Fit Established,,,5,aak_crm_data.team_ls_answering_service
+ls_answering_service_stage_lead6,Solution Presented with Justification,,,6,aak_crm_data.team_ls_answering_service
+ls_answering_service_stage_lead7,Proposal,,,7,aak_crm_data.team_ls_answering_service
+ls_answering_service_stage_lead8,Commitment to move final,0,1,70,aak_crm_data.team_ls_answering_service
+ls_security_service_stage_lead1,Lead,,,1,aak_crm_data.team_ls_security_service
+ls_security_service_stage_lead2,Opportunity,,,2,aak_crm_data.team_ls_security_service
+ls_security_service_stage_lead3,Project Identification,,,3,aak_crm_data.team_ls_security_service
+ls_security_service_stage_lead4,Timeline & Budget Approved,,,4,aak_crm_data.team_ls_security_service
+ls_security_service_stage_lead5,Fit Established,,,5,aak_crm_data.team_ls_security_service
+ls_security_service_stage_lead6,Solution Presented with Justification,,,6,aak_crm_data.team_ls_security_service
+ls_security_service_stage_lead7,Proposal,,,7,aak_crm_data.team_ls_security_service
+ls_security_service_stage_lead8,Commitment to move final,0,1,70,aak_crm_data.team_ls_security_service
+tc_2wayradio_stage_lead1,Lead,,,1,aak_crm_data.team_tc_2wayradio
+tc_2wayradio_stage_lead2,Opportunity,,,2,aak_crm_data.team_tc_2wayradio
+tc_2wayradio_stage_lead3,Project Identification,,,3,aak_crm_data.team_tc_2wayradio
+tc_2wayradio_stage_lead4,Timeline & Budget Approved,,,4,aak_crm_data.team_tc_2wayradio
+tc_2wayradio_stage_lead5,Fit Established,,,5,aak_crm_data.team_tc_2wayradio
+tc_2wayradio_stage_lead6,Solution Presented with Justification,,,6,aak_crm_data.team_tc_2wayradio
+tc_2wayradio_stage_lead7,Proposal,,,7,aak_crm_data.team_tc_2wayradio
+tc_2wayradio_stage_lead8,Commitment to move final,0,1,70,aak_crm_data.team_tc_2wayradio
+tc_paging_lead1,Lead,,,1,aak_crm_data.team_tc_paging
+tc_paging_lead2,Opportunity,,,2,aak_crm_data.team_tc_paging
+tc_paging_lead3,Project Identification,,,3,aak_crm_data.team_tc_paging
+tc_paging_lead4,Timeline & Budget Approved,,,4,aak_crm_data.team_tc_paging
+tc_paging_lead5,Fit Established,,,5,aak_crm_data.team_tc_paging
+tc_paging_lead6,Solution Presented with Justification,,,6,aak_crm_data.team_tc_paging
+tc_paging_lead7,Proposal,,,7,aak_crm_data.team_tc_paging
+tc_paging_lead8,Commitment to move final,0,1,70,aak_crm_data.team_tc_paging
+tc_answering_service_stage_lead1,Lead,,,1,aak_crm_data.team_tc_answering_service
+tc_answering_service_stage_lead2,Opportunity,,,2,aak_crm_data.team_tc_answering_service
+tc_answering_service_stage_lead3,Project Identification,,,3,aak_crm_data.team_tc_answering_service
+tc_answering_service_stage_lead4,Timeline & Budget Approved,,,4,aak_crm_data.team_tc_answering_service
+tc_answering_service_stage_lead5,Fit Established,,,5,aak_crm_data.team_tc_answering_service
+tc_answering_service_stage_lead6,Solution Presented with Justification,,,6,aak_crm_data.team_tc_answering_service
+tc_answering_service_stage_lead7,Proposal,,,7,aak_crm_data.team_tc_answering_service
+tc_answering_service_stage_lead8,Commitment to move final,0,1,70,aak_crm_data.team_tc_answering_service
+tc_security_service_stage_lead1,Lead,,,1,aak_crm_data.team_tc_security_service
+tc_security_service_stage_lead2,Opportunity,,,2,aak_crm_data.team_tc_security_service
+tc_security_service_stage_lead3,Project Identification,,,3,aak_crm_data.team_tc_security_service
+tc_security_service_stage_lead4,Timeline & Budget Approved,,,4,aak_crm_data.team_tc_security_service
+tc_security_service_stage_lead5,Fit Established,,,5,aak_crm_data.team_tc_security_service
+tc_security_service_stage_lead6,Solution Presented with Justification,,,6,aak_crm_data.team_tc_security_service
+tc_security_service_stage_lead7,Proposal,,,7,aak_crm_data.team_tc_security_service
+tc_security_service_stage_lead8,Commitment to move final,0,1,70,aak_crm_data.team_tc_security_service

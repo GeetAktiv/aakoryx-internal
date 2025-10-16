@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record id="mail_template_tower_install_survey_invite" model="mail.template">
+        <field name="name">Customer Feedback: Tower Installation Survey</field>
+        <field name="model_id" ref="project.model_project_task"/>
+        <field name="subject">We’d love your feedback on the tower installation</field>
+        <field name="email_from">{{ user.email_formatted }}</field>
+        <field name="partner_to">{{ (object.partner_id and object.partner_id.id) or '' }}</field>
+        <field name="auto_delete" eval="False"/>
+
+        <field name="body_html" type="html">
+            <div style="font-family:Arial,Helvetica,sans-serif; font-size:14px; line-height:1.6;">
+                <p>
+                    Dear <t t-esc="object.partner_id.name or 'Customer'"/>,
+                </p>
+
+                <p>
+                    Thank you for choosing our service for your recent tower installation.
+                    We continuously strive to improve our quality and would appreciate
+                    your feedback by completing a short survey.
+                </p>
+
+                <p>
+                    Please click the button below to begin:
+                </p>
+
+                <p style="margin-top: 20px; text-align: left;">
+                    <a t-att-href="ctx.get('survey_url')"
+                       class="btn btn-primary">
+                        Start Survey
+                    </a>
+                </p>
+
+                <p>
+                    It will only take a few minutes to complete, and your input helps us improve
+                    our service and installation quality.
+                </p>
+
+                <p>
+                    Thank you for your time and valuable feedback!
+                </p>
+
+                <p>
+                    Best regards,
+                    <br/>
+                    <strong>
+                        <t t-esc="user.name or 'Your Company Team'"/>
+                    </strong>
+                    <br/>
+                    <t t-esc="user.company_id.name or ''"/>
+                </p>
+            </div>
+        </field>
+    </record>
+</odoo>

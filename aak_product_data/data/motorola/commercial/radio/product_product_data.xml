@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <function model="product.product" name="write">
+            <value model="product.template" eval="obj().browse(ref('aak_product_data.product_template_bpr50_dx'))._get_variant_for_combination(
+                obj().env.ref('aak_product_data.product_template_attribute_value__product_template_attribute_line__product_template_bpr50_dx__product_attribute_band_split__product_attribute_band_split__product_attribute_value_400_470_mhz') +
+                obj().env.ref('aak_product_data.product_template_attribute_value__product_template_attribute_line__product_template_bpr50_dx__product_attribute_band__product_attribute_band__product_attribute_value_uhf') +
+                obj().env.ref('aak_product_data.product_template_attribute_value__product_template_attribute_line__product_template_bpr50_dx__product_attribute_power__product_attribute_power__product_attribute_value_4w') +
+                obj().env.ref('aak_product_data.product_template_attribute_value__product_template_attribute_line__product_template_bpr50_dx__product_attribute_conv_chan__product_attribute_conv_chan__product_attribute_value_64') +
+                obj().env.ref('aak_product_data.product_template_attribute_value__product_template_attribute_line__product_template_bpr50_dx__product_attribute_display__product_attribute_display__product_attribute_value_no') +
+                obj().env.ref('aak_product_data.product_template_attribute_value__product_template_attribute_line__product_template_bpr50_dx__product_attribute_keypad__product_attribute_keypad__product_attribute_value_no')
+            ).id"/>
+            <value eval="{
+                'default_code': 'AAH88SCK8AD5BN',
+            }"/>
+        </function>
+
+        <function model="product.product" name="write">
+            <value model="product.template" eval="obj().browse(ref('aak_product_data.product_template_bpr50_dx'))._get_variant_for_combination(
+                obj().env.ref('aak_product_data.product_template_attribute_value__product_template_attribute_line__product_template_bpr50_dx__product_attribute_band_split__product_attribute_band_split__product_attribute_value_136_174_mhz') +
+                obj().env.ref('aak_product_data.product_template_attribute_value__product_template_attribute_line__product_template_bpr50_dx__product_attribute_band__product_attribute_band__product_attribute_value_vhf') +
+                obj().env.ref('aak_product_data.product_template_attribute_value__product_template_attribute_line__product_template_bpr50_dx__product_attribute_power__product_attribute_power__product_attribute_value_5w') +
+                obj().env.ref('aak_product_data.product_template_attribute_value__product_template_attribute_line__product_template_bpr50_dx__product_attribute_conv_chan__product_attribute_conv_chan__product_attribute_value_64') +
+                obj().env.ref('aak_product_data.product_template_attribute_value__product_template_attribute_line__product_template_bpr50_dx__product_attribute_display__product_attribute_display__product_attribute_value_no') +
+                obj().env.ref('aak_product_data.product_template_attribute_value__product_template_attribute_line__product_template_bpr50_dx__product_attribute_keypad__product_attribute_keypad__product_attribute_value_no')
+            ).id"/>
+            <value eval="{
+                'default_code': 'AAH88LDK8AD5BN',
+            }"/>
+        </function>
+    </data>
+</odoo>

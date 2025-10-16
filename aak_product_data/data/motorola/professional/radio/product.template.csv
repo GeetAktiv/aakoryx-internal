@@ -1,0 +1,11 @@
+id,name,description,default_code,is_storable,tracking,categ_id:id
+product_template_mototrbo_r5,MOTOTRBO R5,,,TRUE,none,product_category_motorola_professional_radio
+product_template_xpr_3300e,XPR 3300e,,,TRUE,none,product_category_motorola_professional_radio
+product_template_xpr_3500e,XPR 3500e,,,TRUE,none,product_category_motorola_professional_radio
+product_template_sl_3500e,SL 3500e,,,TRUE,none,product_category_motorola_professional_radio
+product_template_mototrbo_r7,MOTOTRBO R7,,,TRUE,none,product_category_motorola_professional_radio
+product_template_mototrbo_ion,MOTOTRBO Ion,,,TRUE,none,product_category_motorola_professional_radio
+product_template_rfid_enabled_knobs,RFID Enabled Knobs,,,TRUE,none,product_category_motorola_professional_radio
+product_template_xpr_2500,XPR 2500,,,TRUE,none,product_category_motorola_professional_radio
+product_template_xpr_5300e,XPR 5300e,,,TRUE,none,product_category_motorola_professional_radio
+product_template_xpr_5500e,XPR 5500e,,,TRUE,none,product_category_motorola_professional_radio

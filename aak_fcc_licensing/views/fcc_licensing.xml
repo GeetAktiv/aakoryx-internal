@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <!-- Tree View -->
+    <record id="view_fcc_licensing_tree" model="ir.ui.view">
+        <field name="name">fcc.licensing.tree</field>
+        <field name="model">fcc.licensing</field>
+        <field name="arch" type="xml">
+            <list>
+                <field name="lic_type"/>
+                <field name="application_for"/>
+                <field name="lic_file_name"/>
+            </list>
+        </field>
+    </record>
+
+    <!-- Form View -->
+    <record id="view_fcc_licensing_form" model="ir.ui.view">
+        <field name="name">fcc.licensing.form</field>
+        <field name="model">fcc.licensing</field>
+        <field name="arch" type="xml">
+            <form string="FCC Licensing">
+                <sheet>
+                    <group>
+                        <field name="lic_type"/>
+                        <field name="application_for"/>
+                        <field name="lic_file" widget="binary" filename="lic_file_name"/>
+                        <field name="lic_file_name" invisible="1"/>
+                    </group>
+                </sheet>
+            </form>
+        </field>
+    </record>
+
+    <!-- Action -->
+    <record id="action_fcc_licensing" model="ir.actions.act_window">
+        <field name="name">FCC Licensing</field>
+        <field name="res_model">fcc.licensing</field>
+        <field name="view_mode">list,form</field>
+        <field name="help" type="html">
+            <p class="oe_view_nocontent_create">
+                Click to create a new FCC Licensing record.
+            </p>
+        </field>
+    </record>
+
+    <!-- Menu Item under Sales → Configuration -->
+    <menuitem id="menu_fcc_licensing_root"
+              name="FCC Licensing"
+              parent="sale.menu_sale_config"
+              action="action_fcc_licensing"
+              sequence="100"/>
+
+</odoo>

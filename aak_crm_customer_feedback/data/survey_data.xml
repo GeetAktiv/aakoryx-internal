@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <!-- Create a new survey -->
+    <record id="survey_customer_feedback" model="survey.survey">
+        <field name="title">Customer Feedback Survey</field>
+        <field name="description">
+            We value your feedback! Please answer these quick questions to help us improve.
+        </field>
+        <field name="active">True</field>
+        <field name="survey_type">survey</field>
+        <field name="questions_layout">one_page</field>
+    </record>
+
+    <!-- Question 1 -->
+    <record id="survey_question_satisfaction" model="survey.question">
+        <field name="survey_id" ref="survey_customer_feedback"/>
+        <field name="title">How satisfied are you with our service?</field>
+        <field name="question_type">simple_choice</field>
+        <field name="constr_mandatory">True</field>
+        <field name="sequence">1</field>
+    </record>
+
+    <!-- Choices for Question 1 -->
+    <record id="survey_question_satisfaction_opt1" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_satisfaction"/>
+        <field name="value">Very Satisfied</field>
+    </record>
+    <record id="survey_question_satisfaction_opt2" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_satisfaction"/>
+        <field name="value">Satisfied</field>
+    </record>
+    <record id="survey_question_satisfaction_opt3" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_satisfaction"/>
+        <field name="value">Neutral</field>
+    </record>
+    <record id="survey_question_satisfaction_opt4" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_satisfaction"/>
+        <field name="value">Dissatisfied</field>
+    </record>
+    <record id="survey_question_satisfaction_opt5" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_satisfaction"/>
+        <field name="value">Very Dissatisfied</field>
+    </record>
+
+    <!-- Question 2 -->
+    <record id="survey_question_comments" model="survey.question">
+        <field name="survey_id" ref="survey_customer_feedback"/>
+        <field name="title">What can we do to improve?</field>
+        <field name="question_type">text_box</field>
+        <field name="constr_mandatory">False</field>
+        <field name="sequence">2</field>
+    </record>
+
+    <!-- Question 3: Tower Installation Quality -->
+    <record id="survey_question_tower_quality" model="survey.question">
+        <field name="survey_id" ref="survey_customer_feedback"/>
+        <field name="title">How would you rate the overall quality of the tower installation?</field>
+        <field name="question_type">simple_choice</field>
+        <field name="constr_mandatory">True</field>
+        <field name="sequence">3</field>
+    </record>
+
+    <record id="survey_question_tower_quality_opt1" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_tower_quality"/>
+        <field name="value">Excellent</field>
+    </record>
+    <record id="survey_question_tower_quality_opt2" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_tower_quality"/>
+        <field name="value">Good</field>
+    </record>
+    <record id="survey_question_tower_quality_opt3" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_tower_quality"/>
+        <field name="value">Average</field>
+    </record>
+    <record id="survey_question_tower_quality_opt4" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_tower_quality"/>
+        <field name="value">Poor</field>
+    </record>
+
+    <!-- Question 4: Safety Compliance -->
+    <record id="survey_question_tower_safety" model="survey.question">
+        <field name="survey_id" ref="survey_customer_feedback"/>
+        <field name="title">Was the tower installation done following safety standards?</field>
+        <field name="question_type">simple_choice</field>
+        <field name="constr_mandatory">True</field>
+        <field name="sequence">4</field>
+    </record>
+
+    <record id="survey_question_tower_safety_opt1" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_tower_safety"/>
+        <field name="value">Yes, completely safe</field>
+    </record>
+    <record id="survey_question_tower_safety_opt2" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_tower_safety"/>
+        <field name="value">Partially safe</field>
+    </record>
+    <record id="survey_question_tower_safety_opt3" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_tower_safety"/>
+        <field name="value">No, unsafe conditions</field>
+    </record>
+
+    <!-- Question 5: Installation Time -->
+    <record id="survey_question_tower_time" model="survey.question">
+        <field name="survey_id" ref="survey_customer_feedback"/>
+        <field name="title">Was the tower installation completed within the expected time?</field>
+        <field name="question_type">simple_choice</field>
+        <field name="constr_mandatory">True</field>
+        <field name="sequence">5</field>
+    </record>
+
+    <record id="survey_question_tower_time_opt1" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_tower_time"/>
+        <field name="value">Ahead of schedule</field>
+    </record>
+    <record id="survey_question_tower_time_opt2" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_tower_time"/>
+        <field name="value">On time</field>
+    </record>
+    <record id="survey_question_tower_time_opt3" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_tower_time"/>
+        <field name="value">Slightly delayed</field>
+    </record>
+    <record id="survey_question_tower_time_opt4" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_tower_time"/>
+        <field name="value">Significantly delayed</field>
+    </record>
+</odoo>

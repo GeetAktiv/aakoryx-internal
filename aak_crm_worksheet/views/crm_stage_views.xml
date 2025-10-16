@@ -1,0 +1,16 @@
+<odoo>
+    <record id="view_crm_stage_form_inherit_worksheet" model="ir.ui.view">
+        <field name="name">crm.stage.form.worksheet</field>
+        <field name="model">crm.stage</field>
+        <field name="inherit_id" ref="crm.crm_stage_form"/>
+        <field name="arch" type="xml">
+            <group position="inside">
+                <group string="Worksheet" name="worksheet_group">
+                    <field name="worksheet_template_id" options="{'no_create': True, 'no_create_edit':True}"/>
+                    <field name="worksheet_model_name" invisible="1"/>
+                    <field name="worksheet_success_conditions" widget="crm_stage_domain_field" options="{'model': 'worksheet_model_name'}" invisible="not worksheet_template_id" />
+                </group>
+            </group>
+        </field>
+    </record>
+</odoo>

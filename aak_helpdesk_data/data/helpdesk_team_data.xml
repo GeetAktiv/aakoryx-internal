@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="1">
+        <!-- A. V. Lauttamus Communications, Inc. - 2 Way Radio -->
+        <record id="helpdesk.helpdesk_team1" model="helpdesk.team">
+            <field name="name">2 Way Radio - Support</field>
+            <field name="alias_name"></field>
+            <field name="member_ids" eval="[(Command.UNLINK, ref('base.user_admin'))]"/>
+            <field name="use_fsm">True</field>
+            <field name="fsm_project_id" ref="aak_sales_data.fsm_project_2way_radio_service"/>
+            <field name="use_product_repairs">True</field>
+        </record>
+
+        <!-- A. V. Lauttamus Communications, Inc. - Answering Service -->
+        <record id="helpdesk_team_avlc_answering_service_support" model="helpdesk.team">
+            <field name="name">Answering Service - Support</field>
+            <field name="alias_name"></field>
+            <field name="stage_ids" eval="[
+                (Command.LINK, ref('helpdesk.stage_new')),
+                (Command.LINK, ref('helpdesk.stage_in_progress')),
+                (Command.LINK, ref('helpdesk.stage_on_hold')),
+                (Command.LINK, ref('helpdesk.stage_solved')),
+                (Command.LINK, ref('helpdesk.stage_cancelled')),
+            ]"/>
+            <field name="use_sla" eval="True"/>
+            <field name="member_ids" eval="[]"/>
+            <field name="company_id" ref="base.main_company"/>
+            <field name="use_fsm">True</field>
+            <field name="fsm_project_id" ref="aak_sales_data.fsm_project_answering_service_service"/>
+            <field name="use_product_repairs">True</field>
+        </record>
+
+        <!-- A. V. Lauttamus Communications, Inc. - Paging -->
+        <record id="helpdesk_team_avlc_paging_support" model="helpdesk.team">
+            <field name="name">Paging - Support</field>
+            <field name="alias_name"></field>
+            <field name="stage_ids" eval="[
+                (Command.LINK, ref('helpdesk.stage_new')),
+                (Command.LINK, ref('helpdesk.stage_in_progress')),
+                (Command.LINK, ref('helpdesk.stage_on_hold')),
+                (Command.LINK, ref('helpdesk.stage_solved')),
+                (Command.LINK, ref('helpdesk.stage_cancelled')),
+            ]"/>
+            <field name="use_sla" eval="True"/>
+            <field name="member_ids" eval="[]"/>
+            <field name="company_id" ref="base.main_company"/>
+            <field name="use_fsm">True</field>
+            <field name="fsm_project_id" ref="aak_sales_data.fsm_project_paging_service"/>
+            <field name="use_product_repairs">True</field>
+        </record>
+
+        <!-- A. V. Lauttamus Communications, Inc. - Security Service -->
+        <record id="helpdesk_team_avlc_security_service_support" model="helpdesk.team">
+            <field name="name">Security Service - Support</field>
+            <field name="alias_name"></field>
+            <field name="stage_ids" eval="[
+                (Command.LINK, ref('helpdesk.stage_new')),
+                (Command.LINK, ref('helpdesk.stage_in_progress')),
+                (Command.LINK, ref('helpdesk.stage_on_hold')),
+                (Command.LINK, ref('helpdesk.stage_solved')),
+                (Command.LINK, ref('helpdesk.stage_cancelled')),
+            ]"/>
+            <field name="use_sla" eval="True"/>
+            <field name="member_ids" eval="[]"/>
+            <field name="company_id" ref="base.main_company"/>
+            <field name="use_fsm">True</field>
+            <field name="fsm_project_id" ref="aak_sales_data.fsm_project_security_service_service"/>
+            <field name="use_product_repairs">True</field>
+        </record>
+
+        <!-- LAUTTAMUS SECURITY, LLC - 2 Way Radio -->
+        <record id="helpdesk_team_ls_2way_radio_support" model="helpdesk.team">
+            <field name="name">2 Way Radio - Support</field>
+            <field name="alias_name"></field>
+            <field name="stage_ids" eval="[
+                (Command.LINK, ref('helpdesk.stage_new')),
+                (Command.LINK, ref('helpdesk.stage_in_progress')),
+                (Command.LINK, ref('helpdesk.stage_on_hold')),
+                (Command.LINK, ref('helpdesk.stage_solved')),
+                (Command.LINK, ref('helpdesk.stage_cancelled')),
+            ]"/>
+            <field name="use_sla" eval="True"/>
+            <field name="member_ids" eval="[]"/>
+            <field name="company_id" ref="aak_base_data.lauttamus_security_llc_company"/>
+            <field name="use_fsm">True</field>
+            <field name="fsm_project_id" ref="aak_sales_data.fsm_project_ls_2way_radio_service"/>
+            <field name="use_product_repairs">True</field>
+        </record>
+
+        <!-- LAUTTAMUS SECURITY, LLC - Answering Service -->
+        <record id="helpdesk_team_ls_answering_service_support" model="helpdesk.team">
+            <field name="name">Answering Service - Support</field>
+            <field name="alias_name"></field>
+            <field name="stage_ids" eval="[
+                (Command.LINK, ref('helpdesk.stage_new')),
+                (Command.LINK, ref('helpdesk.stage_in_progress')),
+                (Command.LINK, ref('helpdesk.stage_on_hold')),
+                (Command.LINK, ref('helpdesk.stage_solved')),
+                (Command.LINK, ref('helpdesk.stage_cancelled')),
+            ]"/>
+            <field name="use_sla" eval="True"/>
+            <field name="member_ids" eval="[]"/>
+            <field name="company_id" ref="aak_base_data.lauttamus_security_llc_company"/>
+            <field name="use_fsm">True</field>
+            <field name="fsm_project_id" ref="aak_sales_data.fsm_project_ls_answering_service_service"/>
+            <field name="use_product_repairs">True</field>
+        </record>
+
+        <!-- LAUTTAMUS SECURITY, LLC - Paging -->
+        <record id="helpdesk_team_ls_paging_support" model="helpdesk.team">
+            <field name="name">Paging - Support</field>
+            <field name="alias_name"></field>
+            <field name="stage_ids" eval="[
+                (Command.LINK, ref('helpdesk.stage_new')),
+                (Command.LINK, ref('helpdesk.stage_in_progress')),
+                (Command.LINK, ref('helpdesk.stage_on_hold')),
+                (Command.LINK, ref('helpdesk.stage_solved')),
+                (Command.LINK, ref('helpdesk.stage_cancelled')),
+            ]"/>
+            <field name="use_sla" eval="True"/>
+            <field name="member_ids" eval="[]"/>
+            <field name="company_id" ref="aak_base_data.lauttamus_security_llc_company"/>
+            <field name="use_fsm">True</field>
+            <field name="fsm_project_id" ref="aak_sales_data.fsm_project_ls_paging_service"/>
+            <field name="use_product_repairs">True</field>
+        </record>
+
+        <!-- LAUTTAMUS SECURITY, LLC - Security Service -->
+        <record id="helpdesk_team_ls_security_service_support" model="helpdesk.team">
+            <field name="name">Security Service - Support</field>
+            <field name="alias_name"></field>
+            <field name="stage_ids" eval="[
+                (Command.LINK, ref('helpdesk.stage_new')),
+                (Command.LINK, ref('helpdesk.stage_in_progress')),
+                (Command.LINK, ref('helpdesk.stage_on_hold')),
+                (Command.LINK, ref('helpdesk.stage_solved')),
+                (Command.LINK, ref('helpdesk.stage_cancelled')),
+            ]"/>
+            <field name="use_sla" eval="True"/>
+            <field name="member_ids" eval="[]"/>
+            <field name="company_id" ref="aak_base_data.lauttamus_security_llc_company"/>
+            <field name="use_fsm">True</field>
+            <field name="fsm_project_id" ref="aak_sales_data.fsm_project_ls_security_service_service"/>
+            <field name="use_product_repairs">True</field>
+        </record>
+
+        <!-- TRICONNEX, LP - 2 Way Radio -->
+        <record id="helpdesk_team_tc_2way_radio_support" model="helpdesk.team">
+            <field name="name">2 Way Radio - Support</field>
+            <field name="alias_name"></field>
+            <field name="stage_ids" eval="[
+                (Command.LINK, ref('helpdesk.stage_new')),
+                (Command.LINK, ref('helpdesk.stage_in_progress')),
+                (Command.LINK, ref('helpdesk.stage_on_hold')),
+                (Command.LINK, ref('helpdesk.stage_solved')),
+                (Command.LINK, ref('helpdesk.stage_cancelled')),
+            ]"/>
+            <field name="use_sla" eval="True"/>
+            <field name="member_ids" eval="[]"/>
+            <field name="company_id" ref="aak_base_data.triconnex_lp_company"/>
+            <field name="use_fsm">True</field>
+            <field name="fsm_project_id" ref="aak_sales_data.fsm_project_tc_2way_radio_service"/>
+            <field name="use_product_repairs">True</field>
+        </record>
+
+        <!-- TRICONNEX, LP - Answering Service -->
+        <record id="helpdesk_team_tc_answering_service_support" model="helpdesk.team">
+            <field name="name">Answering Service - Support</field>
+            <field name="alias_name"></field>
+            <field name="stage_ids" eval="[
+                (Command.LINK, ref('helpdesk.stage_new')),
+                (Command.LINK, ref('helpdesk.stage_in_progress')),
+                (Command.LINK, ref('helpdesk.stage_on_hold')),
+                (Command.LINK, ref('helpdesk.stage_solved')),
+                (Command.LINK, ref('helpdesk.stage_cancelled')),
+            ]"/>
+            <field name="use_sla" eval="True"/>
+            <field name="member_ids" eval="[]"/>
+            <field name="company_id" ref="aak_base_data.triconnex_lp_company"/>
+            <field name="use_fsm">True</field>
+            <field name="fsm_project_id" ref="aak_sales_data.fsm_project_tc_answering_service_service"/>
+            <field name="use_product_repairs">True</field>
+        </record>
+
+        <!-- TRICONNEX, LP - Paging -->
+        <record id="helpdesk_team_tc_paging_support" model="helpdesk.team">
+            <field name="name">Paging - Support</field>
+            <field name="alias_name"></field>
+            <field name="stage_ids" eval="[
+                (Command.LINK, ref('helpdesk.stage_new')),
+                (Command.LINK, ref('helpdesk.stage_in_progress')),
+                (Command.LINK, ref('helpdesk.stage_on_hold')),
+                (Command.LINK, ref('helpdesk.stage_solved')),
+                (Command.LINK, ref('helpdesk.stage_cancelled')),
+            ]"/>
+            <field name="use_sla" eval="True"/>
+            <field name="member_ids" eval="[]"/>
+            <field name="company_id" ref="aak_base_data.triconnex_lp_company"/>
+            <field name="use_fsm">True</field>
+            <field name="fsm_project_id" ref="aak_sales_data.fsm_project_tc_paging_service"/>
+            <field name="use_product_repairs">True</field>
+        </record>
+
+        <!-- TRICONNEX, LP - Security Service -->
+        <record id="helpdesk_team_tc_security_service_support" model="helpdesk.team">
+            <field name="name">Security Service - Support</field>
+            <field name="alias_name"></field>
+            <field name="stage_ids" eval="[
+                (Command.LINK, ref('helpdesk.stage_new')),
+                (Command.LINK, ref('helpdesk.stage_in_progress')),
+                (Command.LINK, ref('helpdesk.stage_on_hold')),
+                (Command.LINK, ref('helpdesk.stage_solved')),
+                (Command.LINK, ref('helpdesk.stage_cancelled')),
+            ]"/>
+            <field name="use_sla" eval="True"/>
+            <field name="member_ids" eval="[]"/>
+            <field name="company_id" ref="aak_base_data.triconnex_lp_company"/>
+            <field name="use_fsm">True</field>
+            <field name="fsm_project_id" ref="aak_sales_data.fsm_project_tc_security_service_service"/>
+            <field name="use_product_repairs">True</field>
+        </record>
+
+        <!-- Remove records created by Odoo per company -->
+        <function name="unlink" model="helpdesk.team">
+            <value model="helpdesk.team" eval="obj().search(
+                [('name', '=', 'Customer Care')]).ids"/>
+        </function>
+    </data>
+</odoo>

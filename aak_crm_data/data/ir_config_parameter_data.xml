@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <function name="set_param" model="ir.config_parameter">
+            <value>sales_team.membership_multi</value>
+            <value>True</value>
+        </function>
+    </data>
+</odoo>

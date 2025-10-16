@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="1">
+
+        <!-- Scheduled Action: runs daily at 3 PM -->
+        <record id="ir_cron_auto_create_lead_activity" model="ir.cron">
+            <field name="name">Auto Create CRM Lead Activities</field>
+            <field name="model_id" ref="crm.model_crm_lead"/>
+            <field name="state">code</field>
+            <field name="code">model.action_create_daily_activities()</field>
+            <field name="active">True</field>
+            <field name="interval_number">1</field>
+            <field name="interval_type">days</field>
+            <field name="nextcall" eval="(DateTime.now().replace(hour=20, minute=0, second=0, microsecond=0))"/>
+        </record>
+
+    </data>
+</odoo>

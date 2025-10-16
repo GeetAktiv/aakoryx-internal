@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <function name="toggle_noupdate"
+            model="ir.model.data"
+            eval="['res.company', ref('base.main_company')]"/>
+    
+        <record id="base.main_company" model="res.company">
+            <field name="name">A. V. Lauttamus Communications, Inc.</field>
+        </record>
+
+        <function name="toggle_noupdate"
+            model="ir.model.data"
+            eval="['res.company', ref('base.main_company')]"/>
+    </data>
+    <data noupdate="1">
+        <record id="lauttamus_security_llc_company" model="res.company">
+            <field name="name">LAUTTAMUS SECURITY, LLC</field>
+            <field name="partner_id" ref="lauttamus_security_llc_partner"/>
+            <field name="currency_id" ref="base.USD"/>
+        </record>
+
+        <record id="triconnex_lp_company" model="res.company">
+            <field name="name">TRICONNEX, LP</field>
+            <field name="partner_id" ref="triconnex_lp_partner"/>
+            <field name="currency_id" ref="base.USD"/>
+        </record>
+    </data> 
+</odoo>

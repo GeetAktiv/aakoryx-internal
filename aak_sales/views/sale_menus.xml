@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <!--    Component List Menu under Sales  -->
+    <menuitem name="BOM Inventory"
+              id="menu_component_lists"
+              action="aak_sales.action_component_list"
+              parent="sale.prod_config_main"
+              sequence="40"/>
+</odoo>

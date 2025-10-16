@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record id="view_order_form_inherit_custom_button" model="ir.ui.view">
+        <field name="name">sale.order.form.custom.button</field>
+        <field name="model">sale.order</field>
+        <field name="inherit_id" ref="sale.view_order_form"/>
+        <field name="arch" type="xml">
+            <!-- Add button in header -->
+            <xpath expr="//header" position="inside">
+                <button type="action" invisible="state in ['draft', 'sale'] or fcc_licence_required != True"
+                        name="%(action_wizard_upload_licence)d"
+                        string="Upload Licence"
+                        class="btn btn-primary"
+                />
+            </xpath>
+            <xpath expr="//sheet" position="inside">
+                <group>
+                    <field name="fcc_licence_required" invisible="1"/>
+                </group>
+            </xpath>
+        </field>
+    </record>
+</odoo>

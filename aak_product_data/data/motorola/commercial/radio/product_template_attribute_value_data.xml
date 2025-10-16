@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <function model="ir.model.data" name="_update_xmlids">
+            <value model="base" eval="[{
+                'xml_id': 'aak_product_data.product_template_attribute_value__product_template_attribute_line__product_template_bpr50_dx__product_attribute_band_split__product_attribute_band_split__product_attribute_value_400_470_mhz',
+                'record': obj().env['product.template.attribute.value'].search([
+                    ('product_attribute_value_id', '=', ref('aak_product_data.product_attribute_band_split__product_attribute_value_400_470_mhz')),
+                    ('attribute_line_id', '=', ref('aak_product_data.product_template_attribute_line__product_template_bpr50_dx__product_attribute_band_split')),
+                ]),
+                'noupdate': True,
+            }, {
+                'xml_id': 'aak_product_data.product_template_attribute_value__product_template_attribute_line__product_template_bpr50_dx__product_attribute_band_split__product_attribute_band_split__product_attribute_value_136_174_mhz',
+                'record': obj().env['product.template.attribute.value'].search([
+                    ('product_attribute_value_id', '=', ref('aak_product_data.product_attribute_band_split__product_attribute_value_136_174_mhz')),
+                    ('attribute_line_id', '=', ref('aak_product_data.product_template_attribute_line__product_template_bpr50_dx__product_attribute_band_split')),
+                ]),
+                'noupdate': True,
+            }, {
+                'xml_id': 'aak_product_data.product_template_attribute_value__product_template_attribute_line__product_template_bpr50_dx__product_attribute_band__product_attribute_band__product_attribute_value_uhf',
+                'record': obj().env['product.template.attribute.value'].search([
+                    ('product_attribute_value_id', '=', ref('aak_product_data.product_attribute_band__product_attribute_value_uhf')),
+                    ('attribute_line_id', '=', ref('aak_product_data.product_template_attribute_line__product_template_bpr50_dx__product_attribute_band')),
+                ]),
+                'noupdate': True,
+            }, {
+                'xml_id': 'aak_product_data.product_template_attribute_value__product_template_attribute_line__product_template_bpr50_dx__product_attribute_band__product_attribute_band__product_attribute_value_vhf',
+                'record': obj().env['product.template.attribute.value'].search([
+                    ('product_attribute_value_id', '=', ref('aak_product_data.product_attribute_band__product_attribute_value_vhf')),
+                    ('attribute_line_id', '=', ref('aak_product_data.product_template_attribute_line__product_template_bpr50_dx__product_attribute_band')),
+                ]),
+                'noupdate': True,
+            }, {
+                'xml_id': 'aak_product_data.product_template_attribute_value__product_template_attribute_line__product_template_bpr50_dx__product_attribute_power__product_attribute_power__product_attribute_value_4w',
+                'record': obj().env['product.template.attribute.value'].search([
+                    ('product_attribute_value_id', '=', ref('aak_product_data.product_attribute_power__product_attribute_value_4w')),
+                    ('attribute_line_id', '=', ref('aak_product_data.product_template_attribute_line__product_template_bpr50_dx__product_attribute_power')),
+                ]),
+                'noupdate': True,
+            }, {
+                'xml_id': 'aak_product_data.product_template_attribute_value__product_template_attribute_line__product_template_bpr50_dx__product_attribute_power__product_attribute_power__product_attribute_value_5w',
+                'record': obj().env['product.template.attribute.value'].search([
+                    ('product_attribute_value_id', '=', ref('aak_product_data.product_attribute_power__product_attribute_value_5w')),
+                    ('attribute_line_id', '=', ref('aak_product_data.product_template_attribute_line__product_template_bpr50_dx__product_attribute_power')),
+                ]),
+                'noupdate': True,
+            }, {
+                'xml_id': 'aak_product_data.product_template_attribute_value__product_template_attribute_line__product_template_bpr50_dx__product_attribute_conv_chan__product_attribute_conv_chan__product_attribute_value_64',
+                'record': obj().env['product.template.attribute.value'].search([
+                    ('product_attribute_value_id', '=', ref('aak_product_data.product_attribute_conv_chan__product_attribute_value_64')),
+                    ('attribute_line_id', '=', ref('aak_product_data.product_template_attribute_line__product_template_bpr50_dx__product_attribute_conv_chan')),
+                ]),
+                'noupdate': True,
+            }, {
+                'xml_id': 'aak_product_data.product_template_attribute_value__product_template_attribute_line__product_template_bpr50_dx__product_attribute_display__product_attribute_display__product_attribute_value_no',
+                'record': obj().env['product.template.attribute.value'].search([
+                    ('product_attribute_value_id', '=', ref('aak_product_data.product_attribute_display__product_attribute_value_no')),
+                    ('attribute_line_id', '=', ref('aak_product_data.product_template_attribute_line__product_template_bpr50_dx__product_attribute_display')),
+                ]),
+                'noupdate': True,
+            }, {
+                'xml_id': 'aak_product_data.product_template_attribute_value__product_template_attribute_line__product_template_bpr50_dx__product_attribute_keypad__product_attribute_keypad__product_attribute_value_no',
+                'record': obj().env['product.template.attribute.value'].search([
+                    ('product_attribute_value_id', '=', ref('aak_product_data.product_attribute_keypad__product_attribute_value_no')),
+                    ('attribute_line_id', '=', ref('aak_product_data.product_template_attribute_line__product_template_bpr50_dx__product_attribute_keypad')),
+                ]),
+                'noupdate': True,
+            },]"/>
+        </function>
+    </data>
+</odoo>

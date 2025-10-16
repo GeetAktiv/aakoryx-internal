@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="1">
+        <record id="crm_worksheet_template_opportunity" model="worksheet.template">
+            <field name="name">CRM: Opportunity</field>
+            <field name="res_model">crm.lead</field>
+        </record>
+
+        <record id="crm_worksheet_template_project_identification" model="worksheet.template">
+            <field name="name">CRM: Project_Identification</field>
+            <field name="res_model">crm.lead</field>
+        </record>
+
+        <record id="crm_worksheet_template_timeline_budget_approved" model="worksheet.template">
+            <field name="name">CRM: Timeline &amp; Budget Approved</field>
+            <field name="res_model">crm.lead</field>
+        </record>
+
+        <record id="crm_worksheet_template_fit_established" model="worksheet.template">
+            <field name="name">CRM: Fit Established</field>
+            <field name="res_model">crm.lead</field>
+        </record>
+
+        <record id="crm_worksheet_template_solution_presented" model="worksheet.template">
+            <field name="name">CRM: Solution Presented with Justification</field>
+            <field name="res_model">crm.lead</field>
+        </record>
+
+        <record id="crm_worksheet_template_proposal" model="worksheet.template">
+            <field name="name">CRM: Proposal</field>
+            <field name="res_model">crm.lead</field>
+        </record>
+
+        <record id="crm_worksheet_template_commitment_to_move_final" model="worksheet.template">
+            <field name="name">CRM: Commitment to move final</field>
+            <field name="res_model">crm.lead</field>
+        </record>
+    </data>
+</odoo>

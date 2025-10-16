@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record id="mail_template_field_service_schedule_date" model="mail.template">
+        <field name="name">Field Service: Schedule Date</field>
+        <field name="model_id" ref="project.model_project_task"/>
+        <field name="subject">schedule date for field service</field>
+        <field name="email_from">{{ user.email_formatted }}</field>
+        <field name="partner_to">{{ (object.partner_id and object.partner_id.id) or '' }}</field>
+        <field name="auto_delete" eval="False"/>
+        <!-- Email Body -->
+        <field name="body_html" type="html">
+            <div style="font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:1.6;">
+                <p>
+                    Dear <t t-esc="object.partner_id.name or 'Customer'"/>,
+                    <br/>
+                    We are planning to visit between
+                    <strong>
+                        <t t-esc="format_date(object.planned_date_start, date_format='dd/MM/yyyy') if object.planned_date_start else '-'"/>
+                    </strong>
+                    and
+                    <strong>
+                        <t t-esc="format_date(object.date_deadline, date_format='dd/MM/yyyy') if object.date_deadline else '-'"/>
+                        .
+                    </strong>
+                    Are you available during this period?
+                </p>
+
+                <p>
+                    <a t-attf-href="#{object.get_base_url()}/aak/fsm/respond/#{object.id}/yes"
+                       class="btn btn-success" style="margin-right:10px;">
+                        YES
+                    </a>
+                    <a t-attf-href="#{object.get_base_url()}/aak/fsm/respond/#{object.id}/no"
+                       class="btn btn-danger">
+                        NO
+                    </a>
+                </p>
+            </div>
+        </field>
+    </record>
+
+    <record id="mail_template_field_service_response" model="mail.template">
+        <field name="name">Field Service Response Notification</field>
+        <field name="model_id" ref="project.model_project_task"/>
+        <field name="subject">Customer schedule response: {{ ctx.get('response','').upper() }} - {{ (object.name) or ''}}</field>
+        <field name="email_from">{{ user.email_formatted }}</field>
+        <field name="email_to">{{ ', '.join(user.email for user in object.user_ids if user.email) }}</field>
+        <field name="auto_delete" eval="False"/>
+        <!-- Email Body -->
+        <field name="body_html" type="html">
+            <div style="font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:1.6;">
+                <p>
+                    <strong>Customer response received.</strong>
+                </p>
+                <p>
+                    <strong>Response:</strong>
+                    <t t-esc="ctx.get('response','').upper()"/>
+                    <br/>
+                    <strong>Task:</strong>
+                    <t t-esc="object.display_name"/>
+                    <br/>
+                    <strong>Scheduled dates:</strong>
+                    <strong>
+                        <t t-esc="format_date(object.planned_date_start, date_format='dd/MM/yyyy') if object.planned_date_start else '-'"/>
+                    </strong>
+                    and
+                    <strong>
+                        <t t-esc="format_date(object.date_deadline, date_format='dd/MM/yyyy') if object.date_deadline else '-'"/>
+                    </strong>
+                </p>
+                <p>
+                    <a t-att-href="object.get_base_url() + '/web#id=%s&amp;model=project.task&amp;view_type=form' % object.id"
+                       class="btn btn-primary">
+                        Open Task
+                    </a>
+                </p>
+            </div>
+        </field>
+    </record>
+
+    <record id="mail_template_field_service_visit_date" model="mail.template">
+        <field name="name">Field Service: Visit Date Notification</field>
+        <field name="model_id" ref="project.model_project_task"/>
+        <field name="subject">Scheduled Visit Date for {{ object.name }}</field>
+        <field name="email_from">{{ user.email_formatted or '' }}</field>
+        <field name="partner_to">{{ object.partner_id.id or '' }}</field>
+        <field name="auto_delete" eval="False"/>
+        <!-- Email Body -->
+        <field name="body_html" type="html">
+            <div style="font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:1.6;">
+                <p>
+                    Dear <t t-esc="object.partner_id.name or ''"/>,
+                </p>
+                <p>
+                    We have scheduled your field service visit on:
+                    <strong>
+                        <t t-if="ctx.get('visit_date')">
+                            <t t-esc="format_date(ctx.get('visit_date'), date_format='dd/MM/yyyy') or ''"/>.
+                        </t>
+                    </strong>
+                </p>
+                <p>Thank you</p>
+            </div>
+        </field>
+    </record>
+
+</odoo>

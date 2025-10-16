@@ -1,0 +1,589 @@
+id,default_code,name,description,is_storable,tracking,categ_id:id
+product_template_an000348a01,AN000348A01,UHF Short Whip Antenna (400-527 MHz),,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_an000350a01,AN000350A01,UHF Stubby Antenna (400-450 MHz),,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_an000351a01,AN000351A01,UHF Stubby Antenna (440-490 MHz),,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_an000415a01,AN000415A01 ,"ANTENNA, WHIP, 806-941MHZ, 140MM, FERRULE  ",,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_hkan4004,HKAN4004,Stubby LTE ,,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_naf5087,NAF5087,Whip Antenna 800 MHz 1/2 Wave - Intrinsically Safe (FM)  ,,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_naf5088,NAF5088,Whip Antenna 900 MHz 1/2 Wave - Intrinsically Safe (FM),,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmad4067,PMAD4067,"Combination VHF Whip Antenna with GPS, 136-147 MHz - Intrinsically Safe (FM) ",,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmad4068,PMAD4068,"Combination VHF Whip Antenna with GPS, 147-160 MHz - Intrinsically Safe (FM)",,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmad4069,PMAD4069,"Combination VHF Whip Antenna with GPS, 160-174 MHz - Intrinsically Safe (FM)",,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmad4086,PMAD4086,"VHF Antenna for Public Safety Microphone, 150-174 MHz - Intrinsically Safe (FM)",,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmad4087,PMAD4087,"VHF Antenna for Public Safety Microphone, 136-153 MHz - Intrinsically Safe (FM)",,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmad4088,PMAD4088,VHF Flexible Whip Antenna 21cm (136-174MHz) - Intrinsically Safe (FM),,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmad4093,PMAD4093,VHF Stubby Antenna 11cm (136-147MHz) - Intrinsically Safe (FM),,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmad4094,PMAD4094,VHF Stubby Antenna 11cm (147-160MHz) - Intrinsically Safe (FM),,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmad4095,PMAD4095,VHF Stubby Antenna 11cm (160-174MHz) - Intrinsically Safe (FM),,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmad4116,PMAD4116,VHF Helical Antenna (144-165 MHz) - FM / UL Approved,,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmad4117,PMAD4117,VHF Helical Antenna (136-155 MHz) - FM / UL Approved,,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmad4118,PMAD4118,VHF Helical Antenna (152-174 MHz) - FM / UL Approved,,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmad4119,PMAD4119,VHF Stubby Antenna (136-148 MHz) - FM / UL Approved,,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmad4120,PMAD4120,VHF Stubby Antenna (146-160 MHz) - FM / UL Approved,,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmad4121,PMAD4121,VHF Stubby Antenna (160-174MHz) - FM / UL Approved,,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmad4144,PMAD4144,VHF Stubby Antenna (136-144MHz) 5cm,,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmad4145,PMAD4145,VHF Stubby Antenna (144-156MHz) 5cm,,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmad4146,PMAD4146,VHF Stubby Antenna (156-174MHz) 5cm,,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmad4147,PMAD4147,"VHF WHIP ANT ,136-174MHZ  ",,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmae4018,PMAE4018,"Combination UHF Whip Antenna with GPS, 403-433 MHz - Intrinsically Safe (FM)",,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmae4021 ,PMAE4021  ,"Combination UHF Stubby Antenna with GPS, 403-433 MHz - Intrinsically Safe (FM)",,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmae4022,PMAE4022,UHF Flexible Whip Antenna 16cm (403-470MHz) - Intrinsically Safe (FM),,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmae4023,PMAE4023,"Combination UHF Stubby Antenna with GPS, 430-470 MHz - Intrinsically Safe (FM)",,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmae4024,PMAE4024,"Combination UHF Whip Antenna with GPS, 430-470 MHz - Intrinsically Safe (FM)",,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmae4046,PMAE4046,"UHF Stubby Antenna for Public Safety Microphone, 403-433 MHz - Intrinsically Safe (FM)",,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmae4047,PMAE4047,"UHF Stubby Antenna for Public Safety Microphone, 430-470 MHz - Intrinsically Safe (FM)",,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmae4048,PMAE4048,"UHF2 + GPS Stubby Antenna, 450-527 MHz (can be used with Public Safety Microphone) - IS / FM",,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmae4049,PMAE4049,UHF Flexible Whip Antenna 16cm (450-527MHz) - Intrinsically Safe (FM),,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmae4050,PMAE4050,Combination GPS/ UHF 450-495 MHz Folded Monopole Antenna - Intrinsically Safe (FM),,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmae4051,PMAE4051,Combination GPS/ UHF 495-527 MHz Folded Monopole Antenna - Intrinsically Safe (FM),,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmae4069,PMAE4069,UHF Stubby Antenna (403-450 MHz) - FM / UL Approved,,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmae4070,PMAE4070,UHF Stubby Antenna (440-490 MHz) - FM / UL Approved,,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmae4071,PMAE4071,UHF Stubby Antenna (470-512 MHz) - FM / UL Approved,,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmae4079,PMAE4079,UHF Slim Whip Antenna (403-512 MHz) - FM / UL Approved,,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmae4076,PMAE4076,"Antenna Kit, Stubby (420-445MHz)",,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmae4077,PMAE4077,"Antenna Kit, Stubby (438-470MHz)",,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmae4078,PMAE4078,"Antenna Kit, Stubby (403-425MHz)",,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmae4091,PMAE4091,UHF Stubby Antenna Kit for the 450-490 MHz range,,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmae4092,PMAE4092,UHF Stubby Antenna Kit for the 480-527 MHz range,,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmae4093,PMAE4093,UHF Stubby Antenna (403-425MHz) 4.5cm,,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmae4094,PMAE4094,UHF Stubby Antenna (420-445MHz) 4.5cm,,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmae4095,PMAE4095,UHF Stubby Antenna (435-470MHz) 4.5cm,,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmaf4017,PMAF4017,Antenna Kit for the 800 MHz range,,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmaf4018,PMAF4018,Antenna Kit for the 900 MHz range,,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmaf4003,PMAF4003,800/900 MHz & GPS Helical Antenna (806-941 MHz) - Intrinsically Safe (FM),,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmaf4009,PMAF4009,800 MHz Short Whip Antenna 12cm (806-870MHZ) - FM / UL Approved,,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmaf4010,PMAF4010,900 MHz Short Whip Antenna 11cm (896-941MHZ) - FM / UL Approved,,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmaf4011,PMAF4011,800 MHz Flexible Whip Antenna 16cm (806-870MHZ) - FM / UL Approved,,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_pmaf4012,PMAF4012,"900 MHz Flexible Whip Antenna 14cm (896-941MHZ) * - FM / UL Approved, * Note: Optimized for 900 MHz but can also be used for mixed 800 & 900 MHz CH/sites",,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_32012144001,32012144001,Gray Antenna ID Band (pack of 10),,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_32012144002,32012144002,Yellow Antenna ID Band (pack of 10),,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_32012144003,32012144003,Green Antenna ID Band (pack of 10),,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_32012144004,32012144004,Blue Antenna ID Band (pack of 10),,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_32012144005,32012144005,Purple Antenna ID Band (pack of 10),,TRUE,none,product_category_motorola_professional_accessories_pro_tier_digital_antennas
+product_template_hkln4678a,HKLN4678A,Battery Door for PMLN7932A,,TRUE,none,product_category_motorola_professional_accessories_batteries
+product_template_pmln6000,PMLN6000,Battery Door Cover for BT70 Battery,,TRUE,none,product_category_motorola_professional_accessories_batteries
+product_template_pmln7074,PMLN7074,Battery Door Cover for BT100 Battery,,TRUE,none,product_category_motorola_professional_accessories_batteries
+product_template_pmnn4065,PMNN4065,"NiMH, 1450 mAh, 7.2V  Submersible (IP57) Battery",,TRUE,none,product_category_motorola_professional_accessories_batteries
+product_template_nntn8560,NNTN8560,"IMPRES Li-ion, 2500 mAh, Submersible (IP67) Battery - TIA4950 / UL Approved",,TRUE,none,product_category_motorola_professional_accessories_batteries
+product_template_pmnn4077,PMNN4077,"IMPRES Li-ion, 2240 mAh, 7.2V Submersible (IP57) Battery",,TRUE,none,product_category_motorola_professional_accessories_batteries
+product_template_pmnn4544,PMNN4544,BATT IMPRES LIION IP68 2450T,,TRUE,none,product_category_motorola_professional_accessories_batteries
+product_template_pmnn4448,PMNN4448,IMPRES Hi-Cap Li-ion 2800mAh Submersible (IP67) Battery,,TRUE,none,product_category_motorola_professional_accessories_batteries
+product_template_pmnn4468,PMNN4468,B100x 2300T Li-Ion Battery. ,,TRUE,none,product_category_motorola_professional_accessories_batteries
+product_template_pmnn4488,PMNN4488,IMPRES Low Volt Hi-Cap 3000 mAh ,,TRUE,none,product_category_motorola_professional_accessories_batteries
+product_template_pmnn4489,PMNN4489,TIA IMPRES Low Volt 2900 mAh -  TIA4950 / UL Approved,,TRUE,none,product_category_motorola_professional_accessories_batteries
+product_template_pmnn4490,PMNN4490,TIA IMPRES Low Volt 2900 mAh -  TIA4950 / UL Approved,,TRUE,none,product_category_motorola_professional_accessories_batteries
+product_template_pmnn4491,PMNN4491,"IMPRES Slim Li-Ion, 2100 mAh battery",,TRUE,none,product_category_motorola_professional_accessories_batteries
+product_template_pmnn4493,PMNN4493,IMPRES Low Volt Hi-Cap 3000 mAh (IP68),,TRUE,none,product_category_motorola_professional_accessories_batteries
+product_template_pmnn4578,PMNN4578,BATT LIION 2500T,,TRUE,none,product_category_motorola_professional_accessories_batteries
+product_template_pmnn4803,PMNN4803,"IMPRES™2 Li-Ion Battery 2820 mAh, IP68, -20C",,TRUE,none,product_category_motorola_professional_accessories_batteries
+product_template_pmnn4804,PMNN4804,"IMPRES™2 Li-Ion Battery 2900 mAh, IP68, HAZLOC, -20C",,TRUE,none,product_category_motorola_professional_accessories_batteries
+product_template_pmnn4805,PMNN4805,BATT IMPRES 2 LIION TIA4950 IP68 4400T,,TRUE,none,product_category_motorola_professional_accessories_batteries
+product_template_pmnn4807,PMNN4807,"BATTERY PACK,BATT IMPRES LIION IP68 2200T",,TRUE,none,product_category_motorola_professional_accessories_batteries
+product_template_pmnn4809,PMNN4809,"BATTERY PACK,BATTERY PACK,BATT IMPRES LIION IP68 2850T",,TRUE,none,product_category_motorola_professional_accessories_batteries
+product_template_pmnn4810,PMNN4810       ,"BATTERY PACK,BATT IMPRES LIION TIA4950 IP68 3200T",,TRUE,none,product_category_motorola_professional_accessories_batteries
+product_template_pmnn4888,PMNN4888,BATT IMPRES LIION IP67 2200T STANDARD,,TRUE,none,product_category_motorola_professional_accessories_batteries
+product_template_pmnn4889,PMNN4889,BATT IMPRES LIION IP67 3200T HICAP,,TRUE,none,product_category_motorola_professional_accessories_batteries
+product_template_pmnn4890,PMNN4890,BATT IMPRES LIION TIA4950 IP67 3200T,,TRUE,none,product_category_motorola_professional_accessories_batteries
+product_template_pmln6745,PMLN6745,Battery Cover for BT100 Battery,,TRUE,none,product_category_motorola_professional_accessories_batteries
+product_template_25009297001,25009297001,"SUC Power Supply Adapter, US Plug",,TRUE,none,product_category_motorola_professional_accessories_chargers
+product_template_25009298001,25009298001,"Micro-USB Charger, Switch Mode, Low Noise, 5W, US/NA",,TRUE,none,product_category_motorola_professional_accessories_chargers
+product_template_3004209t03,3004209T03,Multi Unit Charger Power Cord ,,TRUE,none,product_category_motorola_professional_accessories_chargers
+product_template_3087791g01,3087791G01,"MUC Power Cord Only, US",,TRUE,none,product_category_motorola_professional_accessories_chargers
+product_template_as000180a01,AS000180A01,Ion Battery Adapter (only for use with PMPN4284 Multi-Unit Charger),,TRUE,none,product_category_motorola_professional_accessories_chargers
+product_template_br000272a01,BR000272A01,Wall Mount Bracket for Multi-Unit Charger,,TRUE,none,product_category_motorola_professional_accessories_chargers
+product_template_hw003289a01,HW003289A01  ,"STRAP, RUBBER STRAP (PMPN4613)",,TRUE,none,product_category_motorola_professional_accessories_chargers
+product_template_nln7967,NLN7967,Wall Mount Kit for Multi-Unit Charger,,TRUE,none,product_category_motorola_professional_accessories_chargers
+product_template_nntn7616,NNTN7616,IMPRES Vehicular Charger,,TRUE,none,product_category_motorola_professional_accessories_chargers
+product_template_pmpn4576,PMPN4576,CHARGER DESKTOP SINGLE UNIT IMPRES EXT PS US/NA/TW,,TRUE,none,product_category_motorola_professional_accessories_chargers
+product_template_nntn8525,NNTN8525,MOTOTRBO Travel Charger,,TRUE,none,product_category_motorola_professional_accessories_chargers
+product_template_pmln6687,PMLN6687,Standard Multi-Unit Charger,,TRUE,none,product_category_motorola_professional_accessories_chargers
+product_template_pmln6701,PMLN6701,Standard Tri-Unit Charger,,TRUE,none,product_category_motorola_professional_accessories_chargers
+product_template_pmln8569,PMLN8569,"CHGR DESKTOP MULTI UNIT, INT PS US/NA",,TRUE,none,product_category_motorola_professional_accessories_chargers
+product_template_pmln7109,PMLN7109,"Standard Single-Unit Charger, US/NA",,TRUE,none,product_category_motorola_professional_accessories_chargers
+product_template_pmpn4009,PMPN4009,Standard Micro-USB Single-Unit Rapid,,TRUE,none,product_category_motorola_professional_accessories_chargers
+product_template_pmpn4174,PMPN4174,"CHGR DESKTOP SINGLE UNIT IMPRES, US/NA",,TRUE,none,product_category_motorola_professional_accessories_chargers
+product_template_pmpn4284,PMPN4284 ,"IMPRES 6 pocket, 1 display charger (suggested replacement for WPLN4212 and WPLN4219)",,TRUE,none,product_category_motorola_professional_accessories_chargers
+product_template_pmpn4498,PMPN4498,"IMPRES™2 Multi-Unit Charger, 120VAC",,TRUE,none,product_category_motorola_professional_accessories_chargers
+product_template_pmpn4524,PMPN4524,Single IMPRES Desktop Charger w/ US Power Supply,,TRUE,none,product_category_motorola_professional_accessories_chargers
+product_template_pmpn4576,PMPN4576,"CHARGER,CHGR DESKTOP SINGLE UNIT IMPRES EXT PS US/NA/TW",,TRUE,none,product_category_motorola_professional_accessories_chargers
+product_template_pmpn4613,PMPN4613,CHGR VEHICULAR CRADLE IMPRES2 CLA W MOUNT KIT ,,TRUE,none,product_category_motorola_professional_accessories_chargers
+product_template_ps000150a11,PS000150A11,Level 6 Micro USB Wall Charger,,TRUE,none,product_category_motorola_professional_accessories_chargers
+product_template_ps000242a01,PS000242A01,"POWER SUPPLY ADAPTOR,POWER SUPPLY BRICK 100-240VAC UNIVERSAL 15V/6A L6 C6P",,TRUE,none,product_category_motorola_professional_accessories_chargers
+product_template_ps000514a01,PS000514A01 ,"POWER SUPPLY ADAPTOR, POWER SUPPLY ADAPTOR, CLA, TRAVEL CHARGER (PMPN4613)",,TRUE,none,product_category_motorola_professional_accessories_chargers
+product_template_ps000577a01,PS000577A01,POWER SUPPLY AC/DC WALL LOWLINE FIXED BLADE  US/NA/TW/JPN 14.5V/1.15A L6 BARREL,,TRUE,none,product_category_motorola_professional_accessories_chargers
+product_template_as000180a01,AS000180A01,"ADAPTER, MUC CHARGING POCKET",,TRUE,none,product_category_motorola_professional_accessories_chargers
+product_template_br000272a01,BR000272A01,"BRACKET,WALL MOUNT for PMPN4284 ",,TRUE,none,product_category_motorola_professional_accessories_chargers
+product_template_wpln4243,WPLN4243,US IMPRES SUC W/O LINEAR POWER SUPP,,TRUE,none,product_category_motorola_professional_accessories_chargers
+product_template_hkvn4036,HKVN4036 ,NA Battery Fleet Management (BFM)  License Key (Entitlement EID),,TRUE,none,product_category_motorola_professional_accessories_chargers
+product_template_1505596z02,1505596Z02 ,Replacement Strap for RLN4570 and HLN6602 Chest Packs ,,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_4200865599,4200865599,"Belt (1.75"" wide black leather belt)",,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_4280384f89,4280384F89,"Universal RadioPAK™ Extension Belt for waist larger than 40""",,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_hkln5003,HKLN5003,NANUK Hard Case for MOTOTRBO Ion - Fits two radios and has several accessory pockets,,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_hln6602,HLN6602,"Universal Chest Pack with Radio Holder, Pen Holder & Velcro Secured Pocket",,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_hln9985,HLN9985,"Waterproof Bag, includes large carrying strap",,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_ntn5243,NTN5243,Shoulder Strap (for use with Cases with D-Rings),,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_rln6486,RLN6486, FIREMAN'S RADIO STRAP,,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_rln6487,RLN6487," FIREMAN'S RADIO STRAP, XL",,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_rln6488,RLN6488,Anti-Sway Strap for Leather Radio Straps,,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln4651,PMLN4651,"2"" Belt Clip ",,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln4652,PMLN4652,"2.5"" Belt Clip ",,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln5015,PMLN5015,"Nylon Carry Case with 3"" Fixed Belt Loop for Display Radio  (XPR 6550 and XPR 6580 only)",,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln5019,PMLN5019,"Hard Leather Carry Case w/2.5"" Swivel Belt Loop for Display Radio (XPR 6550 & XPR 6580 only)",,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln5020,PMLN5020,"Hard Leather Carry Case w/3"" Swivel Belt Loop for Display Radio (XPR 6550 & XPR 6580 only)",,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln5021,PMLN5021,"Hard Leather Carry Case w/3"" Fixed Belt Loop for Display Radio (XPR 6550 & XPR 6580 only)",,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln5022,PMLN5022,"2.5"" Replacement Swivel Belt Loop",,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln5023,PMLN5023,"3"" Replacement Swivel Belt Loop",,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln5610,PMLN5610,"2.5"" Replacement Swivel Belt Loop",,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln5611,PMLN5611,"3"" Replacement Swivel Belt Loop",,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln5024,PMLN5024,"Nylon Carry Case with 3"" Fixed Belt Loop for Non-Display Radio  (XPR 6100/6350/6380 only)",,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln5028,PMLN5028,"Hard Leather Carry Case with 2.5"" Swivel Belt Loop for Non-Display Radio",,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln5029,PMLN5029,"Hard Leather Carry Case with 3"" Swivel Belt Loop for Non-Display Radio",,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln5030,PMLN5030,"Hard Leather Carry Case with 3"" Fixed Belt Loop for Non-Display Radio",,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln5407,PMLN5407,"2.5"" REPLACEMENT SWIVEL BELT LOOP  ",,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln5409,PMLN5409,"3"" REPLACEMENT SWIVEL BELT LOOP",,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln5838,PMLN5838,Hard Leather Carry Case with 3” Fixed Belt Loop for Display Radio (XPR7550),,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln5839,PMLN5839,Hard Leather Carry Case with 3” Fixed Belt Loop for Non-Display Radio (XPR7350),,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln5840,PMLN5840,Hard Leather Carry Case with 3” Swivel Belt Loop for Display Radio (XPR7550),,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln5842,PMLN5842,Hard Leather Carry Case with 2.5” Swivel Belt Loop  for Display Radio (XPR7550),,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln5843,PMLN5843,Hard Leather Carry Case with 2.5” Swivel Belt Loop for Non-Display Radio (XPR7350),,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln5844,PMLN5844,Nylon Carry Case with 3” Fixed Belt Loop for Display Radio (XPR7550),,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln5845,PMLN5845,Nylon Carry Case with 3” Fixed Belt Loop for Non-Display Radio (XPR7350),,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln5846,PMLN5846,Hard Leather Carry Case with 3” Swivel Belt Loop for for Non-Display Radio (XPR7350),,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln5863,PMLN5863,"Hard Leather Carry Case 3"" Fixed Belt Loop for Limited Keypad Radio (XPR3500)",,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln5864,PMLN5864,Hard Leather Carry Case with 3” Fixed Belt Loop for Non-Display Radio (XPR3300),,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln5865,PMLN5865,Hard Leather Carry Case with 3” Swivel Belt Loop for Limited Keypad Radio (XPR3500),,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln5866,PMLN5866,Hard Leather Carry Case with 3” Swivel Belt Loop for Non-Display Radio (XPR3300),,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln5867,PMLN5867,Hard Leather Carry Case with 2.5” Swivel Belt Loop for Limited Keypad Radio (XPR3500),,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln5868,PMLN5868,Hard Leather Carry Case with 2.5” Swivel Belt Loop for Non-Display Radio (XPR3300),,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln5869,PMLN5869,Nylon Carry Case with 3” fixed belt loop for Limited Keypad Radio (XPR3500),,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln5870,PMLN5870,Nylon Carry Case with 3” fixed belt loop for Non-Display Radio (XPR3300),,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln5956,PMLN5956,Carry Holster,,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln6074,PMLN6074,Wrist Strap,,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln7008,PMLN7008,"2.5"" Belt Clip",,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln7040,PMLN7040,"Soft Leather Carry Case with 1.5"" Swivel Belt Clip",,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln7076,PMLN7076,Flexible Hand Strap,,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln7128,PMLN7128,Belt Clip (Heavy-Duty),,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln7190,PMLN7190,Swivel Carry Holster,,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln7296,PMLN7296,Silent Alert Vibrating Belt Clip used with PMNN4488 battery,,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln7932,PMLN7932,Swivel Carry Holster,,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln8126,PMLN8126,PLASTIC CARRY HOLSTER WITH 2.5in BELT CLIP,,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln8127,PMLN8127,PLASTIC CARRY HOLSTER WITH 2.5in SWIVEL BELT LOOP,,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln8299,PMLN8299,HARD LEATHER CARRY CASE 3 INCH SWIVEL BELT LOOP DISPLAY,,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln8300,PMLN8300,HARD LEATHER CARRY CASE 2.5 INCH SWIVEL BELT LOOP DISPLAY,,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln8301,PMLN8301,HARD LEATHER CARRY CASE 3 INCH FIXED BELT LOOP DISPLAY,,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln8302,PMLN8302,HARD LEATHER CARRY CASE 3 INCH SWIVEL BELT LOOP NON DISPLAY,,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln8303,PMLN8303,HARD LEATHER CARRY CASE 2.5 INCH SWIVEL BELT LOOP NON DISPLAY,,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln8304,PMLN8304,HARD LEATHER CARRY CASE 3 INCH FIXED BELT LOOP NON DISPLAY,,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln8662,PMLN8662,HARD LEATHER CARRY CASE WITH 3.0 INCH SWIVEL BELT LOOP (LIMITED KEYPAD),,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln8663,PMLN8663,HARD LEATHER CARRY CASE WITH 3.0 INCH FIXED BELT LOOP (LIMITED KEYPAD),,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln8664,PMLN8664,NYLON CARRY CASE WITH 3.0 INCH FIXED BELT LOOP (LIMITED KEYPAD),,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln8665,PMLN8665,HARD LEATHER CARRY CASE WITH 3.0 INCH SWIVEL BELT LOOP (NO KEYPAD),,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln8666,PMLN8666,HARD LEATHER CARRY CASE WITH 3.0 INCH FIXED BELT LOOP (NO KEYPAD),,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln8667,PMLN8667,NYLON CARRY CASE WITH 3.0 INCH FIXED BELT LOOP (NO KEYPAD),,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_rln4570,RLN4570,Break-Away Chest Pack,,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_1571477l01,1571477L01,Accessory Connector Dust Cover,,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln6066,PMLN6066,Accessory Connector Dust Cover,,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_15012157001,15012157001,Accessory Connector Dust Cover,,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_rln4815,RLN4815,Universal RadioPAK™ & Utility Case (fanny pack),,TRUE,none,product_category_motorola_professional_accessories_carry_cases
+product_template_pmln5096,PMLN5096,D-Style Earset with Boom Mic - FM / UL Approved,,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_pmln5101,PMLN5101,Temple Transducer - Intrinsically Safe (FM),,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_pmln5102,PMLN5102,Ultra Lightweight Headset - FM / UL Approved,,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_rex4648,REX4648,Replacement Foam Earpad and Windscreen ,,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_pmln6635,PMLN6635,LIGHTWEIGHT HEADSET,,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_pmln6759,PMLN6759,"HEADSET,TEMPLE TRANSDUCER",,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_pmln6760,PMLN6760,Heavy Duty Behind-the-Head Headset with Noise-Canceling boom microphone,,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_pmln6761,PMLN6761,"HEADSET,ULTRA-LITE HEADSET MAGONE",,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_pmln6763,PMLN6763,"Heavy Duty Behind-the-Head Headset with Noise-Canceling boom microphone, TIA4950",,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_pmln6852,PMLN6852,Heavy Duty Behind-the-Head Headset with Noise-Canceling boom microphone,,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_pmln7466,PMLN7466,Heavy Duty Over-the-Head Headset with Noise-Canceling boom microphone,,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_pmln6853,PMLN6853,Heavy Duty Behind-the-Head Headset with Noise-Canceling boom microphone,,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_pmln7467,PMLN7467,Heavy Duty Over-the-Head Headset with Noise-Canceling boom microphone,,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_rln6490,RLN6490,"XBT Headset BTN, Heavy Duty Headset , BT",,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_rln6491,RLN6491,"XBT HeadsetHB, Heavy Duty Headset , BT",,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_rln6495,RLN6495,Boom Mic for XBT Headset (replacement part),,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_rln6496,RLN6496,Cooling Pads for XBT Headset (replacement part),,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_rln6497,RLN6497,Hygiene kit for XBT Headset (replacemnt part),,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_rln6498,RLN6498,Universal 5V PSU for XBT Headset (replacement part),,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_pmln7464,PMLN7464,Heavy Duty Over-the-Head Headset with Noise-Canceling boom microphone,,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_pmln7465,PMLN7465,"Heavy Duty Behind-the-Head Headset with Noise-Canceling boom microphone, TIA4950",,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_pmln8085,PMLN8085,Behind-the-Head Headset,,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_pmln8086,PMLN8086,Over-the-Head Headset,,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_rmn5058,RMN5058,Lightweight Headset - Intrinsically Safe (FM),,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_rmn5137,RMN5137,"3M Peltor MT Series 2-Way Comm Headset, MT7H79A Headband",,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_rmn5138,RMN5138,"3M Peltor MT Series 2-Way Comm Headset, MT7H79B Neckband",,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_rmn5139,RMN5139,"3M Peltor MT Series 2-Way Comm Headset, MT7H79P3E - Hard Hat Attachment",,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_rmn4052,RMN4052,"HEADSET, TACTICAL W/BOOM MIC (requires adapter PMLN6095)",,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_rmn4056,RMN4056,HT Series Listen Only Over-The-Head Headset with 3.5mm threaded connector,,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_rmn4055,RMN4055,HT Series Listen Only Over-The-Head Headset with 3.5mm NON threaded connector,,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_rmn5135,RMN5135,TacticalPro Series Neckband Headset with Nexus connector,,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_rmn4052,RMN4052,TacticalPro Series Over-The-Head Headset with Nexus connector (requires adapter PMLN6095),,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_rmn4051,RMN4051,MT Series Hard Hat Attached with Nexus connector (requires adapter PMLN6095),,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_rln6477,RLN6477,MT Series Neckband Headset with Nexus connector (requires adapter PMLN6095),,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_pmln6095,PMLN6095 ,"AUDIO ADAPTER,IN-LINE PTT ADAPTER, GCAI",,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_pmln6830,PMLN6830,Tactical Remote Ring PTT (For use with interface module PMLN6827),,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_pmln6767,PMLN6767,Tactical Remote Body PTT (For use with interface module PMLN6827),,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_pmln6833,PMLN6833,Tactical Temple Transducer with Noise-Canceling boom microphone (Requires interface module PMLN6827),,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_pmln6827,PMLN6827,Tactical PTT Interface Module,,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_pmln8265,PMLN8265,CH-3 Series Over-the-Head Headset with Nexus Connector (requires PMLN8297 adapter),,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_pmln8266,PMLN8266,CH-3 Series Neckband Headset with Nexus Connector (requires PMLN8297 adapter),,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_pmln8267,PMLN8267,CH-3 Series Hard Hat Attach Headset with Nexus Connector (requires PMLN8297 adapter),,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_pmln8297,PMLN8297,GCAI-MINI PTT NEXUS ADAPTER,,TRUE,none,product_category_motorola_professional_accessories_headsets
+product_template_rln6561,RLN6561,"ACCESSORY KIT,OPERATIONALCRITICAL WIRELESS RSM W/BATTERRY AND CLIP",,TRUE,none,product_category_motorola_professional_accessories_microphones
+product_template_rln6562,RLN6562,Operations Critical Wireless Remote Speaker Microphone with Battery and Belt clip and Dual Unit Charger,,TRUE,none,product_category_motorola_professional_accessories_microphones
+product_template_nntn8382,NNTN8382,IMPRES Industrial Noise Cancelling Microphone - Submersible (IP57) - UL Approved,,TRUE,none,product_category_motorola_professional_accessories_microphones
+product_template_nntn8383,NNTN8383,IMPRES Industrial Noise Cancelling Microphone with threaded 3.5mm audio jack - UL Approved ,,TRUE,none,product_category_motorola_professional_accessories_microphones
+product_template_pmkn4232,PMKN4232,REPLACEMENT CABLE FOR RSM,,TRUE,none,product_category_motorola_professional_accessories_microphones
+product_template_pmln8121,PMLN8121,LOW PROFILE SWIVEL CLIP,,TRUE,none,product_category_motorola_professional_accessories_microphones
+product_template_pmln8122,PMLN8122,REPLACEMENT DUST COVER FOR RSM (PACK OF 10),,TRUE,none,product_category_motorola_professional_accessories_microphones
+product_template_pmmn4024,PMMN4024,Remote Speaker Microphone with 3.5mm audio jack - FM / UL Approved,,TRUE,none,product_category_motorola_professional_accessories_microphones
+product_template_pmmn4025_l,PMMN4025_L,IMPRES Remote Speaker Microphone with 3.5mm audio jack - FM / UL Approved,,TRUE,none,product_category_motorola_professional_accessories_microphones
+product_template_pmmn4040,PMMN4040,Remote Speaker Microphone - Submersible (IP57) - FM / UL Approved,,TRUE,none,product_category_motorola_professional_accessories_microphones
+product_template_pmmn4041,PMMN4041,"IMPRES Public Safety Microphone, 30"" Cable ",,TRUE,none,product_category_motorola_professional_accessories_microphones
+product_template_pmmn4042,PMMN4042,"IMPRES Public Safety Microphone, 24"" Cable Intrinsically Safe (FM)",,TRUE,none,product_category_motorola_professional_accessories_microphones
+product_template_pmmn4043,PMMN4043,"IMPRES Public Safety Microphone, 18"" Cable Intrinsically Safe (FM)",,TRUE,none,product_category_motorola_professional_accessories_microphones
+product_template_pmmn4046_l,PMMN4046_L,IMPRES Remote Speaker Microphone with Volume - Submersible (IP57) - FM / UL Approved,,TRUE,none,product_category_motorola_professional_accessories_microphones
+product_template_pmmn4047,PMMN4047,"IMPRES Public Safety Microphone, 30"" Cable - Submersible (IP57)Intrinsically Safe (FM)",,TRUE,none,product_category_motorola_professional_accessories_microphones
+product_template_pmmn4048,PMMN4048,"IMPRES Public Safety Microphone, 24"" Cable - Submersible (IP57) Intrinsically Safe (FM)",,TRUE,none,product_category_motorola_professional_accessories_microphones
+product_template_pmmn4049,PMMN4049,"IMPRES Public Safety Microphone, 18"" Cable - Submersible (IP57) Intrinsically Safe (FM)",,TRUE,none,product_category_motorola_professional_accessories_microphones
+product_template_pmmn4050,PMMN4050,"IMPRES Remote Speaker Microphone w/3.5mm Earjack, Noise Cancelling - FM / UL Approved",,TRUE,none,product_category_motorola_professional_accessories_microphones
+product_template_pmmn4071_l,PMMN4071_L,IMPRES RSM large 3.5 jack NC / UL Approved,,TRUE,none,product_category_motorola_professional_accessories_microphones
+product_template_pmmn4073_l,PMMN4073_L,"IMPRES Windporting RSM, small 3.5 jack / UL Approved",,TRUE,none,product_category_motorola_professional_accessories_microphones
+product_template_pmmn4075,PMMN4075,"RSM, small IP57, no Emerg / UL Approved",,TRUE,none,product_category_motorola_professional_accessories_microphones
+product_template_pmmn4076,PMMN4076,"RSM small 3.5 jack, no Emerg / UL Approved",,TRUE,none,product_category_motorola_professional_accessories_microphones
+product_template_pmmn4099,PMMN4099,"REMOTE SPEAKER MICROPHONE,IP68 REMOTE SPEAKER MICROPHONE,3.5MM,UL",,TRUE,none,product_category_motorola_professional_accessories_microphones
+product_template_pmmn4108,PMMN4108,"AUDIO ACCESSORY-REMOTE SPEAKER MICROPHONE,IMPRES WINDPORTING RSM IP67",,TRUE,none,product_category_motorola_professional_accessories_microphones
+product_template_pmmn4125,PMMN4125,REMOTE SPEAKER MICROPHONE WITH 2.5MM CONNECTOR,,TRUE,none,product_category_motorola_professional_accessories_microphones
+product_template_pmmn4127,PMMN4127,Operational Critical Wireless RSM WM500,,TRUE,none,product_category_motorola_professional_accessories_microphones
+product_template_pmmn4128,PMMN4128,"RM780 IMPRES™ RSM, 3.5mm earpiece, radio controls, IP68, HAZLOC",,TRUE,none,product_category_motorola_professional_accessories_microphones
+product_template_pmmn4131,PMMN4131,"RM730 IMPRES WINDPORTING REMOTE SPEAKER MICROPHONE, SMALL (IP68)",,TRUE,none,product_category_motorola_professional_accessories_microphones
+product_template_pmmn4140,PMMN4140,"RM760 IMPRES WINDPORTING REMOTE SPEAKER MICROPHONE, LARGE (IP68)",,TRUE,none,product_category_motorola_professional_accessories_microphones
+product_template_pmmn4170,PMMN4170,"RM560 IMPRES WINDPORTING REMOTE SPEAKER MICROPHONE, LARGE URSA",,TRUE,none,product_category_motorola_professional_accessories_microphones
+product_template_pmmn4171,PMMN4171,"RM530 IMRLN6491BPRES WINDPORTING REMOTE SPEAKER MICROPHONE, SMALL URSA",,TRUE,none,product_category_motorola_professional_accessories_microphones
+product_template_bdn6719,BDN6719,"One-wire Flexible Ear Receiver, black. Compatible with NNTN8383 only.",,TRUE,none,product_category_motorola_professional_accessories_microphones
+product_template_rln6074,RLN6074,Remote Speaker Microphone Replacement Coil Cord Kit (for PMMN4024 and PMMN4040),,TRUE,none,product_category_motorola_professional_accessories_microphones
+product_template_rln6562,RLN6562,OPERATIONAL CRITICAL WIRELESS RSM W/DUC,,TRUE,none,product_category_motorola_professional_accessories_microphones
+product_template_ay000267a01,AY000267A01,"Screen Protector, clear (single pack - QTY 1)   ",,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc
+product_template_ay000269a01,AY000269A01,"Screen Protector, clear (single pack - QTY 1)   ",,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc
+product_template_ay000808a01,AY000808A01,"ACCESSORY KIT,RJ SCREEN PROTECTOR CLEAR (1 PCS)",,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc
+product_template_ay000808a02,AY000808A02,"ACCESSORY KIT,SCREEN PROTECTOR CLEAR (BULK, 10 PCS)",,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc
+product_template_ay000808a03,AY000808A03,"ACCESSORY KIT,SCREEN PROTECTOR CLEAR (BULK, 50 PCS)",,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc
+product_template_25_124330_01r,25-124330-01R,"Programming Cable, Micro USB",,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc
+product_template_28012039001,28012039001,RF ADAPTER for SL7550,,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc
+product_template_5880348b33,5880348B33,Portable SMA to BNC RF Adapter,,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc
+product_template_nln9839,NLN9839,Vacuum Pump for Field Install Kit,,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc
+product_template_ntn4265,NTN4265,Pressure Pump for Field Install Kit,,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc
+product_template_pmkn4012,PMKN4012,Portable Programming Cable,,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc
+product_template_pmkn4013,PMKN4013,"Portable Programming, Test and Align Cable",,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc
+product_template_pmkn4040,PMKN4040,DMR Portable Telemetry Cable,,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc
+product_template_pmkn4071,PMKN4071,Portable to RS232 DB25M Connector Cable,,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc
+product_template_pmkn4070,PMKN4070,IMPRES Mobile MAP Non-PC Adapter,,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc
+product_template_pmkn4072,PMKN4072,IMPRES Mobile MMP Non-PC Adapter,,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc
+product_template_pmkn4115,PMKN4115,Portable Programming Cable for XPR3300 and XPR3500,,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc
+product_template_pmkn4117,PMKN4117,Programming Cable Slim to DB25 & USB Plug,,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc
+product_template_pmkn4230,PMKN4230,Data Transfer Cable for MOTOTRBO Ion / R7 (UL Certified),,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc
+product_template_pmkn4231,PMKN4231,Test and Align Cable,,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc
+product_template_pmkn4265,PMKN4265,Programming/Data Cable (Non-UL),,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc
+product_template_pmln6154,PMLN6154,RF Adapter for XPR3000 and XPR7000 series,,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc
+product_template_pmln6155,PMLN6155,RF Adapter Holder for XPR7350 and XPR7550,,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc
+product_template_pmln6201,PMLN6201,RF Adapter Holder for XPR3300 and XPR3500,,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc
+product_template_pmnn4076,PMNN4076,Portable Battery Eliminator,,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc
+product_template_pmnn4428,PMNN4428,Portable Battery Eliminator for XPR3000 and XPR7000 series,,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc
+product_template_pmnn4429,PMNN4429,Battery Eliminator,,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc
+product_template_tl000140a01,TL000140A01,Ion Battery Eliminator,,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc
+product_template_rln4460,RLN4460,Test Box for Portables and Mobiles,,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc
+product_template_pmln5496,PMLN5496,XPR 6000 MOTOTRBO Expansion Card (Option Board),,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc
+product_template_pmln7324_s,PMLN7324_S,XPR 7000e MOTOTRBO Expansion Card Kit  (Option Board),,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc
+product_template_pmln8203_s,PMLN8203_S,R7 GOB SERVICE KIT (Option Board),,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc
+product_template_bt000702_01,BT000702_01,R7 Battery Eliminator,,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc
+product_template_pmln6422,PMLN6422,R7 RF Cable,,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc
+product_template_ay000811_01,AY000811_01,R7 RF Adaptor,,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc
+product_template_tl000198a01,TL000198A01,R7 Chassis and Knob Opener,,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc
+product_template_tl000215a01,TL000215A01,R5 Battery Eliminator,,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc
+product_template_tl000173a03,TL000173A03,RF Adaptor (Screw In),,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc
+product_template_hkvn4362,HKVN4362,"For MOTOTRBO CPS/RM pricing and details, see the link below:",,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc
+product_template_hkvn4622,HKVN4622,https://docs.google.com/spreadsheets/d/1fXphrmVGAsO90UhN-Ijto5_HfuaYAcxPkAaVXFNtGt4/edit?usp=sharing,,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc
+product_template_hkvn4036,HKVN4036,NA Battery Fleet Management (BFM)  License Key (Entitlement EID),,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc_software_license_keys
+product_template_hkvn4249,HKVN4249,MOTOTRBO Permanent Discoverable & Data Transfer Services via Bluetooth,,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc_software_license_keys
+product_template_68009419001,68009419001,XPR 6100 Portable User Guide (PDF Only),,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc_user_manuals
+product_template_68009554001,68009554001,SL Series User Guide (PDF only),,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc_user_manuals
+product_template_6880309t12,6880309T12,MOTOTRBO System Planner,,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc_user_manuals
+product_template_6880309t30,6880309T30,MOTOTRBO Portable Basic Service Manual,,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc_user_manuals
+product_template_6880309t31,6880309T31,MOTOTRBO Portable Detailed Service Manual ,,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc_user_manuals
+product_template_hkln4282,HKLN4282,Portable User Guide CD Kit (includes User Guides in English and French Canadian),,TRUE,none,product_category_motorola_professional_accessories_service_tools_and_misc_user_manuals
+product_template_rrdn4362,RRDN4362,Solar Wall or Pole Mounting,,TRUE,none,product_category_motorola_professional_accessories_call_boxes_1
+product_template_rrdn4363,RRDN4363,AC/DC Wall or Pole Mounting,,TRUE,none,product_category_motorola_professional_accessories_call_boxes_1
+product_template_rrdn4365,RRDN4365,Solar with Aluminium Stanchion (A1010) w/o Base Pedestal,,TRUE,none,product_category_motorola_professional_accessories_call_boxes_2
+product_template_rrdn4444,RRDN4444,A1A1010 Base Pedestal,,TRUE,none,product_category_motorola_professional_accessories_call_boxes_2
+product_template_rrdn4588,RRDN4588,Solar Powered w/o Base Pedestal,,TRUE,none,product_category_motorola_professional_accessories_call_boxes_3
+product_template_rrdn7776,RRDN7776,A106.5 Base Pedestal,,TRUE,none,product_category_motorola_professional_accessories_call_boxes_3
+product_template_rrdn4369,RRDN4369,Solar Powered w/o Base Pedestal,,TRUE,none,product_category_motorola_professional_accessories_call_boxes_4
+product_template_rrdn4370,RRDN4370,AC/DC w/o Base Pedestal,,TRUE,none,product_category_motorola_professional_accessories_call_boxes_4
+product_template_rrdn4447,RRDN4447,A1410 Base Pedestal,,TRUE,none,product_category_motorola_professional_accessories_call_boxes_4
+product_template_rrdn4590,RRDN4590,Solar Wall or Pole Mounting,,TRUE,none,product_category_motorola_professional_accessories_call_boxes_5
+product_template_rrdn4591,RRDN4591,AC/DC Wall or Pole Mounting,,TRUE,none,product_category_motorola_professional_accessories_call_boxes_5
+product_template_rrdn4367,RRDN4367,Solar Wall or Pole Mounting,,TRUE,none,product_category_motorola_professional_accessories_call_boxes_6
+product_template_rrdn4368,RRDN4368,AC/DC Wall or Pole Mounting,,TRUE,none,product_category_motorola_professional_accessories_call_boxes_6
+product_template_rrdn7883a,RRDN7883A,A10X VAC,,TRUE,none,product_category_motorola_professional_accessories_call_boxes_7
+product_template_rrdn7884a,RRDN7884A,A10X AC,,TRUE,none,product_category_motorola_professional_accessories_call_boxes_7
+product_template_rrdn7885a,RRDN7885A,"A10X ""V"" upgrade for ""AC"" to make ""VAC""",,TRUE,none,product_category_motorola_professional_accessories_call_boxes_7
+product_template_5080384f72,5080384F72,Replacement Foam Plugs (Qty 50-for use with RLN5887) - Noise Reduction Rating =  24dB,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_aarln4885,AARLN4885,Receive-Only Foam Earbud with 3.5mm plug for Remote Speaker Mic - FM / UL Approved,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_bdn6726,BDN6726,"Earpiece with Standard Earphone, Black",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_bdn6727,BDN6727,"Earpiece with Extra Loud Earphone, Black",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_hkln4608,HKLN4608,"TRANSPARENT ACOUSTIC TUBE ACCY, PVC FREE",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_ntn2571,NTN2571,Enhanced Operations Critical Wireless push-to-talk pod,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_ntn2570,NTN2570,"Earpiece with 12"" cable and push-to-talk pod (For Enh Oper Critical Wirelss with Touch Pairing)",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_ntn2572,NTN2572,"Earpiece with 12"" cable replacement (use with NNTN8127)",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_nntn8125,NNTN8125,"Wireless Accessory Kit, Pod + Standard Pair, 12in Cable",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_nntn8127,NNTN8127,Wireless Push-to-Talk Pod ONLY with power supply,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_nntn8189,NNTN8189,"ACCESSORY KIT,ASSY,ACCY,BLUETOOTH ACCY KIT, SP, 12 CBL, NCHGR",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_nntn8294,NNTN8294,"Operations Critical Wireless Earbud with 11.4” cable, inline mic, BLACK. Must be ordered with NNTN8127 wireless PTT Pod",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_nntn8295,NNTN8295,"Operations Critical Wireless Earbud with 45.7” cable, inline mic, BLACK.Must be ordered with NNTN8127 wireless PTT Pod",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_nntn8299,NNTN8299,Replacement Eartips,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_nntn8296,NNTN8296,Wireless Covert Kit ,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln7696,PMLN7696,"SURVEILLANCE,NECKLOOP AND DISCREET EARPIECE KIT",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_nntn8385,NNTN8385,Wireless Neckloop Y-adapter and retention hook,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_nntn8361,NNTN8361,"Eartips, Bulk Replacement",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_nntn8737,NNTN8737,"WIRELESS POD ADAPTER FOR 3.5MM HEADPHONES WITH SPEAKER AND MIC, PK OF 10",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln4620,PMLN4620,D-Shell Receive Only Earpiece with 3.5mm plug for Remote Speaker Microphone -FM / UL Approved,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln7396,PMLN7396,D-Shell Adjustable Earpiece,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln5712,PMLN5712,Operation Critical Wireless Adapter (designed for radio software version R01.07.00 or later) ,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln7269,PMLN7269,"2-WIRE SURVEILLANCE KIT W/QUICK DISCONNECT CLEAR ACOUSTIC TUBE,BLACK",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln7270,PMLN7270,"2-WIRE SURVEILLANCE KIT W/QUICK DISCONNECT CLEAR ACOUSTIC TUBE,BEIGE",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln6754,PMLN6754,"IMPRES 3-Wire Surveillance Kit with quick disconnect translucent tube, black",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln6755,PMLN6755,"IMPRES 3-Wire Surveillance Kit with quick disconnect translucent tube, Beige",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln5727,PMLN5727,"Earpiece Inline Microphone/PTT, Swivel, MagOne",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln5732,PMLN5732,"Earset w/ Boom Microphone, Mag One",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln7156,PMLN7156,Mag One Earbud with in-line microphone and push-to-talk,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln5733,PMLN5733,Mag One Earbud with inline microphone and PTT,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln7157,PMLN7157,"2-Wire Surveillance Kit with translucent tube, black",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln7158,PMLN7158,"SURV. EARPIECE, IN-LINE MIC & PTT",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln7189,PMLN7189,"SWIVEL EARPIECE, IN-LINE MIC & PTT",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln7159,PMLN7159,"Adjustable D-style earpiece with in-line microphone and push-to-talk, black",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln5993,PMLN5993,MOTOTRBO Wireless Adapter FM,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln6047,PMLN6047,Audio Adapter  With Molex Jack,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln6095,PMLN6095,"Audio Adapter, In-Line PTT Adapter, GCAI",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln6123,PMLN6123,"IMPRES 3 Wire Surveillance Kit, with Translucent Tube, Black - FM / UL Approved",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln6124,PMLN6124,"IMPRES 3 Wire Surveillance Kit, with Translucent Tube, Beige - FM / UL Approved",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln6125,PMLN6125,"Receive Only Surveillance Kit, Black (single wire) - FM / UL Approved",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln6126,PMLN6126,"Receive Only Surveillance Kit, Beige (single wire) - FM / UL Approved",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln6127,PMLN6127,"IMPRES 2 Wire Surveillance Kit, Black - FM / UL Approved",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln6128,PMLN6128,"IMPRES 2 Wire Surveillance Kit, Beige - FM / UL Approved",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln6129,PMLN6129 ,IMPRES 2 Wire Surveillance Kit w/ Translucent tube - Black  - FM / UL Approved,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln6130,PMLN6130,IMPRES 2 Wire Surveillance Kit w/ Translucent tube - Beige - FM / UL Approved,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln6246,PMLN6246,WIRELESS POD SWIVEL CLIP ,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln7269ans,PMLN7269ANS,"2-WIRE SURVEILLANCE KIT W/ QUICK DISCONNECT CLEAR ACOUSTIC TUBE,BLACK",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_nntn8459,NNTN8459,"1-Wire Surveillance Kit with translucent tube, black",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln6635,PMLN6635,"Lightweight Over-the-Head Headset, Single Muff, In-line PTT and Boom Mic",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln6761,PMLN6761,Ultra-Lite Behind-the-Head Headset ,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln8652,PMLN8652,"AUDIO ACCESSORY-EARPIECE, RECEIVE ONLY EXTRA LOUD EARPIECE,3.5MM JACK",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln6759,PMLN6759,IMPRES Temple Transducer with boom microphone and in-line push-to-talk,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln7052,PMLN7052,1-Wire Surveillance Kit for OCW/MCW,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln8068,PMLN8068 ,"EARHOOK EARTIP, S (PACK OF 5)  ",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln8069,PMLN8069 ,"EARHOOK EARTIP, M (PACK OF 5)  ",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln8070,PMLN8070,"EARHOOK EARTIP, L (PACK OF 5)  ",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln8077,PMLN8077,"OVER-THE-EAR EARPIECE, SINGLE PIN (AAD)",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln8092,PMLN8092,"ACOUSTIC TUBE WITH RUBBER EARBUD, REPLACEMENT KIT",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln8120,PMLN8120,3.5mm Receive Only Xtra Loud Translucent Tube RSM Earpiece,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln8123,PMLN8123,EP910W Op Critical Wireless Earpiece with PTT,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln8190,PMLN8190,"1-WIRE ENH CLEAR TUBE EARPIECE, 2.5MM SINGLE PIN, STRAIGHT",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln8295,PMLN8295,2-WIRE SWIVEL LOUD AUDIO EARPIECE WITH EARTIP,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln8298,PMLN8298,WP300 WIRELESS BLUETOOTH CONTROL PUSH-TO-TALK POD,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln8332,PMLN8332,VEHICLE MOUNT FOR WP300,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln8337,PMLN8337,1-WIRE SINGLE EARBUD WITH REMOVABLE EARHOOK LOUD AUDIO EARPIECE,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln8341,PMLN8341,1-WIRE SURVEILLANCE KIT WITH LOUD AUDIO TRANSLUCENT TUBE,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln8342,PMLN8342,2-WIRE SURVEILLANCE KIT WITH LOUD AUDIO TRANSLUCENT TUBE,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln8343,PMLN8343,3-WIRE SURVEILLANCE KIT WITH LOUD AUDIO TRANSLUCENT TUBE,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln8363,PMLN8363,"RUBBER SLEEVE FOR EARBUD, S ""QTY 1, PACK OF 25""",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln8364,PMLN8364,"RUBBER SLEEVE FOR EARBUD, M ""QTY 1, PACK OF 25""",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln8365,PMLN8365,"RUBBER SLEEVE FOR EARBUD, L ""QTY 1, PACK OF 25""",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_rln4760,RLN4760,"Small Custom Earpiece, Right Ear for Surveillance Kits",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_rln4761,RLN4761,"Medium Custom Earpiece, Right Ear for Surveillance Kits",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_rln4762,RLN4762,"Large Custom Earpiece, Right Ear for Surveillance Kits",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_rln4763,RLN4763,"Small Custom Earpiece, Left Ear for Surveillance Kits",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_rln4764,RLN4764,"Medium Custom Earpiece, Left Ear for Surveillance Kits",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_rln4765,RLN4765,"Large Custom Earpiece, Left Ear for Surveillance Kits",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_rln4941_xl,RLN4941_XL,"Receive-Only Earpiece with translucent tube, rubber eartip and 3.5mm plug (for use with Remote Speaker Microphone - FM / UL Approved",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_rln5313,RLN5313,"1-Wire Earpiece with Clear Acoustic Tube, Black, 3.55 mm threaded",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln7560,PMLN7560,Receive Only Earpiece with translucent tube and rubber eartip,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_rln5886,RLN5886,Surveillance Low Noise Kit (includes (1) rubber eartip for low noise environments),,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_rln6242,RLN6242,Low Noise Kit with translucent tube and 1 clear rubber eartip,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_67009254001,67009254001,Replacement standard clear rubber eartip. Pack of 10 (replacement for PMLN5724/PMLN5726 and PMLN5957),,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_rln6280,RLN6280,Replacement Standard Earpiece - Biege,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_rln6282,RLN6282,"Replacement Ear Tips, Clear - Pack of 50 (for use with RLN5886)",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_rln6500,RLN6500,Bluetooth Accessory Kit with NA Power Supply,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_rln6556,RLN6556,"Bluetooth Accessory Kit with flexible earpiece, Bluetooth pod, and charging cradle with power supply",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_rln6550,RLN6550,"Wireless Earpiece, Bluetooth Accessory Kit Multi (Pack of 3 PMLN6397)",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln7203,PMLN7203,Flexible Fit Swivel Earpiece with Boom Microphone Multi-Pack (3 pack),,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln7851,PMLN7851,OPERATIONAL CRITICAL WIRELESS EARPIECE PTT,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln8125,PMLN8125,"SINGLE PIN, SHORT CORD",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_rln6511,RLN6511,EP7-SM Sonic Defenders Ultra Earplugs,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_rln6512,RLN6512,EP7-M Sonic Defenders Ultra Earplugs,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_rln6513,RLN6513,EP7-LG Sonic Defenders Ultra Earplugs,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln6757,PMLN6757,"Adjustable D-style earpiece with in-line microphone and push-to-talk, black",,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln8644,PMLN8644,1-WIRE SURVEILLANCE KIT WITH TRANSLUCENT TUBE  ,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln8645,PMLN8645,2-WIRE SURVEILLANCE KIT WITH TRANSLUCENT TUBE,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_pmln8646,PMLN8646,3-WIRE SURVEILLANCE KIT WITH TRANSLUCENT TUBE,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_wadn4190,WADN4190,Receive-Only Flexible Earpiece with 3.5mm plug to be used w/the Remote Speaker Microphone,,TRUE,none,product_category_motorola_professional_accessories_ear_pieces
+product_template_hae6019,HAE6019,GPS/UHF 450-527 MHz 2dB Gain,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_combined_antenna_for_uhf_and_gps
+product_template_hae6020,HAE6020,GPS/UHF 470-527 MHz 1/4 Wave,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_combined_antenna_for_uhf_and_gps
+product_template_hae6024,HAE6024,GPS/UHF 470-494 MHz 3.5dB Gain,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_combined_antenna_for_uhf_and_gps
+product_template_hae6026,HAE6026,GPS/UHF 494-512 MHz 3.5dB Gain,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_combined_antenna_for_uhf_and_gps
+product_template_hae6028,HAE6028,"UHF Antenna Kit 470-494 MHz, 3 dB Gain, Through-hole Mount",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_combined_antenna_for_uhf_and_gps
+product_template_hae6029,HAE6029,"UHF Antenna Kit 403-527 MHz, 2 dB Gain, Through-hole Mount",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_combined_antenna_for_uhf_and_gps
+product_template_hae6030,HAE6030,"UHF Antenna Kit 470-527 MHz, 1/4 Wave, Through-hole Mount",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_combined_antenna_for_uhf_and_gps
+product_template_haf4029,HAF4029,"Combination GPS+RF, 806–941 MHz, 1/4 Wave, Through-hole Mount, Mini-U",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_combined_antenna_for_uhf_and_gps
+product_template_haf4030,HAF4030,"Combination GPS+RF, 806–941 MHz, 3dB gain, Through-hole Mount, Mini-U",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_combined_antenna_for_uhf_and_gps
+product_template_haf4032,HAF4032,"Combination GPS+RF, 806–941 MHz, 5dB gain, Through-hole Mount, Mini-U",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_combined_antenna_for_uhf_and_gps
+product_template_haf4033,HAF4033,"Combination GPS+RF, 806–941 MHz, 5dB gain, Through-hole Mount, Mini-U",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_combined_antenna_for_uhf_and_gps
+product_template_pmae4030,PMAE4030,"Combination GPS/UHF, 1/4 Wave Through-hole Mount Antenna (403-430MHz)",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_combined_antenna_for_uhf_and_gps
+product_template_pmae4031,PMAE4031,"Combination GPS/UHF, 1/4 Wave Through-hole Mount Mount Antenna (450-470MHz)",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_combined_antenna_for_uhf_and_gps
+product_template_pmae4032,PMAE4032,"Combination GPS/UHF, 3.5dB Gain Through-hole Mount Mount Antenna (406-420MHz)",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_combined_antenna_for_uhf_and_gps
+product_template_pmae4033,PMAE4033,"Combination GPS/UHF, 3.5dB Gain Through-hole Mount Mount Antenna (450-470MHz)",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_combined_antenna_for_uhf_and_gps
+product_template_pmae4034,PMAE4034,"Combination GPS/UHF, 5dB Gain Through-hole Mount Mount Antenna (450-470MHz)",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_combined_antenna_for_uhf_and_gps
+product_template_rad4214,RAD4214,"Combination GPS/VHF, 1/4 Wave Through-hole Mount Antenna (136-144 MHz)",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_combined_antenna_for_uhf_and_gps
+product_template_rad4215,RAD4215,"Combination GPS/VHF, 1/4 Wave Through-hole Mount Antenna (146-150.8 MHz)",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_combined_antenna_for_uhf_and_gps
+product_template_rad4216,RAD4216,"Combination GPS/VHF, 1/4 Wave Through-hole Mount Antenna (150.8-162 MHz)",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_combined_antenna_for_uhf_and_gps
+product_template_rad4217,RAD4217,"Combination GPS/VHF, 1/4 Wave Through-hole Mount Antenna (162-174 MHz)",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_combined_antenna_for_uhf_and_gps
+product_template_rad4218,RAD4218,"Combination GPS/VHF, 3.0dB Gain Through-hole Mount Antenna (146-172 MHz)",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_combined_antenna_for_uhf_and_gps
+product_template_pman4000,PMAN4000,Fixed Mount GPS Active Antenna,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_mobile_antenna_adding_gps_capability
+product_template_pman4001,PMAN4001,Window Mount GPS Active Antenna,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_mobile_antenna_adding_gps_capability
+product_template_pman4002,PMAN4002,Mag Mount GPS Active Antenna,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_mobile_antenna_adding_gps_capability
+product_template_had4006,HAD4006,"VHF 1/4 Wave Through-hole Mount Antenna, 136-144 MHz",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_mobile_antenna_excluding_gps_capability
+product_template_had4007,HAD4007,"VHF 1/4 Wave Through-hole Mount Antenna, 146-150.8 MHz",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_mobile_antenna_excluding_gps_capability
+product_template_had4008,HAD4008,"VHF 1/4 Wave Through-hole Mount Antenna, 150.8-162 MHz",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_mobile_antenna_excluding_gps_capability
+product_template_had4009,HAD4009,"VHF 1/4 Wave Through-hole Mount Antenna, 162-174 MHz",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_mobile_antenna_excluding_gps_capability
+product_template_had4022,HAD4022,"VHF 3.0dB Gain, Through-Hole Mount, Mini-U, 132-174 MHz",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_mobile_antenna_excluding_gps_capability
+product_template_hae4002,HAE4002,"UHF 1/4 Wave Through-hole Mount Antenna, 403-430 MHz",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_mobile_antenna_excluding_gps_capability
+product_template_hae4003,HAE4003,"UHF 1/4 Wave Through-hole Mount Antenna, 450-470 MHz",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_mobile_antenna_excluding_gps_capability
+product_template_hae4004,HAE4004,"UHF 1/4 Wave Through-hole Mount Antenna, 470-527 MHz",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_mobile_antenna_excluding_gps_capability
+product_template_hae4013,HAE4013,"UHF 3.5dB Gain Through-hole Mount Antenna, 494-512 MHz",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_mobile_antenna_excluding_gps_capability
+product_template_hae6022,HAE6022,"UHF 2dB Gain Trough-hole Mount Antenna, 403-470MHz",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_mobile_antenna_excluding_gps_capability
+product_template_rae4004arb,RAE4004ARB,"UHF 5dB Gain Through-hole Mount Antenna, 450-470 MHz",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_mobile_antenna_excluding_gps_capability
+product_template_rae4163arb,RAE4163ARB,"UHF Stubby Through-hole Mount Antenna, 410-430 MHz",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_mobile_antenna_excluding_gps_capability
+product_template_rae4164arb,RAE4164ARB,"UHF Stubby Through-hole Mount Antenna, 430-450 MHz",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_mobile_antenna_excluding_gps_capability
+product_template_rae4168arb,RAE4168ARB,"UHF Stubby Through-hole Mount Antenna, 450-470 MHz",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_mobile_antenna_excluding_gps_capability
+product_template_haf4013,HAF4013,"7/8/900 MHz, stubby, Through-hole Mount, Mini-U",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_800_900mhz_non_gps_antennas_only
+product_template_haf4025,HAF4025,"806–941 MHz, 1/4 Wave, Through-hole Mount, Mini-U",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_800_900mhz_non_gps_antennas_only
+product_template_haf4026,HAF4026,"806–941 MHz, 3 dB gain, Through-hole Mount, Mini-U",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_800_900mhz_non_gps_antennas_only
+product_template_haf4019,HAF4019,"Antenna only, 806–941 MHz, 1/4 Wave",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_replacement_antennas
+product_template_pman4004,PMAN4004,"Combo GPS+RF, Base Only, Through-hole Mount, Mini-U",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_replacement_antennas
+product_template_hkn4137,HKN4137,"Power Cable to Battery (10 feet, 15 amp)",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_cables
+product_template_hkn4191,HKN4191,"Power Cable to Battery (10 feet, 20 amp)",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_cables
+product_template_hkn4192,HKN4192,"Power Cable to Battery (20 feet, 20 amp)",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_cables
+product_template_hkn9327_r,HKN9327_R,Ignition Sense Cable,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_cables
+product_template_pmkn4163,PMKN4163,USB Programming Cable for Mobile MIC w/BT Gateway (PMMN4097),,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_cables
+product_template_rkn4136,RKN4136,Ignition Sense Cable,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_cables
+product_template_3060665a04,3060665A04,AC Power Supply Cable (works with GPN6145 Power Supply),,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_control_station_accessories
+product_template_gkn6266,GKN6266,DC Power Supply Cable (works with GPN6145 Power Supply),,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_control_station_accessories
+product_template_gln7318,GLN7318,Desktop Tray without Speaker,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_control_station_accessories
+product_template_gln7326,GLN7326,Desktop Tray with Speaker,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_control_station_accessories
+product_template_hkn9088,HKN9088,Mobile Mini-U Antenna Adapter - 8 Ft. Cable,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_control_station_accessories
+product_template_hln9457,HLN9457,"Hardware Kit for use with the Expanded Accessory Connector 
+ (includes 16 connector pins, five (5) 8"" wires with pins attached and an extra housing)",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_control_station_accessories
+product_template_hpn4007,HPN4007,Power Supply and Cable (1-60 Watt Models),,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_control_station_accessories
+product_template_pmln5072,PMLN5072,Hardware Kit for Rear Accessory Connector,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_control_station_accessories
+product_template_pmmn4098,PMMN4098,Desktop Microphone,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_control_station_accessories
+product_template_rmn5050,RMN5050,Desktop Microphone,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_control_station_accessories
+product_template_rsn4005,RSN4005,Desktop Tray with Speaker,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_control_station_accessories
+product_template_pmln7131,PMLN7131,MOTOTRBO Handheld Control Head for XPR 5550 /5550e/ 5580/5580e,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_handheld_control_head_accessories
+product_template_pmkn4174,PMKN4174,16ft Extension Cable for MOTOTRBO Handheld Control Head (for XPR 5550/5550e / 5580/5580e),,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_handheld_control_head_accessories
+product_template_rln4856,RLN4856,Footswitch with Remote PTT,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_handsfree_accessories
+product_template_rln4857,RLN4857,Pushbutton with Remote PTT,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_handsfree_accessories
+product_template_rln5926,RLN5926,Push Button PTT,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_handsfree_accessories
+product_template_rmn5054,RMN5054,IMPRES Visor Microphone,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_handsfree_accessories
+product_template_hsn8145,HSN8145,7.5 Watt External Speaker,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_loudspeakers
+product_template_rsn4001,RSN4001,13 Watt External Speaker,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_loudspeakers
+product_template_rsn4002,RSN4002,13 Watt External Speaker,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_loudspeakers
+product_template_rsn4003,RSN4003,7.5 Watt External Speaker,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_loudspeakers
+product_template_rsn4004,RSN4004,5 Watt External Speaker,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_loudspeakers
+product_template_3075336b07,3075336B07,Compact Microphone Replacement Cable,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_microphones
+product_template_3075336b10,3075336B10,Heavy Duty / Keypad Microphone Replacement Cable,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_microphones
+product_template_gmmn4065,GMMN4065,Visor Microphone (Omni-Direction). Supports Remote Monitor.,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_microphones
+product_template_hln9073,HLN9073,Microphone Hang-up Clip (requires install),,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_microphones
+product_template_hln9414,HLN9414,Microphone Hang-up Clip (Universal – no install required),,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_microphones
+product_template_hmn4098,HMN4098,IMPRES Telephone Style Handset,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_microphones
+product_template_pmkn4033,PMKN4033,Microphone Extension Cable for RMN5052 - 10 feet,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_microphones
+product_template_pmkn4034,PMKN4034,Microphone Extension Cable for RMN5052 - 20 feet,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_microphones
+product_template_pmmn4089,PMMN4089,Enhanced Keypad Microphone. Supports Remote Monitor.,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_microphones
+product_template_pmmn4090,PMMN4090,Compact Microphone with Clip. Does not support Remote Monitor.,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_microphones
+product_template_pmmn4091,PMMN4091,Heavy Duty Microphone. Does not support Remote Monitor.,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_microphones
+product_template_pmmn4097,PMMN4097,Mobile Mic with Bluetooth Gateway,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_microphones
+product_template_rln6490,RLN6490,XBT Behind-the-Neck Heavy Duty Headset with Bluetooth,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_microphones
+product_template_rln6491,RLN6491,XBT Headband Style Heavy Duty Headset with Bluetooth,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_microphones
+product_template_rmn5052,RMN5052,Compact Microphone,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_microphones
+product_template_rmn5053,RMN5053,IMPRES Heavy Duty Microphone,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_microphones
+product_template_rmn5065,RMN5065,IMPRES Keypad Microphone Alpha Numeric Display only),,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_microphones
+product_template_rmn5127,RMN5127,IMPRES 4-way Navigation Keypad Mic (Alpha numeric Display only),,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_microphones
+product_template_ftn6083,FTN6083,DIN Mount Kit,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_mounting_accessories
+product_template_hln9073,HLN9073,Microphone Hang-Up Clip (all microphones),,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_mounting_accessories
+product_template_hln9414,HLN9414,Universal Hang-Up Clip (all microphones),,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_mounting_accessories
+product_template_hkn9557,HKN9557,PL259/Mini-U Antenna Adapter - 8' Cable,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_mounting_accessories
+product_template_rln5933,RLN5933,In Dash (DIN) Mounting Kit,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_mounting_accessories
+product_template_rln6078,RLN6078,High Profile Trunnion Kit,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_mounting_accessories
+product_template_rln6079,RLN6079,Key Lock Trunnion Kit,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_mounting_accessories
+product_template_rln6465,RLN6465,In-Dash Mounting Kit - DIN,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_mounting_accessories
+product_template_rln6466,RLN6466,"Low Profile Trunnion Kit (this is the trunnion kit that ships standard with the XPR5350 / XPR5550/ XPR2500
+ radios (RLN6469), but is packaged for standalone sales)",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_mounting_accessories
+product_template_rln6467,RLN6467,High Profile Trunnion Kit,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_mounting_accessories
+product_template_rln6468,RLN6468,Key Lock Trunnion Kit,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_mounting_accessories
+product_template_pmkn4073,PMKN4073,MOTOTRBO Mobile Remote Mount 5 Meter Cable Kit to use with PMLN5404A,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_remote_mount_adaptor_kit_accessories
+product_template_pmkn4074,PMKN4074,MOTOTRBO Mobile Remote Mount 3 Meter Cable Kit to use with PMLN5404A,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_remote_mount_adaptor_kit_accessories
+product_template_pmln6404,PMLN6404,MOTOTRBO Mobile Remote Mount Adapter Kit,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_remote_mount_adaptor_kit_accessories
+product_template_pmkn4143,PMKN4143,XPR 5000/5000e Mobile Remote Mount 3 Meter Cable for use with PMLN6404,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_remote_mount_adaptor_kit_accessories
+product_template_pmkn4144,PMKN4144,XPR 5000/5000e Mobile Remote Mount 5 Meter Cable for use with PMLN6404,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_remote_mount_adaptor_kit_accessories
+product_template_pmln6404,PMLN6404,"XPR 5000/5000e Mobile Remote Mount Adaptor Kit (place orders on May 1 and shipments begin on May 15) Note: Firmware version R02.06.11 or later MUST be programmed into the Mobile radio unit for proper operation of the Remote Mount Control Head configuration. For in-trunk installation, may also need a 20' radio power cable HKN4192. Cables not included, please select from the choices above.",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_remote_mount_adaptor_kit_accessories
+product_template_hkln4291,HKLN4291,"Standard Button Kit, XPR™ 4500, XPR™ 4550 (Monitor, Scan, Backlight, Emergency,",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_replacement_button_kits
+product_template_hkln4293,HKLN4293,"Standard Button Kit, XPR™ 4300 (Monitor, Scan)",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_replacement_button_kits
+product_template_hkn6184,HKN6184,Mobile Front Programming Cable,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_service_equipment
+product_template_hln7001,HLN7001,Option Board Interface Kit,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_service_equipment
+product_template_hkvn4101,HKVN4101,"MOTOTRBO Radio Management (RM) license (Price quantity discount applies: 1 - 499; 500 - 999; 1000 - 4999; 5000 +). Radio Management (RM) provides a faster and more efficient way to manage and make updates to radios in a wired or over the air programming (OTAP) configuration. Each license allows for 1 additional radio to be added to RM database. Note: RM supports all MOTOTRBO radios in a wired configuration, but OTAP is not supported on the XPR4000 & XPR6000 series radios.",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_service_equipment
+product_template_pmkn4010,PMKN4010,Mobile and Repeater Rear Programming Cable,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_service_equipment
+product_template_pmkn4016,PMKN4016,"Mobile and Repeater Rear Programming, Test and Alignment Cable",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_service_equipment
+product_template_pmkn4018,PMKN4018,Mobile Rear Accessory Connector Universal Cable,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_service_equipment
+product_template_pmkn4147,PMKN4147,MMP Telco Programming Cable,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_service_equipment
+product_template_pmkn4148,PMKN4148,MAP Programming Cable w/ USB,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_service_equipment
+product_template_pmkn4149,PMKN4149,MAP Test Cable w/ USB,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_service_equipment
+product_template_pmkn4150,PMKN4150,MAP Test Cable w/ DB25,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_service_equipment
+product_template_pmkn4151,PMKN4151,MAP Universal Cable,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_service_equipment
+product_template_pmln5496,PMLN5496,MOTOTRBO Expansion Card (Option Board),,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_service_equipment
+product_template_rln4460,RLN4460,Test Box for Portables and Mobiles,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_service_equipment
+product_template_hkvn4362,HKVN4362,"For MOTOTRBO CPS/RM pricing and details, see the link below:",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_service_equipment
+product_template_hkvn4622,HKVN4622,https://docs.google.com/spreadsheets/d/1fXphrmVGAsO90UhN-Ijto5_HfuaYAcxPkAaVXFNtGt4/edit?usp=sharing,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_service_equipment
+product_template_68009613001,68009613001,MOTOTRBO XPR 2500 Alpha Numeric User Guide (PDF Only),,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_user_manuals
+product_template_68009620001,68009620001,XPR 2500 Basic Service Manual (PDF Only),,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_user_manuals
+product_template_68009515001,68009515001,MOTOTRBO XPR 5000 Series Mobile Basic Service Manual,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_user_manuals
+product_template_6880309t12,6880309T12,MOTOTRBO System Planner,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_user_manuals
+product_template_6880309t21,6880309T21,MOTOTRBO Mobile Basic Service Manual,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_user_manuals
+product_template_6880309t22,6880309T22,MOTOTRBO Mobile Detailed Service Manual,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_user_manuals
+product_template_6880309t23,6880309T23,MOTOTRBO Mobile Installation Guide,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_user_manuals
+product_template_hkln4284,HKLN4284,Mobile User Guide CD Kit (Includes User Guides in English and French Canadian),,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_user_manuals
+product_template_25012022001,25012022001,Power Supply for Dual Unit Charger,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_wireless_accessories
+product_template_aarln4885,AARLN4885,Receive-Only Earbud,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_wireless_accessories
+product_template_hln5391,HLN5391,"Hang Up Clip, required for vehicular charger",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_wireless_accessories
+product_template_nntn8125,NNTN8125,Operations Critical Wireless Earpiece with 12” cable,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_wireless_accessories
+product_template_nntn8127,NNTN8127,"Wireless Push-to-Talk Pod with power supply (Not compatible with SMARTNET/Privacy Plus, Connect Plus, or LTR/PassPort modes of operation)",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_wireless_accessories
+product_template_nntn8294,NNTN8294,"Operations Critical Wireless Earbud with 11.4” cable, inline mic, BLACK. Optimized to work with the Intelligent Audio feature. Must be ordered with NNTN8127 wireless PTT Pod",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_wireless_accessories
+product_template_nntn8295,NNTN8295,"Operations Critical Wireless Earbud with 45.7” cable, inline mic, BLACK. Optimized to work with the Intelligent Audio feature. Must be ordered with NNTN8127 wireless PTT Pod",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_wireless_accessories
+product_template_nntn8299,NNTN8299,Replacement Eartips,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_wireless_accessories
+product_template_nntn8361,NNTN8361,"Replacement ear tips kit for wireless ear buds (20 Small, 20 Medium, 20 Large and 10 clips)",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_wireless_accessories
+product_template_ntn2572,NTN2572,"Replacement Wireless Earpiece, 12” cable",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_wireless_accessories
+product_template_ntn2575,NTN2575,"Replacement Wireless Earpiece, 9.5” cable",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_wireless_accessories
+product_template_ntn8821,NTN8821,"Wireless Earpiece Maintenance Kit with 10 silicone ear tubes, 10 microphone seal strips and 2 foam windscreens for comport earpiece",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_wireless_accessories
+product_template_ntn8988,NTN8988,Ear strap for comport earpiece (pack of 10),,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_wireless_accessories
+product_template_pmln6246,PMLN6246,Swivel clip for Operations Critical and Enhanced Operations Critical Wireless pods,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_wireless_accessories
+product_template_pmln7120,PMLN7120,Replacement Dual Unit Charger,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_wireless_accessories
+product_template_pmln6716,PMLN6716,Vehicular Travel Charger,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_wireless_accessories
+product_template_pmln6743,PMLN6743,Replacement Swivel Clip for Long Range Wireless RSM,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_wireless_accessories
+product_template_pmln7052,PMLN7052,Operations Critical Wireless 1-Wire Surveillance kit with translucent tube,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_wireless_accessories
+product_template_pmln7203,PMLN7203,Flexible Fit Swivel Earpiece with Boom,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_wireless_accessories
+product_template_pmmn4097,PMMN4097,Replacement Mobile Microphone with Bluetooth Gateway,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_wireless_accessories
+product_template_pmnn4461,PMNN4461,Replacement Battery Li-Ion 1800T,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_wireless_accessories
+product_template_rln4941_xl,RLN4941_XL,Receive-Only Earpiece with Comfort Eartube,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_wireless_accessories
+product_template_rln5037,RLN5037,Eartube for comport earpiece (pack of 10),,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_wireless_accessories
+product_template_rln6500,RLN6500,Bluetooth Accessory Kit with NA Power Supply,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_wireless_accessories
+product_template_rln6544,RLN6544,Replacement Long Range Wireless RSM with Battery and Clip,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_wireless_accessories
+product_template_rln6550,RLN6550,"Wireless Earpiece, Bluetooth Accessory Kit Multi (Pack of 3 PMLN6397)",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_wireless_accessories
+product_template_rln6551,RLN6551,Long Range Wireless RSM with Mobile Mic Bluetooth Gateway & Vehicular Charger. Not compatible with Connect Plus mode of operation,,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_wireless_accessories
+product_template_rln6552,RLN6552,"Long Range Wireless RSM with Mobile Mic Bluetooth Gateway, No Charger, Not compatible with Connect Plus mode of operation",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_wireless_accessories
+product_template_rln6556,RLN6556,"Bluetooth Accessory Kit with flexible earpiece, Bluetooth pod, and charging cradle with power supply",,TRUE,none,product_category_motorola_professional_accessories_digital_pro_tier_mobile_accessories_wireless_accessories

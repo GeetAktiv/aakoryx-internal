@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <!-- Form view: show Lead ID at the top and read-only -->
+    <record id="view_crm_lead_form_add_lead_uid" model="ir.ui.view">
+        <field name="name">crm.lead.form.add.lead_uid</field>
+        <field name="model">crm.lead</field>
+        <field name="inherit_id" ref="crm.crm_lead_view_form"/>
+        <field name="arch" type="xml">
+            <xpath expr="//field[@name='source_id']" position="attributes">
+                <attribute name="required">1</attribute>
+            </xpath>
+
+            <xpath expr="//field[@name='tag_ids']" position="after">
+                <field name="create_date"/>
+            </xpath>
+
+            <xpath expr="//group[@name='lead_partner']/field[@name='partner_id']" position="attributes">
+                <attribute name="string">Customer Name</attribute>
+                <attribute name="required">1</attribute>
+            </xpath>
+            <xpath expr="//group[@name='opportunity_partner']/field[@name='partner_id']" position="attributes">
+                <attribute name="string">Customer Name</attribute>
+                <attribute name="required">1</attribute>
+            </xpath>
+
+            <xpath expr="//group[@name='lead_partner']/field[@name='partner_id']" position="before">
+                <field name="lead_uid" readonly="1"/>
+            </xpath>
+            <xpath expr="//group[@name='opportunity_partner']/field[@name='partner_id']" position="before">
+                <field name="lead_uid" readonly="1"/>
+            </xpath>
+
+            <xpath expr="//group[@name='lead_partner']" position="inside">
+                <field name="service_type"/>
+                <field name="initial_request" placeholder="Enter a brief description of the customer's need..."/>
+            </xpath>
+            <xpath expr="//group[@name='opportunity_partner']" position="inside">
+                <field name="service_type"/>
+                <field name="initial_request" placeholder="Enter a brief description of the customer's need..."/>
+            </xpath>
+
+            <xpath expr="//field[@name='user_id']" position="attributes">
+                <attribute name="string">Assigned To</attribute>
+                <attribute name="required">1</attribute>
+            </xpath>
+
+        </field>
+    </record>
+
+</odoo>

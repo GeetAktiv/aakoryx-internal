@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record id="product_template_form_view_inherited_aak_industry_fsm_email" model="ir.ui.view">
+        <field name="name">product.template.product.form.inherited.aak.industry.fsm.email</field>
+        <field name="model">product.template</field>
+        <field name="inherit_id" ref="product.product_template_form_view"/>
+        <field name="arch" type="xml">
+                <xpath expr="//page[@name='general_information']//field[@name='product_tooltip']" position="after">
+                    <field name="under_warranty"/>
+                    <field name="warranty_date" invisible="not under_warranty" required="under_warranty"/>
+                </xpath>
+        </field>
+    </record>
+</odoo>

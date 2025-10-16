@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <!-- Project Task Stages -->
+    <record id="project_task_type_created" model="project.task.type">
+        <field name="name">Created</field>
+        <field name="sequence">1</field>
+        <field name="project_ids" eval="[(4, ref('aak_sales_data.fsm_project_tc_2way_radio_install'))]"/>
+    </record>
+
+    <record id="project_task_type_bom_verified" model="project.task.type">
+        <field name="name">BOM Verified</field>
+        <field name="sequence">2</field>
+        <field name="project_ids" eval="[(4, ref('aak_sales_data.fsm_project_tc_2way_radio_install'))]"/>
+    </record>
+
+    <record id="project_task_type_scheduled" model="project.task.type">
+        <field name="name">Scheduled</field>
+        <field name="sequence">3</field>
+        <field name="project_ids" eval="[(4, ref('aak_sales_data.fsm_project_tc_2way_radio_install'))]"/>
+    </record>
+
+    <record id="project_task_type_in_progress" model="project.task.type">
+        <field name="name">In Progress</field>
+        <field name="sequence">4</field>
+        <field name="project_ids" eval="[(4, ref('aak_sales_data.fsm_project_tc_2way_radio_install'))]"/>
+    </record>
+
+    <record id="project_task_type_completed" model="project.task.type">
+        <field name="name">Completed</field>
+        <field name="sequence">5</field>
+        <field name="project_ids" eval="[(4, ref('aak_sales_data.fsm_project_tc_2way_radio_install'))]"/>
+    </record>
+</odoo>
