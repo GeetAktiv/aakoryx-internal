@@ -5,7 +5,7 @@
 {
     "name": "AAK CRM Customer Feedback",
     "summary": "Module for handling customer feedback surveys in CRM",
-    "version": "18.0.1.1.0",
+    "version": "18.0.1.2.0",
     "author": "AAKORYX",
     "website": "https://www.aakoryx.com/",
     "license": "OPL-1",
@@ -15,6 +15,7 @@
         'data/survey_data.xml',
         'data/crm_lead_cron.xml',
         'data/mail_template.xml',
+        'views/crm_team_views.xml',
     ],
     "assets": {},
     "application": False,

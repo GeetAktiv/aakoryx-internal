@@ -9,7 +9,15 @@ Features
 --------
 - Automatically sends feedback survey after a project task is marked as done.
 - Schedules daily activities for newly created CRM leads.
-- Includes questions on service satisfaction, installation quality, safety, and timeliness.
+- Includes questions on service satisfaction, installation quality, safety, timeliness, and additional services.
+- New survey questions include:
+  - What could we do to improve your overall experience?
+  - What additional solutions would you like more information about?
+    - Alarm Systems
+    - Video Surveillance
+    - Access Control
+    - Fire Detection
+    - Monitoring Services
 
 Installation
 ------------

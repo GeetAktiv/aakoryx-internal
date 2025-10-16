@@ -26,3 +26,23 @@ All notable changes to this project will be documented in this file.
 
 ### Improvements
 - Aligns feedback collection with task completion, allowing more accurate customer experience tracking.
+
+## [18.0.1.2.0] - 2025-10-16 | Update
+### Added
+- **New Survey Questions**: Added new survey questions for customer feedback:
+  - What could we do to improve your overall experience?
+  - What additional solutions would you like more information about?
+  - Choices for additional solutions include:
+    - Alarm Systems
+    - Video Surveillance
+    - Access Control
+    - Fire Detection
+    - Monitoring Services
+  - These questions are now included in the "Customer Satisfaction Survey."
+
+### Changed
+- **Project Task FSM Validation**: Refined the logic for determining the service type (`security`, `two_way_radio`), and dynamically selecting the corresponding survey.
+
+### Improvements
+- Enhanced the customer feedback survey to gather more actionable insights about the services provided.
+- Improved the task validation process by simplifying the service type-based survey selection logic.
