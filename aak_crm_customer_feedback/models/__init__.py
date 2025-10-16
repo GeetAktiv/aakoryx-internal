@@ -4,3 +4,4 @@
 
 from . import crm_lead_activity
 from . import project_task
+from . import crm_team

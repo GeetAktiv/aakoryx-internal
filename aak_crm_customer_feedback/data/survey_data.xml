@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <odoo>
     <!-- Create a new survey -->
-    <record id="survey_customer_feedback" model="survey.survey">
-        <field name="title">Customer Feedback Survey</field>
+    <record id="customer_satisfaction_survey" model="survey.survey">
+        <field name="title">Customer Satisfaction Survey</field>
         <field name="description">
-            We value your feedback! Please answer these quick questions to help us improve.
+            We value your feedback! Please answer these questions to help us improve our security products and services.
         </field>
         <field name="active">True</field>
         <field name="survey_type">survey</field>
         <field name="questions_layout">one_page</field>
     </record>
 
-    <!-- Question 1 -->
+    <!-- Question 1: Satisfaction with service -->
     <record id="survey_question_satisfaction" model="survey.question">
-        <field name="survey_id" ref="survey_customer_feedback"/>
-        <field name="title">How satisfied are you with our service?</field>
+        <field name="survey_id" ref="customer_satisfaction_survey"/>
+        <field name="title">How satisfied are you with the security products and installation services you received from
+            Lauttamus Security?
+        </field>
         <field name="question_type">simple_choice</field>
         <field name="constr_mandatory">True</field>
         <field name="sequence">1</field>
@@ -42,86 +44,381 @@
         <field name="value">Very Dissatisfied</field>
     </record>
 
-    <!-- Question 2 -->
-    <record id="survey_question_comments" model="survey.question">
-        <field name="survey_id" ref="survey_customer_feedback"/>
-        <field name="title">What can we do to improve?</field>
-        <field name="question_type">text_box</field>
-        <field name="constr_mandatory">False</field>
+    <!-- Question 2: Performance and reliability -->
+    <record id="survey_question_performance_reliability" model="survey.question">
+        <field name="survey_id" ref="customer_satisfaction_survey"/>
+        <field name="title">How would you rate the performance and reliability of your security system (alarm, cameras,
+            or access control)?
+        </field>
+        <field name="question_type">simple_choice</field>
+        <field name="constr_mandatory">True</field>
         <field name="sequence">2</field>
     </record>
 
-    <!-- Question 3: Tower Installation Quality -->
-    <record id="survey_question_tower_quality" model="survey.question">
-        <field name="survey_id" ref="survey_customer_feedback"/>
-        <field name="title">How would you rate the overall quality of the tower installation?</field>
+    <!-- Choices for Question 2 -->
+    <record id="survey_question_performance_reliability_opt1" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_performance_reliability"/>
+        <field name="value">Excellent</field>
+    </record>
+    <record id="survey_question_performance_reliability_opt2" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_performance_reliability"/>
+        <field name="value">Good</field>
+    </record>
+    <record id="survey_question_performance_reliability_opt3" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_performance_reliability"/>
+        <field name="value">Fair</field>
+    </record>
+    <record id="survey_question_performance_reliability_opt4" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_performance_reliability"/>
+        <field name="value">Poor</field>
+    </record>
+
+    <!-- Question 3: Satisfaction with technicians -->
+    <record id="survey_question_technician_satisfaction" model="survey.question">
+        <field name="survey_id" ref="customer_satisfaction_survey"/>
+        <field name="title">How satisfied are you with the professionalism and knowledge of our technicians and
+            installers?
+        </field>
         <field name="question_type">simple_choice</field>
         <field name="constr_mandatory">True</field>
         <field name="sequence">3</field>
     </record>
 
-    <record id="survey_question_tower_quality_opt1" model="survey.question.answer">
-        <field name="question_id" ref="survey_question_tower_quality"/>
-        <field name="value">Excellent</field>
+    <!-- Choices for Question 3 -->
+    <record id="survey_question_technician_satisfaction_opt1" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_technician_satisfaction"/>
+        <field name="value">Very Satisfied</field>
     </record>
-    <record id="survey_question_tower_quality_opt2" model="survey.question.answer">
-        <field name="question_id" ref="survey_question_tower_quality"/>
-        <field name="value">Good</field>
+    <record id="survey_question_technician_satisfaction_opt2" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_technician_satisfaction"/>
+        <field name="value">Satisfied</field>
     </record>
-    <record id="survey_question_tower_quality_opt3" model="survey.question.answer">
-        <field name="question_id" ref="survey_question_tower_quality"/>
-        <field name="value">Average</field>
+    <record id="survey_question_technician_satisfaction_opt3" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_technician_satisfaction"/>
+        <field name="value">Neutral</field>
     </record>
-    <record id="survey_question_tower_quality_opt4" model="survey.question.answer">
-        <field name="question_id" ref="survey_question_tower_quality"/>
-        <field name="value">Poor</field>
+    <record id="survey_question_technician_satisfaction_opt4" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_technician_satisfaction"/>
+        <field name="value">Dissatisfied</field>
+    </record>
+    <record id="survey_question_technician_satisfaction_opt5" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_technician_satisfaction"/>
+        <field name="value">Very Dissatisfied</field>
     </record>
 
-    <!-- Question 4: Safety Compliance -->
-    <record id="survey_question_tower_safety" model="survey.question">
-        <field name="survey_id" ref="survey_customer_feedback"/>
-        <field name="title">Was the tower installation done following safety standards?</field>
+    <!-- Question 4: Response to service requests -->
+    <record id="survey_question_service_response" model="survey.question">
+        <field name="survey_id" ref="customer_satisfaction_survey"/>
+        <field name="title">Did our team respond promptly to your service or support requests?</field>
         <field name="question_type">simple_choice</field>
         <field name="constr_mandatory">True</field>
         <field name="sequence">4</field>
     </record>
 
-    <record id="survey_question_tower_safety_opt1" model="survey.question.answer">
-        <field name="question_id" ref="survey_question_tower_safety"/>
-        <field name="value">Yes, completely safe</field>
+    <!-- Choices for Question 4 -->
+    <record id="survey_question_service_response_opt1" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_service_response"/>
+        <field name="value">Always</field>
     </record>
-    <record id="survey_question_tower_safety_opt2" model="survey.question.answer">
-        <field name="question_id" ref="survey_question_tower_safety"/>
-        <field name="value">Partially safe</field>
+    <record id="survey_question_service_response_opt2" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_service_response"/>
+        <field name="value">Usually</field>
     </record>
-    <record id="survey_question_tower_safety_opt3" model="survey.question.answer">
-        <field name="question_id" ref="survey_question_tower_safety"/>
-        <field name="value">No, unsafe conditions</field>
+    <record id="survey_question_service_response_opt3" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_service_response"/>
+        <field name="value">Sometimes</field>
+    </record>
+    <record id="survey_question_service_response_opt4" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_service_response"/>
+        <field name="value">Rarely</field>
+    </record>
+    <record id="survey_question_service_response_opt5" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_service_response"/>
+        <field name="value">Never</field>
     </record>
 
-    <!-- Question 5: Installation Time -->
-    <record id="survey_question_tower_time" model="survey.question">
-        <field name="survey_id" ref="survey_customer_feedback"/>
-        <field name="title">Was the tower installation completed within the expected time?</field>
+    <!-- Question 5: Likelihood of recommendation -->
+    <record id="survey_question_recommendation" model="survey.question">
+        <field name="survey_id" ref="customer_satisfaction_survey"/>
+        <field name="title">How likely are you to recommend Lauttamus Security to others?</field>
         <field name="question_type">simple_choice</field>
         <field name="constr_mandatory">True</field>
         <field name="sequence">5</field>
     </record>
 
-    <record id="survey_question_tower_time_opt1" model="survey.question.answer">
-        <field name="question_id" ref="survey_question_tower_time"/>
-        <field name="value">Ahead of schedule</field>
+    <!-- Choices for Question 5 -->
+    <record id="survey_question_recommendation_opt1" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_recommendation"/>
+        <field name="value">Very Likely</field>
     </record>
-    <record id="survey_question_tower_time_opt2" model="survey.question.answer">
-        <field name="question_id" ref="survey_question_tower_time"/>
-        <field name="value">On time</field>
+    <record id="survey_question_recommendation_opt2" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_recommendation"/>
+        <field name="value">Likely</field>
     </record>
-    <record id="survey_question_tower_time_opt3" model="survey.question.answer">
-        <field name="question_id" ref="survey_question_tower_time"/>
-        <field name="value">Slightly delayed</field>
+    <record id="survey_question_recommendation_opt3" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_recommendation"/>
+        <field name="value">Neutral</field>
     </record>
-    <record id="survey_question_tower_time_opt4" model="survey.question.answer">
-        <field name="question_id" ref="survey_question_tower_time"/>
-        <field name="value">Significantly delayed</field>
+    <record id="survey_question_recommendation_opt4" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_recommendation"/>
+        <field name="value">Unlikely</field>
+    </record>
+    <record id="survey_question_recommendation_opt5" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_recommendation"/>
+        <field name="value">Very Unlikely</field>
+    </record>
+
+    <!-- Question 6: Improvements -->
+    <record id="survey_question_improvements" model="survey.question">
+        <field name="survey_id" ref="customer_satisfaction_survey"/>
+        <field name="title">What could we do to improve your overall experience?</field>
+        <field name="question_type">text_box</field>
+        <field name="constr_mandatory">False</field>
+        <field name="sequence">6</field>
+    </record>
+
+    <!-- Question 7: Additional solutions -->
+    <record id="survey_question_additional_solutions" model="survey.question">
+        <field name="survey_id" ref="customer_satisfaction_survey"/>
+        <field name="title">What additional solutions would you like more information about?</field>
+        <field name="question_type">multiple_choice</field>
+        <field name="constr_mandatory">False</field>
+        <field name="sequence">7</field>
+    </record>
+
+    <!-- Choices for Question 7 -->
+    <record id="survey_question_additional_solutions_opt1" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_additional_solutions"/>
+        <field name="value">Alarm Systems</field>
+    </record>
+    <record id="survey_question_additional_solutions_opt2" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_additional_solutions"/>
+        <field name="value">Video Surveillance</field>
+    </record>
+    <record id="survey_question_additional_solutions_opt3" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_additional_solutions"/>
+        <field name="value">Access Control</field>
+    </record>
+    <record id="survey_question_additional_solutions_opt4" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_additional_solutions"/>
+        <field name="value">Fire Detection</field>
+    </record>
+    <record id="survey_question_additional_solutions_opt5" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_additional_solutions"/>
+        <field name="value">Monitoring Services</field>
+    </record>
+    <record id="survey_question_additional_solutions_opt6" model="survey.question.answer">
+        <field name="question_id" ref="survey_question_additional_solutions"/>
+        <field name="value">Other</field>
+    </record>
+
+    <record id="two_way_radio_and_communications_feedback_survey" model="survey.survey">
+        <field name="title">Two-Way Radio &amp; Communications Customer Survey</field>
+        <field name="description">
+            We value your feedback! Please answer these questions to help us improve our communications products and
+            services.
+        </field>
+        <field name="active">True</field>
+        <field name="survey_type">survey</field>
+        <field name="questions_layout">one_page</field>
+    </record>
+
+    <!-- Question 1: Satisfaction with products and services -->
+    <record id="survey_communications_question_satisfaction" model="survey.question">
+        <field name="survey_id" ref="two_way_radio_and_communications_feedback_survey"/>
+        <field name="title">How satisfied are you with the products and services you received from Lauttamus
+            Communications?
+        </field>
+        <field name="question_type">simple_choice</field>
+        <field name="constr_mandatory">True</field>
+        <field name="sequence">1</field>
+    </record>
+
+    <!-- Choices for Question 1 -->
+    <record id="survey_communications_question_satisfaction_opt1" model="survey.question.answer">
+        <field name="question_id" ref="survey_communications_question_satisfaction"/>
+        <field name="value">Very Satisfied</field>
+    </record>
+    <record id="survey_communications_question_satisfaction_opt2" model="survey.question.answer">
+        <field name="question_id" ref="survey_communications_question_satisfaction"/>
+        <field name="value">Satisfied</field>
+    </record>
+    <record id="survey_communications_question_satisfaction_opt3" model="survey.question.answer">
+        <field name="question_id" ref="survey_communications_question_satisfaction"/>
+        <field name="value">Neutral</field>
+    </record>
+    <record id="survey_communications_question_satisfaction_opt4" model="survey.question.answer">
+        <field name="question_id" ref="survey_communications_question_satisfaction"/>
+        <field name="value">Dissatisfied</field>
+    </record>
+    <record id="survey_communications_question_satisfaction_opt5" model="survey.question.answer">
+        <field name="question_id" ref="survey_communications_question_satisfaction"/>
+        <field name="value">Very Dissatisfied</field>
+    </record>
+
+    <!-- Question 2: Performance and reliability -->
+    <record id="survey_communications_question_performance_reliability" model="survey.question">
+        <field name="survey_id" ref="two_way_radio_and_communications_feedback_survey"/>
+        <field name="title">How would you rate the performance and reliability of your Lauttamus-provided radio or
+            communications system?
+        </field>
+        <field name="question_type">simple_choice</field>
+        <field name="constr_mandatory">True</field>
+        <field name="sequence">2</field>
+    </record>
+
+    <!-- Choices for Question 2 -->
+    <record id="survey_communications_question_performance_reliability_opt1" model="survey.question.answer">
+        <field name="question_id" ref="survey_communications_question_performance_reliability"/>
+        <field name="value">Excellent</field>
+    </record>
+    <record id="survey_communications_question_performance_reliability_opt2" model="survey.question.answer">
+        <field name="question_id" ref="survey_communications_question_performance_reliability"/>
+        <field name="value">Good</field>
+    </record>
+    <record id="survey_communications_question_performance_reliability_opt3" model="survey.question.answer">
+        <field name="question_id" ref="survey_communications_question_performance_reliability"/>
+        <field name="value">Fair</field>
+    </record>
+    <record id="survey_communications_question_performance_reliability_opt4" model="survey.question.answer">
+        <field name="question_id" ref="survey_communications_question_performance_reliability"/>
+        <field name="value">Poor</field>
+    </record>
+
+    <!-- Question 3: Satisfaction with sales and service team -->
+    <record id="survey_communications_question_technician_satisfaction" model="survey.question">
+        <field name="survey_id" ref="two_way_radio_and_communications_feedback_survey"/>
+        <field name="title">How satisfied are you with the professionalism and knowledge of our sales and service
+            team?
+        </field>
+        <field name="question_type">simple_choice</field>
+        <field name="constr_mandatory">True</field>
+        <field name="sequence">3</field>
+    </record>
+
+    <!-- Choices for Question 3 -->
+    <record id="survey_communications_question_technician_satisfaction_opt1" model="survey.question.answer">
+        <field name="question_id" ref="survey_communications_question_technician_satisfaction"/>
+        <field name="value">Very Satisfied</field>
+    </record>
+    <record id="survey_communications_question_technician_satisfaction_opt2" model="survey.question.answer">
+        <field name="question_id" ref="survey_communications_question_technician_satisfaction"/>
+        <field name="value">Satisfied</field>
+    </record>
+    <record id="survey_communications_question_technician_satisfaction_opt3" model="survey.question.answer">
+        <field name="question_id" ref="survey_communications_question_technician_satisfaction"/>
+        <field name="value">Neutral</field>
+    </record>
+    <record id="survey_communications_question_technician_satisfaction_opt4" model="survey.question.answer">
+        <field name="question_id" ref="survey_communications_question_technician_satisfaction"/>
+        <field name="value">Dissatisfied</field>
+    </record>
+    <record id="survey_communications_question_technician_satisfaction_opt5" model="survey.question.answer">
+        <field name="question_id" ref="survey_communications_question_technician_satisfaction"/>
+        <field name="value">Very Dissatisfied</field>
+    </record>
+
+    <!-- Question 4: Timeliness of response -->
+    <record id="survey_communications_question_service_response" model="survey.question">
+        <field name="survey_id" ref="two_way_radio_and_communications_feedback_survey"/>
+        <field name="title">Did our team respond to your requests or service needs in a timely manner?</field>
+        <field name="question_type">simple_choice</field>
+        <field name="constr_mandatory">True</field>
+        <field name="sequence">4</field>
+    </record>
+
+    <!-- Choices for Question 4 -->
+    <record id="survey_communications_question_service_response_opt1" model="survey.question.answer">
+        <field name="question_id" ref="survey_communications_question_service_response"/>
+        <field name="value">Always</field>
+    </record>
+    <record id="survey_communications_question_service_response_opt2" model="survey.question.answer">
+        <field name="question_id" ref="survey_communications_question_service_response"/>
+        <field name="value">Usually</field>
+    </record>
+    <record id="survey_communications_question_service_response_opt3" model="survey.question.answer">
+        <field name="question_id" ref="survey_communications_question_service_response"/>
+        <field name="value">Sometimes</field>
+    </record>
+    <record id="survey_communications_question_service_response_opt4" model="survey.question.answer">
+        <field name="question_id" ref="survey_communications_question_service_response"/>
+        <field name="value">Rarely</field>
+    </record>
+    <record id="survey_communications_question_service_response_opt5" model="survey.question.answer">
+        <field name="question_id" ref="survey_communications_question_service_response"/>
+        <field name="value">Never</field>
+    </record>
+
+    <!-- Question 5: Likelihood of recommendation -->
+    <record id="survey_communications_question_recommendation" model="survey.question">
+        <field name="survey_id" ref="two_way_radio_and_communications_feedback_survey"/>
+        <field name="title">How likely are you to recommend Lauttamus Communications to others?</field>
+        <field name="question_type">simple_choice</field>
+        <field name="constr_mandatory">True</field>
+        <field name="sequence">5</field>
+    </record>
+
+    <!-- Choices for Question 5 -->
+    <record id="survey_communications_question_recommendation_opt1" model="survey.question.answer">
+        <field name="question_id" ref="survey_communications_question_recommendation"/>
+        <field name="value">Very Likely</field>
+    </record>
+    <record id="survey_communications_question_recommendation_opt2" model="survey.question.answer">
+        <field name="question_id" ref="survey_communications_question_recommendation"/>
+        <field name="value">Likely</field>
+    </record>
+    <record id="survey_communications_question_recommendation_opt3" model="survey.question.answer">
+        <field name="question_id" ref="survey_communications_question_recommendation"/>
+        <field name="value">Neutral</field>
+    </record>
+    <record id="survey_communications_question_recommendation_opt4" model="survey.question.answer">
+        <field name="question_id" ref="survey_communications_question_recommendation"/>
+        <field name="value">Unlikely</field>
+    </record>
+    <record id="survey_communications_question_recommendation_opt5" model="survey.question.answer">
+        <field name="question_id" ref="survey_communications_question_recommendation"/>
+        <field name="value">Very Unlikely</field>
+    </record>
+
+    <!-- Question 6: Improvements -->
+    <record id="survey_communications_question_improvements" model="survey.question">
+        <field name="survey_id" ref="two_way_radio_and_communications_feedback_survey"/>
+        <field name="title">What could we do to improve your experience?</field>
+        <field name="question_type">text_box</field>
+        <field name="constr_mandatory">False</field>
+        <field name="sequence">6</field>
+    </record>
+
+    <!-- Question 7: Solutions of interest -->
+    <record id="survey_communications_question_solutions_of_interest" model="survey.question">
+        <field name="survey_id" ref="two_way_radio_and_communications_feedback_survey"/>
+        <field name="title">What type of communications solutions are you most interested in learning more
+            about?
+        </field>
+        <field name="question_type">multiple_choice</field>
+        <field name="constr_mandatory">False</field>
+        <field name="sequence">7</field>
+    </record>
+
+    <!-- Choices for Question 7 -->
+    <record id="survey_communications_question_solutions_of_interest_opt1" model="survey.question.answer">
+        <field name="question_id" ref="survey_communications_question_solutions_of_interest"/>
+        <field name="value">Two-Way Radios</field>
+    </record>
+    <record id="survey_communications_question_solutions_of_interest_opt2" model="survey.question.answer">
+        <field name="question_id" ref="survey_communications_question_solutions_of_interest"/>
+        <field name="value">Dispatch Consoles</field>
+    </record>
+    <record id="survey_communications_question_solutions_of_interest_opt3" model="survey.question.answer">
+        <field name="question_id" ref="survey_communications_question_solutions_of_interest"/>
+        <field name="value">LTE/Broadband Solutions</field>
+    </record>
+    <record id="survey_communications_question_solutions_of_interest_opt4" model="survey.question.answer">
+        <field name="question_id" ref="survey_communications_question_solutions_of_interest"/>
+        <field name="value">In-Building Coverage (DAS/BDA)</field>
+    </record>
+    <record id="survey_communications_question_solutions_of_interest_opt5" model="survey.question.answer">
+        <field name="question_id" ref="survey_communications_question_solutions_of_interest"/>
+        <field name="value">Other</field>
     </record>
 </odoo>
