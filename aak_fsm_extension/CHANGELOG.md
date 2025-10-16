@@ -15,3 +15,16 @@
 
 ## [18.0.1.2.0] - 2025-10-16
 - Added Vehicle smart button to the Project Task form view.
+
+## [18.0.1.3.0] - 2025-10-16
+- Added new fields in Fleet Vehicle:
+    - `vehicle_capacity_type`
+    - `tool`
+    - `rack`
+    - `capacity`
+- Introduced automatic vehicle assignment to Project Tasks during Sale Order confirmation:
+    - <10 components → Light truck (F-150 class)
+    - 10–20 components → Medium truck (F-250 class)
+    - >20 components → Heavy truck (F-350 class)
+- Updated module dependencies to include `fleet`.
+- Added new inherited Fleet Vehicle form view to display the above fields.

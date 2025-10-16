@@ -9,6 +9,8 @@ This module extends the Field Service Management (FSM) by adding extra features:
 - Vehicle and reference document handling
 - Link products from related sale orders to tasks
 - View linked products directly from task form
+- **Automatic vehicle assignment based on sale order component count**
+- **Extended Fleet Vehicle model with capacity type, tool, rack, and capacity fields**
 
 Dependencies:
 -------------
@@ -16,10 +18,11 @@ Dependencies:
 * mrp (Manufacturing)
 * sale
 * industry_fsm_stock
+* fleet
 
 Installation:
 =============
-Simply install this module after the `industry_fsm`, `mrp`, `sale`, and `industry_fsm_stock` modules.
+Simply install this module after the `industry_fsm`, `mrp`, `sale`, `industry_fsm_stock`, and `fleet` modules.
 
 Company:
 --------
